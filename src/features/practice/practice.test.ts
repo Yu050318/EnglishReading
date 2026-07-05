@@ -1,0 +1,3 @@
+import{describe,expect,it}from'vitest';import{buildQueue,filterQuestions,isCorrect}from'./practice';
+const q=(id:string,category='other')=>({id,category,question:id,source:['s'],answer:['A'],options:[{key:'A',text:'a'},{key:'B',text:'b'}],type:'single_choice',explanation:'',ocrConfidence:null,reviewStatus:'verified',fingerprint:'a'.repeat(64)})as any;
+describe('practice',()=>{it('filters',()=>expect(filterQuestions([q('1'),q('2','news_english')],{category:'news_english'}).map(x=>x.id)).toEqual(['2']));it('does not repeat',()=>expect(new Set(buildQueue([q('1'),q('2'),q('3')],true,'all').map(x=>x.id)).size).toBe(3));it('scores',()=>expect(isCorrect(q('1'),['A'])).toBe(true))});

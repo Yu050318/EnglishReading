@@ -1,0 +1,12 @@
+{
+  "structuredDocuments": [
+    "第一次测试.docx",
+    "第三次测试.docx",
+    "第二次测试.docx"
+  ],
+  "structuredRecognized": 120,
+  "ocrFilesInspected": 2,
+  "ocrPagesInspected": 99,
+  "ocrCandidatesAccepted": 0,
+  "ocrPolicy": "OCR pages are retained for later manual segmentation; no ambiguous OCR candidate is promoted automatically."
+}
