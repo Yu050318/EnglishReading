@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { buildMemorizeQueue, clampMemorizeIndex } from './memorize';
+import { buildMemorizeQueue, clampMemorizeIndex, parseMemorizeJump } from './memorize';
 import type { Question } from '../../data/questionSchema';
 
 const question = (id: string, category: Question['category']): Question => ({
@@ -28,5 +28,19 @@ describe('memorize helpers', () => {
     expect(clampMemorizeIndex(-1, 2)).toBe(0);
     expect(clampMemorizeIndex(4, 2)).toBe(1);
     expect(clampMemorizeIndex(4, 0)).toBe(0);
+  });
+
+  it('converts a valid one-based question number to an index', () => {
+    expect(parseMemorizeJump('1', 10)).toEqual({ ok: true, index: 0 });
+    expect(parseMemorizeJump('10', 10)).toEqual({ ok: true, index: 9 });
+  });
+
+  it.each(['', '0', '-1', '1.5', 'abc', '11'])(
+    'rejects invalid question number %s',
+    value => expect(parseMemorizeJump(value, 10)).toEqual({ ok: false }),
+  );
+
+  it('rejects jumps when the queue is empty', () => {
+    expect(parseMemorizeJump('1', 0)).toEqual({ ok: false });
   });
 });

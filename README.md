@@ -14,6 +14,21 @@ npm run dev
 
 访问 Vite 输出的本地地址。站点使用 `HashRouter`，可直接部署到静态托管。
 
+## Windows 一键启动
+
+双击项目根目录的 `启动网站.bat`。首次运行会自动安装依赖，随后浏览器会打开 `http://localhost:5173`。
+
+停止网站：在启动窗口按 `Ctrl+C`，或直接关闭窗口。
+
+### 手机访问
+
+1. 手机与电脑连接同一 Wi-Fi。
+2. 双击 `启动网站.bat`。
+3. 在手机浏览器打开启动窗口中 Vite 显示的 `Network` 地址，例如 `http://192.168.1.8:5173`。
+4. Windows 防火墙首次询问时，允许 Node.js 使用专用网络。
+
+手机不能使用 `localhost:5173`，因为手机上的 `localhost` 指向手机本身。
+
 ## 部署
 
 - Vercel：导入仓库，Framework 选 Vite，Build Command 为 `npm run build`，Output Directory 为 `dist`。
