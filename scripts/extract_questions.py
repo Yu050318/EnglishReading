@@ -42,6 +42,12 @@ def source_label(path: Path) -> str:
     return path.name
 
 
+def category_for_document(path: Path, question: str) -> str:
+    if source_label(path) == "yxq英语题库.docx":
+        return "vocabulary"
+    return category_for(question)
+
+
 def structured_documents() -> list[Path]:
     if YXQ_DOCUMENT.exists():
         return [YXQ_DOCUMENT]
@@ -96,7 +102,7 @@ def parse_document(path: Path) -> list[dict]:
         records.append({
             "id": f"q_{fp[:16]}", "type": question_type, "question": question,
             "options": options, "answer": [answer] if answer else [],
-            "category": category_for(question), "source": [f"{source_label(path)}#{number}"],
+            "category": category_for_document(path, question), "source": [f"{source_label(path)}#{number}"],
             "explanation": "", "ocrConfidence": None,
             "reviewStatus": "verified" if complete else "needs_review", "fingerprint": fp,
         })

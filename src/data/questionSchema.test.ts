@@ -10,6 +10,7 @@ const valid = {
 
 describe('validateQuestionCollection', () => {
   it('accepts a valid collection', () => expect(validateQuestionCollection([valid])).toEqual({ ok: true, errors: [] }));
+  it('accepts vocabulary category', () => expect(validateQuestionCollection([{ ...valid, category: 'vocabulary' }])).toEqual({ ok: true, errors: [] }));
   it.each([
     ['empty question', [{ ...valid, question: ' ' }], '题干不能为空'],
     ['duplicate option keys', [{ ...valid, options: [{ key: 'A', text: 'x' }, { key: 'A', text: 'y' }] }], '选项键重复'],

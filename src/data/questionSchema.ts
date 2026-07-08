@@ -1,6 +1,6 @@
 export type OptionKey = 'A' | 'B' | 'C' | 'D' | 'T' | 'F';
 export type QuestionType = 'single_choice' | 'true_false';
-export type Category = 'news_english' | 'into_the_wild' | 'other';
+export type Category = 'news_english' | 'into_the_wild' | 'other' | 'vocabulary';
 export type ReviewStatus = 'verified' | 'needs_review';
 export interface QuestionOption { key: OptionKey; text: string }
 export interface Question {
@@ -25,7 +25,7 @@ export function validateQuestionCollection(input: unknown): ValidationResult {
     if (answers.some(a => !keys.includes(a))) errors.push(`${at}答案不在选项中`);
     if (q.reviewStatus === 'verified' && answers.length !== 1) errors.push(`${at}已校对题必须有一个答案`);
     if (!['single_choice','true_false'].includes(q.type ?? '')) errors.push(`${at}题型无效`);
-    if (!['news_english','into_the_wild','other'].includes(q.category ?? '')) errors.push(`${at}类别无效`);
+    if (!['news_english','into_the_wild','other','vocabulary'].includes(q.category ?? '')) errors.push(`${at}类别无效`);
     if (!['verified','needs_review'].includes(q.reviewStatus ?? '')) errors.push(`${at}校对状态无效`);
     if (!Array.isArray(q.source) || !q.source.length) errors.push(`${at}来源不能为空`);
     if (!/^[a-f0-9]{64}$/.test(q.fingerprint ?? '')) errors.push(`${at}指纹无效`);
