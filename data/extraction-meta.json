@@ -1,10 +1,11 @@
 {
-  "structuredDocuments": [
-    "第一次测试.docx",
-    "第三次测试.docx",
-    "第二次测试.docx"
+  "sourceDocuments": [
+    "yxq英语题库.docx"
   ],
-  "structuredRecognized": 120,
+  "structuredDocuments": [
+    "yxq英语题库.docx"
+  ],
+  "structuredRecognized": 60,
   "ocrFilesInspected": 2,
   "ocrPagesInspected": 99,
   "ocrCandidatesAccepted": 0,

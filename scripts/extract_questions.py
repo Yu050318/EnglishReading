@@ -11,6 +11,7 @@ from docx import Document
 PROJECT = Path(__file__).resolve().parents[1]
 SOURCE = PROJECT.parent
 DATA = PROJECT / "data"
+YXQ_DOCUMENT = SOURCE / "yxq英语题库.docx"
 
 
 def normalize(value: str) -> str:
@@ -35,7 +36,16 @@ def category_for(text: str) -> str:
     return "other"
 
 
+def source_label(path: Path) -> str:
+    if path.stem.lower().startswith("yxq"):
+        return "yxq英语题库.docx"
+    return path.name
+
+
 def structured_documents() -> list[Path]:
+    if YXQ_DOCUMENT.exists():
+        return [YXQ_DOCUMENT]
+
     found = []
     for path in SOURCE.glob("*.docx"):
         try:
@@ -50,17 +60,21 @@ def structured_documents() -> list[Path]:
 
 def parse_document(path: Path) -> list[dict]:
     lines = [p.text.strip() for p in Document(path).paragraphs if p.text.strip()]
-    starts = [i for i, line in enumerate(lines) if re.match(r"^\d+\.\s+", line)]
+    starts = [i for i, line in enumerate(lines) if re.match(r"^\d+\.(?:\s+.*)?$", line)]
     records = []
     for position, start in enumerate(starts):
         end = starts[position + 1] if position + 1 < len(starts) else len(lines)
-        match = re.match(r"^(\d+)\.\s+(.*)$", lines[start])
+        match = re.match(r"^(\d+)\.(?:\s+(.*))?$", lines[start])
         assert match
-        number, question = int(match.group(1)), match.group(2).strip()
+        number = int(match.group(1))
+        question_parts = [match.group(2).strip()] if match.group(2) else []
         options, marked_answer, stated_answer = [], None, None
         for line in lines[start + 1:end]:
             answer_match = re.search(r"[：:]\s*([A-DTF])\s*$", line)
             if line.startswith("正确答案") and answer_match:
+                stated_answer = answer_match.group(1)
+                continue
+            if line.startswith("答案") and answer_match:
                 stated_answer = answer_match.group(1)
                 continue
             option_match = re.match(r"^(✓\s*)?([A-D])\.\s*(.+)$", line)
@@ -68,7 +82,11 @@ def parse_document(path: Path) -> list[dict]:
                 if option_match.group(1):
                     marked_answer = option_match.group(2)
                 options.append({"key": option_match.group(2), "text": option_match.group(3).strip()})
+                continue
+            if not options:
+                question_parts.append(line)
         answer = stated_answer or marked_answer
+        question = " ".join(question_parts).strip()
         question_type = "single_choice"
         if not options and answer in {"T", "F"}:
             question_type = "true_false"
@@ -78,7 +96,7 @@ def parse_document(path: Path) -> list[dict]:
         records.append({
             "id": f"q_{fp[:16]}", "type": question_type, "question": question,
             "options": options, "answer": [answer] if answer else [],
-            "category": category_for(question), "source": [f"{path.name}#{number}"],
+            "category": category_for(question), "source": [f"{source_label(path)}#{number}"],
             "explanation": "", "ocrConfidence": None,
             "reviewStatus": "verified" if complete else "needs_review", "fingerprint": fp,
         })
@@ -101,6 +119,7 @@ def main() -> None:
     ocr_files, ocr_pages = count_ocr_pages()
     (DATA / "questions.raw.json").write_text(json.dumps(records, ensure_ascii=False, indent=2), encoding="utf-8")
     (DATA / "extraction-meta.json").write_text(json.dumps({
+        "sourceDocuments": [p.name for p in docs],
         "structuredDocuments": [p.name for p in docs], "structuredRecognized": len(records),
         "ocrFilesInspected": ocr_files, "ocrPagesInspected": ocr_pages,
         "ocrCandidatesAccepted": 0,

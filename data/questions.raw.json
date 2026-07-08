@@ -1,194 +1,24 @@
 [
   {
-    "id": "q_4ecbd2d5c9ced08c",
+    "id": "q_87bb4b501de44237",
     "type": "single_choice",
-    "question": "In what way did the trip down the Colorado River contribute to the ensuing Alaska adventure?",
+    "question": "When he was 16, Mr. Green went on vacation to Thailand with his parents. That was the ______ that led to him setting up his own travel company.",
     "options": [
       {
         "key": "A",
-        "text": "Alex learned how to make out the direction."
+        "text": "routine"
       },
       {
         "key": "B",
-        "text": "Alex was convinced that he could survive on meager rations of food."
+        "text": "concern"
       },
       {
         "key": "C",
-        "text": "Alex always could get help from local people."
+        "text": "obstacle"
       },
       {
         "key": "D",
-        "text": "Alex can live without ID."
-      }
-    ],
-    "answer": [
-      "B"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第一次测试.docx#1"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "4ecbd2d5c9ced08cfc6202c4d3b6f4f49ae59c71d93f067bee3a2022440e67ba"
-  },
-  {
-    "id": "q_966f2072edf72b13",
-    "type": "single_choice",
-    "question": "According to the explanation in the book Into the Wild, why was there a bus near the Stampede Trail?",
-    "options": [
-      {
-        "key": "A",
-        "text": "The bus had been a shelter for construction workers and was then left as a shelter for hunters."
-      },
-      {
-        "key": "B",
-        "text": "McCandless drove the bus there, but it broke down."
-      },
-      {
-        "key": "C",
-        "text": "None of the answers are correct."
-      },
-      {
-        "key": "D",
-        "text": "The Stampede Trail had been turned into a road and the bus had broken down on the side of the road long ago."
-      }
-    ],
-    "answer": [
-      "A"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第一次测试.docx#2"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "966f2072edf72b13b82fedb37b85d75f3d8bf70f3275ce94752e29046ed5015d"
-  },
-  {
-    "id": "q_1f5d0856728814de",
-    "type": "single_choice",
-    "question": "What is the destination of Christopher McCandless's canoe trip down the Colorado River?",
-    "options": [
-      {
-        "key": "A",
-        "text": "His parents' home"
-      },
-      {
-        "key": "B",
-        "text": "Fairbanks, Alaska"
-      },
-      {
-        "key": "C",
-        "text": "Mexico"
-      },
-      {
-        "key": "D",
-        "text": "The Grand Canyon"
-      }
-    ],
-    "answer": [
-      "C"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第一次测试.docx#3"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "1f5d0856728814dec577b30fa35da4e1f4bcd0981fd13e89a36e641acf4f7f79"
-  },
-  {
-    "id": "q_6dcadbda6ae694fb",
-    "type": "single_choice",
-    "question": "In the world of print journalism, the two main formats for newspapers are ______.",
-    "options": [
-      {
-        "key": "A",
-        "text": "broadsheet and tabloid"
-      },
-      {
-        "key": "B",
-        "text": "words and pictures"
-      },
-      {
-        "key": "C",
-        "text": "formal and informal"
-      },
-      {
-        "key": "D",
-        "text": "big and small"
-      }
-    ],
-    "answer": [
-      "A"
-    ],
-    "category": "news_english",
-    "source": [
-      "第一次测试.docx#4"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "6dcadbda6ae694fb0978f5b61a90efa6714067cd1dda5876a217ea82ebd6194e"
-  },
-  {
-    "id": "q_d2f8651851f3a6db",
-    "type": "single_choice",
-    "question": "Which one of the following is NOT true about vogue words?",
-    "options": [
-      {
-        "key": "A",
-        "text": "They will never lose influence as time goes by."
-      },
-      {
-        "key": "B",
-        "text": "Vogue words are also called buzzwords."
-      },
-      {
-        "key": "C",
-        "text": "They are closely related to the fashionable trend."
-      },
-      {
-        "key": "D",
-        "text": "They are words that are fashionable for a time."
-      }
-    ],
-    "answer": [
-      "A"
-    ],
-    "category": "other",
-    "source": [
-      "第一次测试.docx#5"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "d2f8651851f3a6db05b51f611885aa6dfb561366c3cf6356a72436808f7a787a"
-  },
-  {
-    "id": "q_91fb21b11d1b11df",
-    "type": "single_choice",
-    "question": "Which of the following words refers to a scandal?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Bill Gates"
-      },
-      {
-        "key": "B",
-        "text": "School gate"
-      },
-      {
-        "key": "C",
-        "text": "Park gate"
-      },
-      {
-        "key": "D",
-        "text": "Watergate"
+        "text": "spark"
       }
     ],
     "answer": [
@@ -196,101 +26,67 @@
     ],
     "category": "other",
     "source": [
-      "第一次测试.docx#6"
+      "yxq英语题库.docx#1"
     ],
     "explanation": "",
     "ocrConfidence": null,
     "reviewStatus": "verified",
-    "fingerprint": "91fb21b11d1b11df30e67fd170e99fce9075075cb0fcaeb459820b44b6d86ca5"
+    "fingerprint": "87bb4b501de44237489f6096e4835d1d43710ae3ed67d73141c904325fdc3acb"
   },
   {
-    "id": "q_f4368eb5ff72aa94",
+    "id": "q_4720c7ff5f4322df",
     "type": "single_choice",
-    "question": "Which of the following headlines is given to a future event?",
+    "question": "We do realize that competition for the position will be ______.",
     "options": [
       {
         "key": "A",
-        "text": "Meet the 'selfish giant' of global trade"
+        "text": "mild"
       },
       {
         "key": "B",
-        "text": "Japan to Help Elderly Jobless"
+        "text": "fierce"
       },
       {
         "key": "C",
-        "text": "Longevity Star Dies at 110"
+        "text": "weak"
       },
       {
         "key": "D",
-        "text": "Journalist fired in spy debate"
+        "text": "gentle"
       }
     ],
     "answer": [
       "B"
     ],
-    "category": "news_english",
+    "category": "other",
     "source": [
-      "第一次测试.docx#7"
+      "yxq英语题库.docx#2"
     ],
     "explanation": "",
     "ocrConfidence": null,
     "reviewStatus": "verified",
-    "fingerprint": "f4368eb5ff72aa94a0e3be898191d3b4b6d71c05e8431a6e176ad18662ed59ab"
+    "fingerprint": "4720c7ff5f4322df00bce7cad2899e5d7c9fd3b0c2a557392647a983720a443a"
   },
   {
-    "id": "q_85b7072ef08f57de",
+    "id": "q_b8f287e720163fed",
     "type": "single_choice",
-    "question": "The news headline 'Trump Criticized After Sharing Name of Alleged Whistleblower' means ______.",
+    "question": "The requirements in the advert are very ______ so all applicants are clear about what is needed.",
     "options": [
       {
         "key": "A",
-        "text": "Trump criticized someone who shared the name of the alleged whistleblower on Twitter."
+        "text": "reasonable"
       },
       {
         "key": "B",
-        "text": "Trump criticized the alleged whistleblower and shared his name on Twitter."
+        "text": "vague"
       },
       {
         "key": "C",
-        "text": "Trump was criticized after the alleged whistleblower shared his name on Twitter."
+        "text": "explicit"
       },
       {
         "key": "D",
-        "text": "Trump was criticized because he shared the name of the alleged whistleblower on Twitter."
-      }
-    ],
-    "answer": [
-      "D"
-    ],
-    "category": "news_english",
-    "source": [
-      "第一次测试.docx#8"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "85b7072ef08f57de6030206b8d81764cde490f44b8e36435ec8c07c7d438fbf6"
-  },
-  {
-    "id": "q_f37c2a1c1904ffff",
-    "type": "single_choice",
-    "question": "A ______ can be inserted after 'Toyota Chief to Employees' to introduce the direct speech.",
-    "options": [
-      {
-        "key": "A",
-        "text": "!"
-      },
-      {
-        "key": "B",
-        "text": "?"
-      },
-      {
-        "key": "C",
-        "text": ":"
-      },
-      {
-        "key": "D",
-        "text": ","
+        "text": "implicit"
       }
     ],
     "answer": [
@@ -298,1495 +94,33 @@
     ],
     "category": "other",
     "source": [
-      "第一次测试.docx#9"
+      "yxq英语题库.docx#3"
     ],
     "explanation": "",
     "ocrConfidence": null,
     "reviewStatus": "verified",
-    "fingerprint": "f37c2a1c1904ffff40c353e145a8520fd46b6bf6805b1766c6fb21365e419d2e"
+    "fingerprint": "b8f287e720163fedb19827666b31546ac0be6b31507077c79d2e941da80ccf6b"
   },
   {
-    "id": "q_66848cd97a4fed85",
+    "id": "q_ef3e6073dc449a80",
     "type": "single_choice",
-    "question": "______ is one of the earliest papers and enjoys a high reputation in the world.",
+    "question": "One of the ______ challenges facing many company managers is how to effect change involving new technologies.",
     "options": [
       {
         "key": "A",
-        "text": "The Times"
+        "text": "frequent"
       },
       {
         "key": "B",
-        "text": "The Daily Telegraph"
+        "text": "temporary"
       },
       {
         "key": "C",
-        "text": "The Washington Post"
+        "text": "prime"
       },
       {
         "key": "D",
-        "text": "Los Angeles Times"
-      }
-    ],
-    "answer": [
-      "A"
-    ],
-    "category": "other",
-    "source": [
-      "第一次测试.docx#10"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "66848cd97a4fed85a37e44f279e281e86528927f8732f712295af5bd90ccd2bd"
-  },
-  {
-    "id": "q_a6526cf08aa4b1dc",
-    "type": "single_choice",
-    "question": "How did Christopher McCandless arrive at the 'Stampede Trail'?",
-    "options": [
-      {
-        "key": "A",
-        "text": "He took a cab to the trail."
-      },
-      {
-        "key": "B",
-        "text": "He had a backpacking guide lead him the way to the trail."
-      },
-      {
-        "key": "C",
-        "text": "He took a bus that dropped him off at the trail."
-      },
-      {
-        "key": "D",
-        "text": "He hitchhiked his way to the trail."
-      }
-    ],
-    "answer": [
-      "D"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第一次测试.docx#11"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "a6526cf08aa4b1dca8ae09b7a5b419bb436bdb67246fd6ad9838abf19d995904"
-  },
-  {
-    "id": "q_2ed919f44237b279",
-    "type": "single_choice",
-    "question": "The word 'Brexit' is coined the same way as ______.",
-    "options": [
-      {
-        "key": "A",
-        "text": "anti-vaccine"
-      },
-      {
-        "key": "B",
-        "text": "smog"
-      },
-      {
-        "key": "C",
-        "text": "dorm"
-      },
-      {
-        "key": "D",
-        "text": "thinktank"
-      }
-    ],
-    "answer": [
-      "B"
-    ],
-    "category": "other",
-    "source": [
-      "第一次测试.docx#12"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "2ed919f44237b2793a7c3c4ece7d18f5f5b60326f13f29e721dfe18ec4cacba3"
-  },
-  {
-    "id": "q_617a3b450809d5f4",
-    "type": "single_choice",
-    "question": "In the news headline 'Two explosions in Afghanistan kill at least three', which choice is the verb?",
-    "options": [
-      {
-        "key": "A",
-        "text": "in & at"
-      },
-      {
-        "key": "B",
-        "text": "kill"
-      },
-      {
-        "key": "C",
-        "text": "two & three"
-      },
-      {
-        "key": "D",
-        "text": "explosion"
-      }
-    ],
-    "answer": [
-      "B"
-    ],
-    "category": "news_english",
-    "source": [
-      "第一次测试.docx#13"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "617a3b450809d5f42a3a2d9afe0b20969c1c0c3a0e0daa134c3ade6c54fdabf8"
-  },
-  {
-    "id": "q_3ca417a53bb90094",
-    "type": "single_choice",
-    "question": "Which of the following is NOT a reason why the couple that first came upon the bus did not enter it?",
-    "options": [
-      {
-        "key": "A",
-        "text": "They could smell a foul odor coming from the bus."
-      },
-      {
-        "key": "B",
-        "text": "There were animals scavenging around the site."
-      },
-      {
-        "key": "C",
-        "text": "They found McCandless's S.O.S. note."
-      },
-      {
-        "key": "D",
-        "text": "They were too upset by the smell and the note."
-      }
-    ],
-    "answer": [
-      "B"
-    ],
-    "category": "other",
-    "source": [
-      "第一次测试.docx#14"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "3ca417a53bb90094d5bd36117b5173675b95595df9ba49729517bfc8eef3e5e2"
-  },
-  {
-    "id": "q_c531d4da8f688bb7",
-    "type": "single_choice",
-    "question": "In Into the Wild, why is it surprising that six people came upon the abandoned bus?",
-    "options": [
-      {
-        "key": "A",
-        "text": "The six people were from three separate parties."
-      },
-      {
-        "key": "B",
-        "text": "All of the answers are correct."
-      },
-      {
-        "key": "C",
-        "text": "No one had come upon it for at least the two and a half weeks prior."
-      },
-      {
-        "key": "D",
-        "text": "It is difficult to reach."
-      }
-    ],
-    "answer": [
-      "B"
-    ],
-    "category": "other",
-    "source": [
-      "第一次测试.docx#15"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "c531d4da8f688bb71b68468e7c6446c4c660919a657791008be741136d4dd8d5"
-  },
-  {
-    "id": "q_44c3d4b26d7cca58",
-    "type": "single_choice",
-    "question": "What are usually omitted in the news?",
-    "options": [
-      {
-        "key": "A",
-        "text": "'we' and 'you'"
-      },
-      {
-        "key": "B",
-        "text": "'their' and 'they'"
-      },
-      {
-        "key": "C",
-        "text": "'what' and 'that'"
-      },
-      {
-        "key": "D",
-        "text": "'be' and 'the'"
-      }
-    ],
-    "answer": [
-      "D"
-    ],
-    "category": "news_english",
-    "source": [
-      "第一次测试.docx#16"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "44c3d4b26d7cca58a15a5294ae1a7910fcfb8ef102051b38a34a948f91376234"
-  },
-  {
-    "id": "q_27dea5fc9ccb6048",
-    "type": "single_choice",
-    "question": "Which one of these is NOT a British newspaper?",
-    "options": [
-      {
-        "key": "A",
-        "text": "The Guardian"
-      },
-      {
-        "key": "B",
-        "text": "The Wall Street Journal"
-      },
-      {
-        "key": "C",
-        "text": "Financial Times"
-      },
-      {
-        "key": "D",
-        "text": "The Times"
-      }
-    ],
-    "answer": [
-      "B"
-    ],
-    "category": "news_english",
-    "source": [
-      "第一次测试.docx#17"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "27dea5fc9ccb6048a8be45810770b691ed64a694b151825434b8f7ccc2051604"
-  },
-  {
-    "id": "q_72141d9379c6970e",
-    "type": "single_choice",
-    "question": "The news headline 'CBS sitcom Mom to end after 8 seasons' includes which type of word?",
-    "options": [
-      {
-        "key": "A",
-        "text": "midget word"
-      },
-      {
-        "key": "B",
-        "text": "acronym word"
-      },
-      {
-        "key": "C",
-        "text": "clipped word"
-      },
-      {
-        "key": "D",
-        "text": "new words"
-      }
-    ],
-    "answer": [
-      "C"
-    ],
-    "category": "news_english",
-    "source": [
-      "第一次测试.docx#18"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "72141d9379c6970eb0ca5ac9dbc707d06095924e1ef4cbea73e407472571ec45"
-  },
-  {
-    "id": "q_0a489c88150ca4ff",
-    "type": "single_choice",
-    "question": "Chris McCandless changed his name to ______.",
-    "options": [
-      {
-        "key": "A",
-        "text": "Jim Gallien"
-      },
-      {
-        "key": "B",
-        "text": "Henry David Thoreau"
-      },
-      {
-        "key": "C",
-        "text": "Wayne Westerberg"
-      },
-      {
-        "key": "D",
-        "text": "Alexander Supertramp"
-      }
-    ],
-    "answer": [
-      "D"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第一次测试.docx#19"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "0a489c88150ca4ff8b6f9f461375c7ee2eac4e72094678095c342c810e9fa7c1"
-  },
-  {
-    "id": "q_1da7a96e44879904",
-    "type": "single_choice",
-    "question": "Which one of the following statements is NOT true about midget words?",
-    "options": [
-      {
-        "key": "A",
-        "text": "They are simple or short words."
-      },
-      {
-        "key": "B",
-        "text": "They can save time but are difficult to understand."
-      },
-      {
-        "key": "C",
-        "text": "They usually only have one syllable, but sound powerful and forceful."
-      },
-      {
-        "key": "D",
-        "text": "They are often applied to save space and avoid changing lines in newspapers."
-      }
-    ],
-    "answer": [
-      "B"
-    ],
-    "category": "other",
-    "source": [
-      "第一次测试.docx#20"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "1da7a96e4487990428452e9b5a0bad4633c42bf2a07f404837e39c10b951cf87"
-  },
-  {
-    "id": "q_e251a49e96b6fced",
-    "type": "single_choice",
-    "question": "Why did Chris like Carthage?",
-    "options": [
-      {
-        "key": "A",
-        "text": "It was rainy."
-      },
-      {
-        "key": "B",
-        "text": "Life was simple."
-      },
-      {
-        "key": "C",
-        "text": "No one talked with him."
-      },
-      {
-        "key": "D",
-        "text": "It reminded him of his parents' home."
-      }
-    ],
-    "answer": [
-      "B"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第一次测试.docx#21"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "e251a49e96b6fced5a6eea28c522531b20df97c2cfe1bd415d1aa9ed94bf3f6c"
-  },
-  {
-    "id": "q_c96b1129b7baa429",
-    "type": "single_choice",
-    "question": "By immediately establishing the fact that Chris McCandless died in the wilderness, what tone does the author create?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Curious"
-      },
-      {
-        "key": "B",
-        "text": "Hopeful"
-      },
-      {
-        "key": "C",
-        "text": "Ominous"
-      },
-      {
-        "key": "D",
-        "text": "Cheerful"
-      }
-    ],
-    "answer": [
-      "C"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第一次测试.docx#22"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "c96b1129b7baa42910df37af5d6f2ca6514745e86abe8b829bfdc4c463f482bb"
-  },
-  {
-    "id": "q_f386c372d4976562",
-    "type": "single_choice",
-    "question": "The suffix '-free' means ______.",
-    "options": [
-      {
-        "key": "A",
-        "text": "being addicted to"
-      },
-      {
-        "key": "B",
-        "text": "clean"
-      },
-      {
-        "key": "C",
-        "text": "part of the whole"
-      },
-      {
-        "key": "D",
-        "text": "not blocked or unrestricted"
-      }
-    ],
-    "answer": [
-      "D"
-    ],
-    "category": "other",
-    "source": [
-      "第一次测试.docx#23"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "f386c372d49765622c2abb6106fd52608facd85ad6c09b92b5a7070deb51d2df"
-  },
-  {
-    "id": "q_4e95b2387d9ceeb9",
-    "type": "single_choice",
-    "question": "What kind of vehicle does Christopher McCandless live in during his stay in Denali?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A tent"
-      },
-      {
-        "key": "B",
-        "text": "A motorhome"
-      },
-      {
-        "key": "C",
-        "text": "A railroad car"
-      },
-      {
-        "key": "D",
-        "text": "A bus"
-      }
-    ],
-    "answer": [
-      "D"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第一次测试.docx#24"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "4e95b2387d9ceeb9d877e9a5ffae5f902336d590b50ad431c7a3e1c63bfb3e5f"
-  },
-  {
-    "id": "q_63fafb53cef11c51",
-    "type": "single_choice",
-    "question": "Like The Economist, Forbes, Fortune and ______ are magazines.",
-    "options": [
-      {
-        "key": "A",
-        "text": "Time"
-      },
-      {
-        "key": "B",
-        "text": "Time Square"
-      },
-      {
-        "key": "C",
-        "text": "Times Square"
-      },
-      {
-        "key": "D",
-        "text": "The Times"
-      }
-    ],
-    "answer": [
-      "A"
-    ],
-    "category": "other",
-    "source": [
-      "第一次测试.docx#25"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "63fafb53cef11c511debae429ec479d88cbb44293f631716049d02aa4c706b31"
-  },
-  {
-    "id": "q_4c1e961c4101ad91",
-    "type": "single_choice",
-    "question": "Chris McCandless worked in Carthage, South Dakota ______.",
-    "options": [
-      {
-        "key": "A",
-        "text": "cleaning barns"
-      },
-      {
-        "key": "B",
-        "text": "herding cattle"
-      },
-      {
-        "key": "C",
-        "text": "working in a grain elevator"
-      },
-      {
-        "key": "D",
-        "text": "milking cows"
-      }
-    ],
-    "answer": [
-      "C"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第一次测试.docx#26"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "4c1e961c4101ad91c17227ad5d33fd2ec9bad25ea2c412e50e4e8db7b4559271"
-  },
-  {
-    "id": "q_ec6d85843646f9e2",
-    "type": "single_choice",
-    "question": "What did McCandless do that he felt Thoreau and Tolstoy would take pride in?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Resumed his odyssey on foot"
-      },
-      {
-        "key": "B",
-        "text": "Abandoned his car"
-      },
-      {
-        "key": "C",
-        "text": "Burned all his paper currency"
-      },
-      {
-        "key": "D",
-        "text": "Rowed the canoe down the Colorado River"
-      }
-    ],
-    "answer": [
-      "C"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第一次测试.docx#27"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "ec6d85843646f9e2eefaeda6c2f4d03e025f183d641594ba6f896351cd8d89ad"
-  },
-  {
-    "id": "q_3c2831e7fe8a5fba",
-    "type": "single_choice",
-    "question": "Once Chris reaches the Colorado River, how does he get to Mexico?",
-    "options": [
-      {
-        "key": "A",
-        "text": "bus"
-      },
-      {
-        "key": "B",
-        "text": "he hitchhikes"
-      },
-      {
-        "key": "C",
-        "text": "Canoe"
-      },
-      {
-        "key": "D",
-        "text": "train"
-      }
-    ],
-    "answer": [
-      "C"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第一次测试.docx#28"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "3c2831e7fe8a5fbabcb6ccb261a23f2050ea5046d82460320280e251b0cc2ae7"
-  },
-  {
-    "id": "q_fa335358a198a6c7",
-    "type": "single_choice",
-    "question": "Which one is the acronym of 世界卫生组织?",
-    "options": [
-      {
-        "key": "A",
-        "text": "WTO"
-      },
-      {
-        "key": "B",
-        "text": "NATO"
-      },
-      {
-        "key": "C",
-        "text": "NGO"
-      },
-      {
-        "key": "D",
-        "text": "WHO"
-      }
-    ],
-    "answer": [
-      "D"
-    ],
-    "category": "other",
-    "source": [
-      "第一次测试.docx#29"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "fa335358a198a6c7f0c52d42dab88c39c881c13bd89fe51aa5e7e2bff9452920"
-  },
-  {
-    "id": "q_7d6e6014f3f318ad",
-    "type": "single_choice",
-    "question": "______ was founded in 1851 and had won 127 Pulitzer Prizes by 2019.",
-    "options": [
-      {
-        "key": "A",
-        "text": "The New York Times"
-      },
-      {
-        "key": "B",
-        "text": "Time"
-      },
-      {
-        "key": "C",
-        "text": "The Washington Post"
-      },
-      {
-        "key": "D",
-        "text": "The Guardian"
-      }
-    ],
-    "answer": [
-      "A"
-    ],
-    "category": "other",
-    "source": [
-      "第一次测试.docx#30"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "7d6e6014f3f318adbe271811814f22aeebb79ac55980c9a48c939611b254add6"
-  },
-  {
-    "id": "q_465b08150214a28f",
-    "type": "single_choice",
-    "question": "Journalists often quote or cite the talks of relevant personnel. As a result, a series of ______ verbs are frequently used.",
-    "options": [
-      {
-        "key": "A",
-        "text": "say"
-      },
-      {
-        "key": "B",
-        "text": "do"
-      },
-      {
-        "key": "C",
-        "text": "have"
-      },
-      {
-        "key": "D",
-        "text": "be"
-      }
-    ],
-    "answer": [
-      "A"
-    ],
-    "category": "news_english",
-    "source": [
-      "第一次测试.docx#31"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "465b08150214a28f3286720d1d9cf00a7c9dd3549447e4c6d097707df920fb45"
-  },
-  {
-    "id": "q_cc2634f2ffc22dd7",
-    "type": "single_choice",
-    "question": "What are the two basic types of news lead? (a. question lead; b. delayed lead; c. conventional lead; d. other)",
-    "options": [
-      {
-        "key": "A",
-        "text": "b + c"
-      },
-      {
-        "key": "B",
-        "text": "d + a"
-      },
-      {
-        "key": "C",
-        "text": "a + b"
-      },
-      {
-        "key": "D",
-        "text": "c + d"
-      }
-    ],
-    "answer": [
-      "A"
-    ],
-    "category": "news_english",
-    "source": [
-      "第一次测试.docx#32"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "cc2634f2ffc22dd7fe16d73231660ab63b397f64312aa17cd4e071c96994ccc4"
-  },
-  {
-    "id": "q_cd083543ca67d002",
-    "type": "single_choice",
-    "question": "Before leaving Carthage, McCandless gives his employer a gift. What is it?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A travel journal"
-      },
-      {
-        "key": "B",
-        "text": "A leather belt he made"
-      },
-      {
-        "key": "C",
-        "text": "A copy of War and Peace"
-      },
-      {
-        "key": "D",
-        "text": "A picture of himself"
-      }
-    ],
-    "answer": [
-      "C"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第一次测试.docx#33"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "cd083543ca67d0027a367f491d85a0c26a12051a8876174071d7739ef5d25ed5"
-  },
-  {
-    "id": "q_931e097b4b397e18",
-    "type": "single_choice",
-    "question": "Which part in the news headline 'Both Ends of Films Are to be Shortened' can be omitted?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Be"
-      },
-      {
-        "key": "B",
-        "text": "Are"
-      },
-      {
-        "key": "C",
-        "text": "to"
-      },
-      {
-        "key": "D",
-        "text": "Both"
-      }
-    ],
-    "answer": [
-      "B"
-    ],
-    "category": "news_english",
-    "source": [
-      "第一次测试.docx#34"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "931e097b4b397e1841d56d186a000f340ca6e57995b836dc78528ce3bfea6025"
-  },
-  {
-    "id": "q_6e62f12fde9d0b80",
-    "type": "single_choice",
-    "question": "What is Christopher McCandless doing when he is first introduced to the reader?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Hitchhiking"
-      },
-      {
-        "key": "B",
-        "text": "Hunting a moose"
-      },
-      {
-        "key": "C",
-        "text": "Reading"
-      },
-      {
-        "key": "D",
-        "text": "Writing in his diary"
-      }
-    ],
-    "answer": [
-      "A"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第一次测试.docx#35"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "6e62f12fde9d0b808b3cceda0d2b8e364ddb391ebc6a4a97695299e3843e92ba"
-  },
-  {
-    "id": "q_5dc9da584cc0c3f0",
-    "type": "single_choice",
-    "question": "How does Christopher McCandless die in the wild?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Hypothermia"
-      },
-      {
-        "key": "B",
-        "text": "Starvation"
-      },
-      {
-        "key": "C",
-        "text": "Suicide"
-      },
-      {
-        "key": "D",
-        "text": "Food poisoning"
-      }
-    ],
-    "answer": [
-      "B"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第一次测试.docx#36"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "5dc9da584cc0c3f0eb90f1e3f12633e9d9b8dbfacaddd5acc82eb883563dcece"
-  },
-  {
-    "id": "q_3c58ce5a2e5530f7",
-    "type": "single_choice",
-    "question": "Which one is NOT among the popular newspapers and magazines established in the United States?",
-    "options": [
-      {
-        "key": "A",
-        "text": "The New York Times"
-      },
-      {
-        "key": "B",
-        "text": "The Times"
-      },
-      {
-        "key": "C",
-        "text": "The Washington Post"
-      },
-      {
-        "key": "D",
-        "text": "USA Today"
-      }
-    ],
-    "answer": [
-      "B"
-    ],
-    "category": "news_english",
-    "source": [
-      "第一次测试.docx#37"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "3c58ce5a2e5530f736a1af41d87ced1d2cfd705d8f29527780c7ef2c290d577e"
-  },
-  {
-    "id": "q_12af0761ce40e5cc",
-    "type": "single_choice",
-    "question": "______ is the first sentence or the first paragraph of a news event, informing the reader of its main idea.",
-    "options": [
-      {
-        "key": "A",
-        "text": "Deck"
-      },
-      {
-        "key": "B",
-        "text": "Caption"
-      },
-      {
-        "key": "C",
-        "text": "Picture"
-      },
-      {
-        "key": "D",
-        "text": "Lead"
-      }
-    ],
-    "answer": [
-      "D"
-    ],
-    "category": "news_english",
-    "source": [
-      "第一次测试.docx#38"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "12af0761ce40e5ccfef7d7df8a4882bf97321e10ae185bab92f74c3fb3cf0273"
-  },
-  {
-    "id": "q_3deece4a5fa679c0",
-    "type": "single_choice",
-    "question": "In what season does McCandless go into the wilderness?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Winter"
-      },
-      {
-        "key": "B",
-        "text": "Fall"
-      },
-      {
-        "key": "C",
-        "text": "Summer"
-      },
-      {
-        "key": "D",
-        "text": "Spring"
-      }
-    ],
-    "answer": [
-      "D"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第一次测试.docx#39"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "3deece4a5fa679c084f0e7543db41cbe2e40cf67155430b164d40f1cd6ee0bfb"
-  },
-  {
-    "id": "q_180d5f2eb9d699ca",
-    "type": "single_choice",
-    "question": "Which one of these is NOT a newspaper?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Los Angeles Times"
-      },
-      {
-        "key": "B",
-        "text": "The Times"
-      },
-      {
-        "key": "C",
-        "text": "Time"
-      },
-      {
-        "key": "D",
-        "text": "The New York Times"
-      }
-    ],
-    "answer": [
-      "C"
-    ],
-    "category": "news_english",
-    "source": [
-      "第一次测试.docx#40"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "180d5f2eb9d699ca31c6d11d19bc2521899993969b832031cf5f3e01a03b2c63"
-  },
-  {
-    "id": "q_8934be57a144408f",
-    "type": "single_choice",
-    "question": "How did Carine react to the news that Chris was dead?",
-    "options": [
-      {
-        "key": "A",
-        "text": "She refused to believe it until dental records confirmed his identity."
-      },
-      {
-        "key": "B",
-        "text": "She was so calm that people worried."
-      },
-      {
-        "key": "C",
-        "text": "She fainted and was taken to hospital."
-      },
-      {
-        "key": "D",
-        "text": "She screamed and cried hysterically for hours and refused comfort."
-      }
-    ],
-    "answer": [
-      "D"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第三次测试.docx#1"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "8934be57a144408f1d470f1409b6a7a03793e82ae2738841ab485aec27e74681"
-  },
-  {
-    "id": "q_f6a6a125cfa64c5d",
-    "type": "single_choice",
-    "question": "Which is NOT a reason we read different reports of the same news event?",
-    "options": [
-      {
-        "key": "A",
-        "text": "To find out the universal view for the same news event."
-      },
-      {
-        "key": "B",
-        "text": "To search for different responses from different groups of readers."
-      },
-      {
-        "key": "C",
-        "text": "To compare perspectives given by different news agencies."
-      },
-      {
-        "key": "D",
-        "text": "To understand a news event comprehensively."
-      }
-    ],
-    "answer": [
-      "A"
-    ],
-    "category": "news_english",
-    "source": [
-      "第三次测试.docx#2"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "f6a6a125cfa64c5d4b28be37312524a60ac7181c047eeca7e4833a341a068389"
-  },
-  {
-    "id": "q_5c86c1cfe66d0cb9",
-    "type": "single_choice",
-    "question": "What do we know McCandless comes to regret deeply?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Not telling his parents where he is"
-      },
-      {
-        "key": "B",
-        "text": "Not bringing more food into the wilderness"
-      },
-      {
-        "key": "C",
-        "text": "Trying to shoot a bear with his small gun"
-      },
-      {
-        "key": "D",
-        "text": "Killing the moose"
-      }
-    ],
-    "answer": [
-      "D"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第三次测试.docx#3"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "5c86c1cfe66d0cb987ea6c1567095c430e359174ddd118313d27b50265f812e5"
-  },
-  {
-    "id": "q_e7bacdc2996e6d26",
-    "type": "single_choice",
-    "question": "Gaylord Stuckey warns McCandless that ______.",
-    "options": [
-      {
-        "key": "A",
-        "text": "A storm front is approaching quickly"
-      },
-      {
-        "key": "B",
-        "text": "Both A and B"
-      },
-      {
-        "key": "C",
-        "text": "The snow is still thick"
-      },
-      {
-        "key": "D",
-        "text": "There will be few plants and berries to eat"
-      }
-    ],
-    "answer": [
-      "B"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第三次测试.docx#4"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "e7bacdc2996e6d265736477487ec6454ac7c9e6c2e450af3575267147968e246"
-  },
-  {
-    "id": "q_41b23254eeecbbf5",
-    "type": "single_choice",
-    "question": "What is the purpose of the story?",
-    "options": [
-      {
-        "key": "A",
-        "text": "To persuade"
-      },
-      {
-        "key": "B",
-        "text": "To entertain"
-      },
-      {
-        "key": "C",
-        "text": "To inform"
-      },
-      {
-        "key": "D",
-        "text": "To wonder"
-      }
-    ],
-    "answer": [
-      "D"
-    ],
-    "category": "other",
-    "source": [
-      "第三次测试.docx#5"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "41b23254eeecbbf5d677a6a44ddf449b41b6ed4c55bd155ffe12223d718965c6"
-  },
-  {
-    "id": "q_ff449e969cdb24a3",
-    "type": "single_choice",
-    "question": "Which is NOT McCandless's reaction toward the discovery of Walt's secret?",
-    "options": [
-      {
-        "key": "A",
-        "text": "He kept it secret and expressed rage in silence and withdrawal."
-      },
-      {
-        "key": "B",
-        "text": "He harbored resentment."
-      },
-      {
-        "key": "C",
-        "text": "He confronted them angrily."
-      },
-      {
-        "key": "D",
-        "text": "His relationship with his parents deteriorated."
-      }
-    ],
-    "answer": [
-      "C"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第三次测试.docx#6"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "ff449e969cdb24a33224643523bd659e7c2582868a16798ba8f8c1e7a1806416"
-  },
-  {
-    "id": "q_e9e28d35cc0a8eee",
-    "type": "single_choice",
-    "question": "The author begins each chapter with a quote because ______.",
-    "options": [
-      {
-        "key": "A",
-        "text": "He wanted to fill space."
-      },
-      {
-        "key": "B",
-        "text": "It sets mood, foreshadows, gives Chris's favorite quotes and background information."
-      },
-      {
-        "key": "C",
-        "text": "There is no information about Chris."
-      },
-      {
-        "key": "D",
-        "text": "He did it for fun."
-      }
-    ],
-    "answer": [
-      "B"
-    ],
-    "category": "other",
-    "source": [
-      "第三次测试.docx#7"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "e9e28d35cc0a8eeee648918a6ab356b198ef9715fd62cf26f5a88c6777cf646a"
-  },
-  {
-    "id": "q_1afc9d1205ee2c0b",
-    "type": "single_choice",
-    "question": "Which family members flew to Alaska to pick up Chris's remains and belongings?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Carine and her husband"
-      },
-      {
-        "key": "B",
-        "text": "the entire family"
-      },
-      {
-        "key": "C",
-        "text": "Chris's parents"
-      },
-      {
-        "key": "D",
-        "text": "Carine and her half-brother Sam"
-      }
-    ],
-    "answer": [
-      "D"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第三次测试.docx#8"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "1afc9d1205ee2c0b0d055d02fdcfb0c0c1a5683c8f14de016ab11665d7f86c76"
-  },
-  {
-    "id": "q_ae7f755b81248036",
-    "type": "single_choice",
-    "question": "In general, news stories are organized using the ______ style.",
-    "options": [
-      {
-        "key": "A",
-        "text": "inverted pyramid"
-      },
-      {
-        "key": "B",
-        "text": "headline"
-      },
-      {
-        "key": "C",
-        "text": "body"
-      },
-      {
-        "key": "D",
-        "text": "picture"
-      }
-    ],
-    "answer": [
-      "A"
-    ],
-    "category": "news_english",
-    "source": [
-      "第三次测试.docx#9"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "ae7f755b81248036220dd4a123cba467c7b485ee2b23616f25c14cda0f981893"
-  },
-  {
-    "id": "q_f54af69151f6a980",
-    "type": "single_choice",
-    "question": "What secret did Chris discover about his father while visiting California?",
-    "options": [
-      {
-        "key": "A",
-        "text": "His father had a previous marriage."
-      },
-      {
-        "key": "B",
-        "text": "His parents were not married."
-      },
-      {
-        "key": "C",
-        "text": "His father had a double life in two families."
-      },
-      {
-        "key": "D",
-        "text": "His father had other children with his first wife."
-      }
-    ],
-    "answer": [
-      "C"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第三次测试.docx#10"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "f54af69151f6a9803f09827b8c561a8f2a4eb04edbc4be8a97e10c502b32b7b8"
-  },
-  {
-    "id": "q_10fd50d98bc65b91",
-    "type": "single_choice",
-    "question": "How were authorities eventually able to positively identify the hiker as Chris McCandless?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Wayne Westerberg provided a Social Security number belonging to an individual from Virginia."
-      },
-      {
-        "key": "B",
-        "text": "Chris's half-brother identified the body."
-      },
-      {
-        "key": "C",
-        "text": "Wayne Westerberg flew to Alaska."
-      },
-      {
-        "key": "D",
-        "text": "Gallien contacted the authorities."
-      }
-    ],
-    "answer": [
-      "A"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第三次测试.docx#11"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "10fd50d98bc65b91e0e13bc0094b5b56b50df15a60cb5a79ce02d93c6b53057d"
-  },
-  {
-    "id": "q_e9842c0c7bdb2b47",
-    "type": "single_choice",
-    "question": "If McCandless had a ______, he may have lived.",
-    "options": [
-      {
-        "key": "A",
-        "text": "pair of boots that fit right"
-      },
-      {
-        "key": "B",
-        "text": "detailed map of the area"
-      },
-      {
-        "key": "C",
-        "text": "gun of large caliber"
-      },
-      {
-        "key": "D",
-        "text": "bottle of aspirin"
-      }
-    ],
-    "answer": [
-      "B"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第三次测试.docx#12"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "e9842c0c7bdb2b47b502578668c7d3e1705b6264d303255dff23d737c9ee0bc3"
-  },
-  {
-    "id": "q_1f409d3d1f2727ae",
-    "type": "single_choice",
-    "question": "What did Chris's friends on the road do when they first heard about the unidentified hiker?",
-    "options": [
-      {
-        "key": "A",
-        "text": "They did nothing."
-      },
-      {
-        "key": "B",
-        "text": "They notified Chris's family and friends."
-      },
-      {
-        "key": "C",
-        "text": "They tried to notify Alaska State Troopers, but authorities did not believe them at first."
-      },
-      {
-        "key": "D",
-        "text": "They flew to Alaska."
+        "text": "complex"
       }
     ],
     "answer": [
@@ -1794,67 +128,33 @@
     ],
     "category": "other",
     "source": [
-      "第三次测试.docx#13"
+      "yxq英语题库.docx#4"
     ],
     "explanation": "",
     "ocrConfidence": null,
     "reviewStatus": "verified",
-    "fingerprint": "1f409d3d1f2727aea5f0a5138673dc21c90ffb0bec3be226695b88a1216b2a07"
+    "fingerprint": "ef3e6073dc449a801114cd39806c50871a2d838ef9fb7eafc7f017afe9c9e57c"
   },
   {
-    "id": "q_b7e2275720fb303f",
+    "id": "q_d4af139a95b9150f",
     "type": "single_choice",
-    "question": "In a letter to Franz, McCandless encourages Franz to ______.",
+    "question": "Let's brainstorm together. I find that's the best way of ______ lots of ideas about a project.",
     "options": [
       {
         "key": "A",
-        "text": "travel with McCandless to Alaska"
+        "text": "generating"
       },
       {
         "key": "B",
-        "text": "leave all possessions behind and live life to the fullest"
+        "text": "rejecting"
       },
       {
         "key": "C",
-        "text": "reconnect with his family"
+        "text": "organizing"
       },
       {
         "key": "D",
-        "text": "meet a wife and settle down"
-      }
-    ],
-    "answer": [
-      "B"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第三次测试.docx#14"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "b7e2275720fb303ff558670d1aa993bb7477db474cf2433385b99118ed4381aa"
-  },
-  {
-    "id": "q_8def933616505187",
-    "type": "single_choice",
-    "question": "Which statement is TRUE?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Alex was sexually innocent as a monk."
-      },
-      {
-        "key": "B",
-        "text": "Alex never considered marriage or family."
-      },
-      {
-        "key": "C",
-        "text": "Alex was intimate with men rather than women."
-      },
-      {
-        "key": "D",
-        "text": "Alex was driven by lust offered by women."
+        "text": "limiting"
       }
     ],
     "answer": [
@@ -1862,373 +162,33 @@
     ],
     "category": "other",
     "source": [
-      "第三次测试.docx#15"
+      "yxq英语题库.docx#5"
     ],
     "explanation": "",
     "ocrConfidence": null,
     "reviewStatus": "verified",
-    "fingerprint": "8def933616505187e6396a3981e9b56caf648d79f2f957ed68d7ba4da313609e"
+    "fingerprint": "d4af139a95b9150f842c0f7644820db921d1ce2fb68bef1e1923ddee31b0429f"
   },
   {
-    "id": "q_ba1e9efbf669278a",
+    "id": "q_77bcfdb8b79c0843",
     "type": "single_choice",
-    "question": "One purchase McCandless makes prior to entering the forest is ______.",
+    "question": "Our company has been ______ its businesses overseas, but it hasn't always been successful.",
     "options": [
       {
         "key": "A",
-        "text": "A guide to edible plants"
+        "text": "expand"
       },
       {
         "key": "B",
-        "text": "The latest survival guide"
+        "text": "expanded"
       },
       {
         "key": "C",
-        "text": "A diary"
+        "text": "expanding"
       },
       {
         "key": "D",
-        "text": "A backpacker's stove"
-      }
-    ],
-    "answer": [
-      "A"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第三次测试.docx#16"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "ba1e9efbf669278a03619032df071c153d9b3ba4e64b506749cdf0e51d82efba"
-  },
-  {
-    "id": "q_7ae53695ce65d518",
-    "type": "single_choice",
-    "question": "What was Oh-My-God Hot Springs like?",
-    "options": [
-      {
-        "key": "A",
-        "text": "A developed city."
-      },
-      {
-        "key": "B",
-        "text": "A rest stop off the highway."
-      },
-      {
-        "key": "C",
-        "text": "A resort."
-      },
-      {
-        "key": "D",
-        "text": "A vision of post-apocalypse America."
-      }
-    ],
-    "answer": [
-      "D"
-    ],
-    "category": "other",
-    "source": [
-      "第三次测试.docx#17"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "7ae53695ce65d5186e38fbabf670f99a16e64da19f4498208259a87b8a4b804c"
-  },
-  {
-    "id": "q_41340964e74befef",
-    "type": "single_choice",
-    "question": "______ is descriptive information appearing with a picture.",
-    "options": [
-      {
-        "key": "A",
-        "text": "By-line"
-      },
-      {
-        "key": "B",
-        "text": "Caption"
-      },
-      {
-        "key": "C",
-        "text": "Deck"
-      },
-      {
-        "key": "D",
-        "text": "The body"
-      }
-    ],
-    "answer": [
-      "B"
-    ],
-    "category": "other",
-    "source": [
-      "第三次测试.docx#18"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "41340964e74befef238a620dbecc67f027d5c42e197961da13e6050d2df5e511"
-  },
-  {
-    "id": "q_9cdf3fca178ae2d4",
-    "type": "single_choice",
-    "question": "Two hunters who discovered McCandless's body believed that the large animal he shot was a ______.",
-    "options": [
-      {
-        "key": "A",
-        "text": "moose"
-      },
-      {
-        "key": "B",
-        "text": "caribou"
-      },
-      {
-        "key": "C",
-        "text": "grizzly"
-      },
-      {
-        "key": "D",
-        "text": "bear"
-      }
-    ],
-    "answer": [
-      "B"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第三次测试.docx#19"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "9cdf3fca178ae2d4e620ce94d252ee78613254d18b04ad8e12324b1ef94054b4"
-  },
-  {
-    "id": "q_271e816c63bc86da",
-    "type": "single_choice",
-    "question": "During the summer between his junior and senior years of college, where did Chris travel?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Arizona"
-      },
-      {
-        "key": "B",
-        "text": "Alaska"
-      },
-      {
-        "key": "C",
-        "text": "Uganda"
-      },
-      {
-        "key": "D",
-        "text": "Guatemala"
-      }
-    ],
-    "answer": [
-      "B"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第三次测试.docx#20"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "271e816c63bc86da8a25d63c4c5bbc8745073975985b3da12fd6c7bb670c004c"
-  },
-  {
-    "id": "q_493950f5095da06d",
-    "type": "single_choice",
-    "question": "What strange pastime did Chris develop in high school?",
-    "options": [
-      {
-        "key": "A",
-        "text": "He went to bad parts of town, talked to prostitutes and homeless people, and brought them food."
-      },
-      {
-        "key": "B",
-        "text": "He ditched school to hike."
-      },
-      {
-        "key": "C",
-        "text": "He broke into rich people's houses."
-      },
-      {
-        "key": "D",
-        "text": "He broke up classmates' parties."
-      }
-    ],
-    "answer": [
-      "A"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第三次测试.docx#21"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "493950f5095da06d16eac893871ad17f26d7642adac870c8b8b5005055c9a51f"
-  },
-  {
-    "id": "q_3b47bcc730a6961d",
-    "type": "single_choice",
-    "question": "Krakauer is reminded of British explorer Sir John Franklin, ______.",
-    "options": [
-      {
-        "key": "A",
-        "text": "who helped reconstruct the McCandless trip"
-      },
-      {
-        "key": "B",
-        "text": "whose arrogance in harsh conditions led to the demise of 140 souls"
-      },
-      {
-        "key": "C",
-        "text": "who was a mapmaker pioneer"
-      },
-      {
-        "key": "D",
-        "text": "who lived through the harshest conditions"
-      }
-    ],
-    "answer": [
-      "B"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第三次测试.docx#22"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "3b47bcc730a6961dcd821a9515a62a2fbf787a4f6f224f1aa2cb9754c23100cb"
-  },
-  {
-    "id": "q_9fa9c8fcb072b571",
-    "type": "single_choice",
-    "question": "In June, McCandless shoots a moose. He feels ______.",
-    "options": [
-      {
-        "key": "A",
-        "text": "All of the above"
-      },
-      {
-        "key": "B",
-        "text": "regretful"
-      },
-      {
-        "key": "C",
-        "text": "traumatized"
-      },
-      {
-        "key": "D",
-        "text": "proud at first"
-      }
-    ],
-    "answer": [
-      "A"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第三次测试.docx#23"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "9fa9c8fcb072b5713687f40a56ea60e5289f48e11a9899e1f4b1208ea1a54d46"
-  },
-  {
-    "id": "q_9c0de3ee31bffa95",
-    "type": "single_choice",
-    "question": "In the quoted sentence about Jim Mattis, which phrase is an appositive?",
-    "options": [
-      {
-        "key": "A",
-        "text": "secretary of defense"
-      },
-      {
-        "key": "B",
-        "text": "a star"
-      },
-      {
-        "key": "C",
-        "text": "a failure"
-      },
-      {
-        "key": "D",
-        "text": "trashed"
-      }
-    ],
-    "answer": [
-      "A"
-    ],
-    "category": "other",
-    "source": [
-      "第三次测试.docx#24"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "9c0de3ee31bffa958d8f51f7f71d20566da6ff3aa76d44ccf31ee296c953bd01"
-  },
-  {
-    "id": "q_ad2f22506e9237b7",
-    "type": "single_choice",
-    "question": "The headline and sub-head shown are respectively ______.",
-    "options": [
-      {
-        "key": "A",
-        "text": "opinion, fact"
-      },
-      {
-        "key": "B",
-        "text": "opinion, opinion"
-      },
-      {
-        "key": "C",
-        "text": "fact, fact"
-      },
-      {
-        "key": "D",
-        "text": "fact, opinion"
-      }
-    ],
-    "answer": [
-      "D"
-    ],
-    "category": "news_english",
-    "source": [
-      "第三次测试.docx#25"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "ad2f22506e9237b7138a93d0ad2fa87ed7980f5f76287ce61431c8a9245f6fec"
-  },
-  {
-    "id": "q_31bea312a4866cc3",
-    "type": "single_choice",
-    "question": "In Bequele's quote, which wording signals opinion most strongly?",
-    "options": [
-      {
-        "key": "A",
-        "text": "The verb 'add'"
-      },
-      {
-        "key": "B",
-        "text": "The word 'Africa'"
-      },
-      {
-        "key": "C",
-        "text": "The keyword 'unacceptable'"
-      },
-      {
-        "key": "D",
-        "text": "The keyword 'hungry'"
+        "text": "expands"
       }
     ],
     "answer": [
@@ -2236,571 +196,33 @@
     ],
     "category": "other",
     "source": [
-      "第三次测试.docx#26"
+      "yxq英语题库.docx#6"
     ],
     "explanation": "",
     "ocrConfidence": null,
     "reviewStatus": "verified",
-    "fingerprint": "31bea312a4866cc38d811030a6a02de1b48377aee0b9316c2fe07a3bc74923af"
+    "fingerprint": "77bcfdb8b79c08438ac2b0dd6e4b3d0e1664ab2b7d53e4ffd25f5292b6e5e040"
   },
   {
-    "id": "q_ac1a0ee1ef080e9b",
+    "id": "q_11fda06d712bee52",
     "type": "single_choice",
-    "question": "What musical skill did Chris and his father have in common?",
+    "question": "The ______ over the decision wasn't a surprise as they often disagree with each other over all sorts of things.",
     "options": [
       {
         "key": "A",
-        "text": "playing drums"
+        "text": "conversation"
       },
       {
         "key": "B",
-        "text": "singing"
+        "text": "clash"
       },
       {
         "key": "C",
-        "text": "playing piano"
+        "text": "agreement"
       },
       {
         "key": "D",
-        "text": "playing French horn"
-      }
-    ],
-    "answer": [
-      "C"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第三次测试.docx#27"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "ac1a0ee1ef080e9b6b3ab88e0bef9af040cf16b6514a2409dd585988f82af8da"
-  },
-  {
-    "id": "q_93bdc610a693c389",
-    "type": "single_choice",
-    "question": "At Chris's high-school graduation party, how did he behave toward his dad?",
-    "options": [
-      {
-        "key": "A",
-        "text": "He was rude and would not speak."
-      },
-      {
-        "key": "B",
-        "text": "He said he was not going to college."
-      },
-      {
-        "key": "C",
-        "text": "He said he was grateful for all his dad had done."
-      },
-      {
-        "key": "D",
-        "text": "He insulted his dad."
-      }
-    ],
-    "answer": [
-      "C"
-    ],
-    "category": "other",
-    "source": [
-      "第三次测试.docx#28"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "93bdc610a693c3891b11dea879efe9cb0e6e0e707ad4bfcdc4044815ff9c5ddf"
-  },
-  {
-    "id": "q_6505d1ef7126a114",
-    "type": "single_choice",
-    "question": "Depicting Donald Trump with moody wording is called ______.",
-    "options": [
-      {
-        "key": "A",
-        "text": "slant"
-      },
-      {
-        "key": "B",
-        "text": "unproved claims"
-      },
-      {
-        "key": "C",
-        "text": "sensationalism"
-      },
-      {
-        "key": "D",
-        "text": "spin"
-      }
-    ],
-    "answer": [
-      "D"
-    ],
-    "category": "other",
-    "source": [
-      "第三次测试.docx#29"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "6505d1ef7126a114d19c3b78d0adb79352811cd02ee237c8463937395c015ab9"
-  },
-  {
-    "id": "q_7e376bc6f02e4639",
-    "type": "single_choice",
-    "question": "Alex felt ______ when he left Carthage.",
-    "options": [
-      {
-        "key": "A",
-        "text": "sad"
-      },
-      {
-        "key": "B",
-        "text": "eager"
-      },
-      {
-        "key": "C",
-        "text": "excited"
-      },
-      {
-        "key": "D",
-        "text": "light-hearted"
-      }
-    ],
-    "answer": [
-      "A"
-    ],
-    "category": "other",
-    "source": [
-      "第三次测试.docx#30"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "7e376bc6f02e463941b4e5314c9c726a009d26705ea0dbc04c12dbb772a435ff"
-  },
-  {
-    "id": "q_025b4470f0aa1d9c",
-    "type": "single_choice",
-    "question": "Krakauer assumes that the potato seeds were mistaken for ______.",
-    "options": [
-      {
-        "key": "A",
-        "text": "a sweet pea plant"
-      },
-      {
-        "key": "B",
-        "text": "a poison berry"
-      },
-      {
-        "key": "C",
-        "text": "none of the above"
-      },
-      {
-        "key": "D",
-        "text": "hemlock"
-      }
-    ],
-    "answer": [
-      "A"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第三次测试.docx#31"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "025b4470f0aa1d9ca06e12e8e0170990da70b9646c9bd8fbb57542c8222010c1"
-  },
-  {
-    "id": "q_ccc44b5675ff7c97",
-    "type": "single_choice",
-    "question": "McCandless was musical; he could do all the following well except ______.",
-    "options": [
-      {
-        "key": "A",
-        "text": "playing the electric organ"
-      },
-      {
-        "key": "B",
-        "text": "playing the piano"
-      },
-      {
-        "key": "C",
-        "text": "singing"
-      },
-      {
-        "key": "D",
-        "text": "dancing"
-      }
-    ],
-    "answer": [
-      "D"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第三次测试.docx#32"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "ccc44b5675ff7c976220589f2146d249e3ab3e6cb43cfc6cf8300efff243c719"
-  },
-  {
-    "id": "q_7846fe7bf8f85404",
-    "type": "single_choice",
-    "question": "Chris is unable to cross the Teklanika River because ______.",
-    "options": [
-      {
-        "key": "A",
-        "text": "His boots drag him down"
-      },
-      {
-        "key": "B",
-        "text": "He does not know the way back"
-      },
-      {
-        "key": "C",
-        "text": "He cannot swim"
-      },
-      {
-        "key": "D",
-        "text": "The water is too high from melting snow"
-      }
-    ],
-    "answer": [
-      "D"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第三次测试.docx#33"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "7846fe7bf8f8540420edaaba7812f6e682c77bcef51cccb177f044b60cc557f3"
-  },
-  {
-    "id": "q_59a572ff9f9ba0b6",
-    "type": "single_choice",
-    "question": "What does Krakauer think actually killed Chris?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Choking on rabbit bones"
-      },
-      {
-        "key": "B",
-        "text": "Tainted canned goods"
-      },
-      {
-        "key": "C",
-        "text": "Poisonous leaves"
-      },
-      {
-        "key": "D",
-        "text": "Mold on wild potato seeds"
-      }
-    ],
-    "answer": [
-      "D"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第三次测试.docx#34"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "59a572ff9f9ba0b6a3f1461957fdcbcc0d5531957bbe30ef1a829344fa486747"
-  },
-  {
-    "id": "q_99c2fa352edbe6e1",
-    "type": "single_choice",
-    "question": "How many Okinawan children did Franz take under his wing in total?",
-    "options": [
-      {
-        "key": "A",
-        "text": "15"
-      },
-      {
-        "key": "B",
-        "text": "5"
-      },
-      {
-        "key": "C",
-        "text": "2"
-      },
-      {
-        "key": "D",
-        "text": "14"
-      }
-    ],
-    "answer": [
-      "D"
-    ],
-    "category": "other",
-    "source": [
-      "第三次测试.docx#35"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "99c2fa352edbe6e1e1b9812353fcf8946c770548f417a5674d0d397e9bf12b2b"
-  },
-  {
-    "id": "q_4f87d4126cea3753",
-    "type": "true_false",
-    "question": "Reporters at famous newspapers are professional journalists immune to bias.",
-    "options": [
-      {
-        "key": "T",
-        "text": "正确"
-      },
-      {
-        "key": "F",
-        "text": "错误"
-      }
-    ],
-    "answer": [
-      "F"
-    ],
-    "category": "news_english",
-    "source": [
-      "第三次测试.docx#36"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "4f87d4126cea3753f9debf83662874e8afa71f7dad9b8adca554f15bbb897c23"
-  },
-  {
-    "id": "q_f3b5a137089746ef",
-    "type": "true_false",
-    "question": "Media bias can be avoided if reporters are more careful about word choice.",
-    "options": [
-      {
-        "key": "T",
-        "text": "正确"
-      },
-      {
-        "key": "F",
-        "text": "错误"
-      }
-    ],
-    "answer": [
-      "F"
-    ],
-    "category": "news_english",
-    "source": [
-      "第三次测试.docx#37"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "f3b5a137089746efa1f3dfc036330390cf585decd342cba8fc76c21c436a6605"
-  },
-  {
-    "id": "q_5fb9ab080de36962",
-    "type": "true_false",
-    "question": "Bias, no matter how implicitly it hides, will give itself away before a trained reader.",
-    "options": [
-      {
-        "key": "T",
-        "text": "正确"
-      },
-      {
-        "key": "F",
-        "text": "错误"
-      }
-    ],
-    "answer": [
-      "T"
-    ],
-    "category": "other",
-    "source": [
-      "第三次测试.docx#38"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "5fb9ab080de36962decc2f9d6b1d11ac486dfae7f36591e85b688a3819214995"
-  },
-  {
-    "id": "q_15985644219623ab",
-    "type": "true_false",
-    "question": "Finding what is omitted but worth mentioning is a way to find the reporter's opinion.",
-    "options": [
-      {
-        "key": "T",
-        "text": "正确"
-      },
-      {
-        "key": "F",
-        "text": "错误"
-      }
-    ],
-    "answer": [
-      "T"
-    ],
-    "category": "news_english",
-    "source": [
-      "第三次测试.docx#39"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "15985644219623ab37dc13cbd2cbe20e689f0e16354c6486b17d8822546ebabf"
-  },
-  {
-    "id": "q_fe91b95ec3ba5207",
-    "type": "true_false",
-    "question": "Good news is usually free of bias.",
-    "options": [
-      {
-        "key": "T",
-        "text": "正确"
-      },
-      {
-        "key": "F",
-        "text": "错误"
-      }
-    ],
-    "answer": [
-      "F"
-    ],
-    "category": "news_english",
-    "source": [
-      "第三次测试.docx#40"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "fe91b95ec3ba5207992878298113770d452b2763cd193f35b41537222c79481b"
-  },
-  {
-    "id": "q_98360906426a6f37",
-    "type": "single_choice",
-    "question": "News about politics, war, economics, and crimes used to be considered ______.",
-    "options": [
-      {
-        "key": "A",
-        "text": "world news"
-      },
-      {
-        "key": "B",
-        "text": "Opinions"
-      },
-      {
-        "key": "C",
-        "text": "hard news"
-      },
-      {
-        "key": "D",
-        "text": "soft news"
-      }
-    ],
-    "answer": [
-      "C"
-    ],
-    "category": "news_english",
-    "source": [
-      "第二次测试.docx#1"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "98360906426a6f3799cc0902f7b5e2e15adc02431661d2a5c2155871ba855b9d"
-  },
-  {
-    "id": "q_c7e5e1cd771b9fbb",
-    "type": "single_choice",
-    "question": "Among the types of media, ______ is booming in these two decades into the 21st century.",
-    "options": [
-      {
-        "key": "A",
-        "text": "Print news"
-      },
-      {
-        "key": "B",
-        "text": "gossip news"
-      },
-      {
-        "key": "C",
-        "text": "internet news"
-      },
-      {
-        "key": "D",
-        "text": "broadcast news"
-      }
-    ],
-    "answer": [
-      "C"
-    ],
-    "category": "news_english",
-    "source": [
-      "第二次测试.docx#2"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "c7e5e1cd771b9fbb60cbf9e38a80506663bcd57296a50b268ee4410f667fec4a"
-  },
-  {
-    "id": "q_8d75b33780b48458",
-    "type": "single_choice",
-    "question": "The inverted pyramid structure is more likely to be adopted in the ______.",
-    "options": [
-      {
-        "key": "A",
-        "text": "Op-ed"
-      },
-      {
-        "key": "B",
-        "text": "feature story"
-      },
-      {
-        "key": "C",
-        "text": "editorial"
-      },
-      {
-        "key": "D",
-        "text": "straight news"
-      }
-    ],
-    "answer": [
-      "D"
-    ],
-    "category": "other",
-    "source": [
-      "第二次测试.docx#3"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "8d75b33780b484583fcb01b980a8bd6e70a6a7f099361687e1a066068ce8b897"
-  },
-  {
-    "id": "q_6d574d0ab2bdb6d9",
-    "type": "single_choice",
-    "question": "Every day we spend a lot of time catching up with the latest happenings, yet our knowledge remains limited. This is called ______.",
-    "options": [
-      {
-        "key": "A",
-        "text": "digital divide"
-      },
-      {
-        "key": "B",
-        "text": "information overload"
-      },
-      {
-        "key": "C",
-        "text": "ethical issue"
-      },
-      {
-        "key": "D",
-        "text": "lack of credibility"
+        "text": "discussion"
       }
     ],
     "answer": [
@@ -2808,475 +230,33 @@
     ],
     "category": "other",
     "source": [
-      "第二次测试.docx#4"
+      "yxq英语题库.docx#7"
     ],
     "explanation": "",
     "ocrConfidence": null,
     "reviewStatus": "verified",
-    "fingerprint": "6d574d0ab2bdb6d99c250121858d56fe138f12edd0f13190bb8485921dcf6fb1"
+    "fingerprint": "11fda06d712bee52ff41a8f9fb8637cce39f6c565d326819783a25ba396c38ff"
   },
   {
-    "id": "q_3b4fa2c85965f0c0",
+    "id": "q_0a3d0acd41b8c282",
     "type": "single_choice",
-    "question": "Which rhetorical device is NOT used in the headline shown in the test?",
+    "question": "Their failure to keep the systems up to date led to ______ errors that caused the shutdown of a server and the loss of an entire customer database.",
     "options": [
       {
         "key": "A",
-        "text": "Metonymy"
+        "text": "serious"
       },
       {
         "key": "B",
-        "text": "Parody"
+        "text": "fatal"
       },
       {
         "key": "C",
-        "text": "Metaphor"
+        "text": "occasional"
       },
       {
         "key": "D",
-        "text": "Personification"
-      }
-    ],
-    "answer": [
-      "A"
-    ],
-    "category": "news_english",
-    "source": [
-      "第二次测试.docx#5"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "3b4fa2c85965f0c098c2e95b8ae080d97d92b5963fc14cb9dfd6dc329c9495f3"
-  },
-  {
-    "id": "q_b677b84d929b8233",
-    "type": "single_choice",
-    "question": "If you cannot find a byline in the news report, it is probably because ______.",
-    "options": [
-      {
-        "key": "A",
-        "text": "It is outsourced rather than written by this newspaper's reporter"
-      },
-      {
-        "key": "B",
-        "text": "It is an editorial"
-      },
-      {
-        "key": "C",
-        "text": "It is a letter to the editor"
-      },
-      {
-        "key": "D",
-        "text": "It is written by a nobody"
-      }
-    ],
-    "answer": [
-      "B"
-    ],
-    "category": "news_english",
-    "source": [
-      "第二次测试.docx#6"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "b677b84d929b82339f4496acb6d6ba658fcd43587198dae879911e19bd85bab1"
-  },
-  {
-    "id": "q_4dcfe01b11bf9ac7",
-    "type": "single_choice",
-    "question": "Why does Ronald Franz take Christopher McCandless into his home?",
-    "options": [
-      {
-        "key": "A",
-        "text": "McCandless has offered to work in exchange for lodging."
-      },
-      {
-        "key": "B",
-        "text": "Franz's wife likes McCandless."
-      },
-      {
-        "key": "C",
-        "text": "McCandless reminds Franz of his own son, who is dead."
-      },
-      {
-        "key": "D",
-        "text": "McCandless persuades him that it is his moral duty."
-      }
-    ],
-    "answer": [
-      "C"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第二次测试.docx#7"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "4dcfe01b11bf9ac7c8cfbaa78215128d9a65b02e7dcb195b2d6fe30e3d728871"
-  },
-  {
-    "id": "q_27674e7bd30282af",
-    "type": "single_choice",
-    "question": "Which rhetorical device is used in the headline of the news shown in the test?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Parody"
-      },
-      {
-        "key": "B",
-        "text": "Metaphor"
-      },
-      {
-        "key": "C",
-        "text": "Pun"
-      },
-      {
-        "key": "D",
-        "text": "Personification"
-      }
-    ],
-    "answer": [
-      "B"
-    ],
-    "category": "news_english",
-    "source": [
-      "第二次测试.docx#8"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "27674e7bd30282af0ec73dda95d160ed8c1d2d97d4fb78bf14bf7956f98de7f2"
-  },
-  {
-    "id": "q_1ff83134894159c1",
-    "type": "single_choice",
-    "question": "How long did McCandless stay in Bullhead City?",
-    "options": [
-      {
-        "key": "A",
-        "text": "two weeks"
-      },
-      {
-        "key": "B",
-        "text": "one year"
-      },
-      {
-        "key": "C",
-        "text": "two months"
-      },
-      {
-        "key": "D",
-        "text": "one month"
-      }
-    ],
-    "answer": [
-      "C"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第二次测试.docx#9"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "1ff83134894159c100c68a17c88df3eabeaab053cf36f3b5e7515e293e71a83f"
-  },
-  {
-    "id": "q_b66e5a4f19476986",
-    "type": "single_choice",
-    "question": "McCandless accepted ______ from Jan when he left Slabs.",
-    "options": [
-      {
-        "key": "A",
-        "text": "some knives"
-      },
-      {
-        "key": "B",
-        "text": "warm clothing"
-      },
-      {
-        "key": "C",
-        "text": "a little money"
-      },
-      {
-        "key": "D",
-        "text": "long underwear"
-      }
-    ],
-    "answer": [
-      "A"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第二次测试.docx#10"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "b66e5a4f19476986774f804c9b2daca48d219dd4bf6406f8905209fb1a24306e"
-  },
-  {
-    "id": "q_bdcd68f5a0aedfd0",
-    "type": "single_choice",
-    "question": "McCandless did the following to prepare for his great Alaskan adventure except ______.",
-    "options": [
-      {
-        "key": "A",
-        "text": "taking all that Burres offered"
-      },
-      {
-        "key": "B",
-        "text": "saving money"
-      },
-      {
-        "key": "C",
-        "text": "calisthenics"
-      },
-      {
-        "key": "D",
-        "text": "learning about backcountry survival strategies"
-      }
-    ],
-    "answer": [
-      "A"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第二次测试.docx#11"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "bdcd68f5a0aedfd03ef8412700871c2eb4868776c94207ac2585df7d6f209f1b"
-  },
-  {
-    "id": "q_986a4a822ca742dd",
-    "type": "single_choice",
-    "question": "What does Chris do in the Anza-Borrego Desert State Park?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Works in a grain elevator"
-      },
-      {
-        "key": "B",
-        "text": "Earns money"
-      },
-      {
-        "key": "C",
-        "text": "Looks for his possessions"
-      },
-      {
-        "key": "D",
-        "text": "Sets up camp"
-      }
-    ],
-    "answer": [
-      "D"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第二次测试.docx#12"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "986a4a822ca742ddebc6742872881bf4bc89fc0f272cbd5b4481a8ec7a73b6d4"
-  },
-  {
-    "id": "q_f8068405fc4f1a21",
-    "type": "single_choice",
-    "question": "All of the following works of Jack London trigger McCandless's dream of Alaska except ______.",
-    "options": [
-      {
-        "key": "A",
-        "text": "White Fang"
-      },
-      {
-        "key": "B",
-        "text": "The Adventures of Huckleberry Finn"
-      },
-      {
-        "key": "C",
-        "text": "An Odyssey of the North"
-      },
-      {
-        "key": "D",
-        "text": "The Call of the Wild"
-      }
-    ],
-    "answer": [
-      "B"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第二次测试.docx#13"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "f8068405fc4f1a21d055a0e78e5425132cbb347138321f3ed30dc69de821f08e"
-  },
-  {
-    "id": "q_d08a7c9613dce1a0",
-    "type": "single_choice",
-    "question": "McCandless talked with people around him about the following except ______.",
-    "options": [
-      {
-        "key": "A",
-        "text": "his family"
-      },
-      {
-        "key": "B",
-        "text": "nature"
-      },
-      {
-        "key": "C",
-        "text": "his great Alaskan odyssey"
-      },
-      {
-        "key": "D",
-        "text": "books"
-      }
-    ],
-    "answer": [
-      "A"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第二次测试.docx#14"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "d08a7c9613dce1a0f7f6892908c63288c0d65c4bb31438eceea43b73d2620b89"
-  },
-  {
-    "id": "q_c4e87f970e94b88c",
-    "type": "single_choice",
-    "question": "There are four main ways to obtain first-hand news. Which is one of them?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Twitter"
-      },
-      {
-        "key": "B",
-        "text": "Facebook"
-      },
-      {
-        "key": "C",
-        "text": "newspaper websites"
-      },
-      {
-        "key": "D",
-        "text": "VPN"
-      }
-    ],
-    "answer": [
-      "C"
-    ],
-    "category": "news_english",
-    "source": [
-      "第二次测试.docx#15"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "c4e87f970e94b88c965b48fbbca28cc90f44681442a7c3e955e29c1de7006ee1"
-  },
-  {
-    "id": "q_3d2f0c659a7a168a",
-    "type": "single_choice",
-    "question": "Why did Alex decide to go to San Diego?",
-    "options": [
-      {
-        "key": "A",
-        "text": "To express his love to the 17-year-old girl"
-      },
-      {
-        "key": "B",
-        "text": "To set up camp"
-      },
-      {
-        "key": "C",
-        "text": "To earn money for his Alaska trip"
-      },
-      {
-        "key": "D",
-        "text": "To visit Jan and Bob"
-      }
-    ],
-    "answer": [
-      "C"
-    ],
-    "category": "other",
-    "source": [
-      "第二次测试.docx#16"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "3d2f0c659a7a168af8e5044a18a73fcc7e12c45f64cc124675c270990ab2603c"
-  },
-  {
-    "id": "q_70895fd01061ae9b",
-    "type": "single_choice",
-    "question": "Who was McCandless's favorite writer?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Jack London"
-      },
-      {
-        "key": "B",
-        "text": "H. G. Wells"
-      },
-      {
-        "key": "C",
-        "text": "Mark Twain"
-      },
-      {
-        "key": "D",
-        "text": "Dickens"
-      }
-    ],
-    "answer": [
-      "A"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第二次测试.docx#17"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "70895fd01061ae9b1aab18b07c8932a6d278aed9a5eaa0de19f21c97adf4e052"
-  },
-  {
-    "id": "q_d48652f2d1faa8f1",
-    "type": "single_choice",
-    "question": "What happened to Franz's family?",
-    "options": [
-      {
-        "key": "A",
-        "text": "It is unknown."
-      },
-      {
-        "key": "B",
-        "text": "His wife and only child were killed by a drunk driver in an automobile accident."
-      },
-      {
-        "key": "C",
-        "text": "Both his wife and only child left home."
-      },
-      {
-        "key": "D",
-        "text": "He became an atheist."
+        "text": "minor"
       }
     ],
     "answer": [
@@ -3284,135 +264,33 @@
     ],
     "category": "other",
     "source": [
-      "第二次测试.docx#18"
+      "yxq英语题库.docx#8"
     ],
     "explanation": "",
     "ocrConfidence": null,
     "reviewStatus": "verified",
-    "fingerprint": "d48652f2d1faa8f18e5d9f575ecb6d453de804992fd60072ba2b76abeed6706a"
+    "fingerprint": "0a3d0acd41b8c282c59ff1ec5e1ddcf6a4befdcaf0dd20f3d5471ac0147e6377"
   },
   {
-    "id": "q_24b9df3563f5292b",
+    "id": "q_b4154168e1b37711",
     "type": "single_choice",
-    "question": "McCandless was big on the following authors except ______.",
+    "question": "The girl is too ______. She never takes any risks and is frightened of making mistakes.",
     "options": [
       {
         "key": "A",
-        "text": "H. G. Wells"
+        "text": "careless"
       },
       {
         "key": "B",
-        "text": "T. S. Eliot"
+        "text": "confident"
       },
       {
         "key": "C",
-        "text": "Jack London"
+        "text": "impatient"
       },
       {
         "key": "D",
-        "text": "Dickens"
-      }
-    ],
-    "answer": [
-      "B"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第二次测试.docx#19"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "24b9df3563f5292b40aa6d24ac51d93eee5d3bf556019432249ced583196821d"
-  },
-  {
-    "id": "q_43c457d277f723be",
-    "type": "single_choice",
-    "question": "According to the contents, news articles can be broadly classified into ______.",
-    "options": [
-      {
-        "key": "A",
-        "text": "two types: news and features"
-      },
-      {
-        "key": "B",
-        "text": "two types: news and opinion pieces"
-      },
-      {
-        "key": "C",
-        "text": "three types: news, features, and opinion pieces"
-      },
-      {
-        "key": "D",
-        "text": "three types: hard news, soft news, and opinion pieces"
-      }
-    ],
-    "answer": [
-      "C"
-    ],
-    "category": "news_english",
-    "source": [
-      "第二次测试.docx#20"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "43c457d277f723be3f112f56bbc26efde792c813970b0d66885fb11ed6181813"
-  },
-  {
-    "id": "q_ca310d596c94b7e3",
-    "type": "single_choice",
-    "question": "McCandless did all the following things to Jan Burres except ______.",
-    "options": [
-      {
-        "key": "A",
-        "text": "arguing with her"
-      },
-      {
-        "key": "B",
-        "text": "making her mad"
-      },
-      {
-        "key": "C",
-        "text": "helping her with housework"
-      },
-      {
-        "key": "D",
-        "text": "teasing her"
-      }
-    ],
-    "answer": [
-      "C"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第二次测试.docx#21"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "ca310d596c94b7e3300f32ba1e86c9529d2b9e3aed1704576278b28f2e388a61"
-  },
-  {
-    "id": "q_4aa46fba8e9eb735",
-    "type": "single_choice",
-    "question": "______ takes a factual approach: What happened? Who was involved? Where and when?",
-    "options": [
-      {
-        "key": "A",
-        "text": "An opinion"
-      },
-      {
-        "key": "B",
-        "text": "A feature story"
-      },
-      {
-        "key": "C",
-        "text": "A soft news"
-      },
-      {
-        "key": "D",
-        "text": "A hard news"
+        "text": "cautious"
       }
     ],
     "answer": [
@@ -3420,407 +298,237 @@
     ],
     "category": "other",
     "source": [
-      "第二次测试.docx#22"
+      "yxq英语题库.docx#9"
     ],
     "explanation": "",
     "ocrConfidence": null,
     "reviewStatus": "verified",
-    "fingerprint": "4aa46fba8e9eb73514a623d225ad085c338874669c92e2035504ddbc4f42068a"
+    "fingerprint": "b4154168e1b37711482c363db0a3cdcc039176e530b736323dbed1befa54cca7"
   },
   {
-    "id": "q_19d6e5a84cba1c4c",
+    "id": "q_2e05ab88739fb4cc",
     "type": "single_choice",
-    "question": "In the first several weeks in Bullhead City, where did McCandless live?",
+    "question": "Over the years, she has become ______ at different computer software programs.",
     "options": [
       {
         "key": "A",
-        "text": "in an asylum"
+        "text": "proficient"
       },
       {
         "key": "B",
-        "text": "in the street"
+        "text": "slow"
       },
       {
         "key": "C",
-        "text": "on a trailer"
+        "text": "poor"
       },
       {
         "key": "D",
-        "text": "in the desert"
+        "text": "interested"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#10"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "2e05ab88739fb4cc3596721e63fbcb8b7ddaf7396fb179cd3a52ba5408f120e9"
+  },
+  {
+    "id": "q_e1a3db10754defb2",
+    "type": "single_choice",
+    "question": "Alice is a very ______ person. She always thinks about other people's feelings.",
+    "options": [
+      {
+        "key": "A",
+        "text": "generous"
+      },
+      {
+        "key": "B",
+        "text": "considerate"
+      },
+      {
+        "key": "C",
+        "text": "cautious"
+      },
+      {
+        "key": "D",
+        "text": "confident"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#11"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "e1a3db10754defb23aff207cb7a4cb025ccf2dfb5c4777fcf329cab6c4983756"
+  },
+  {
+    "id": "q_4e1278111a30998f",
+    "type": "single_choice",
+    "question": "The CEO often ______ the company's retired founders when the business is facing troubles.",
+    "options": [
+      {
+        "key": "A",
+        "text": "replaces"
+      },
+      {
+        "key": "B",
+        "text": "consults"
+      },
+      {
+        "key": "C",
+        "text": "ignores"
+      },
+      {
+        "key": "D",
+        "text": "supports"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#12"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "4e1278111a30998f33d2283807eb9daf7f3212baf8bbeb384a1e14c3e3fd74b3"
+  },
+  {
+    "id": "q_068c7c2d03d89ad8",
+    "type": "single_choice",
+    "question": "The newly proposed plan was so bold that none of the managers had the courage to ______ it.",
+    "options": [
+      {
+        "key": "A",
+        "text": "approve"
+      },
+      {
+        "key": "B",
+        "text": "forbid"
+      },
+      {
+        "key": "C",
+        "text": "reject"
+      },
+      {
+        "key": "D",
+        "text": "execute"
       }
     ],
     "answer": [
       "D"
     ],
-    "category": "into_the_wild",
-    "source": [
-      "第二次测试.docx#23"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "19d6e5a84cba1c4c3f6bc6e6c92df946773490af1b531a399e410b402b1f83cb"
-  },
-  {
-    "id": "q_2d7d9f95d1a037cf",
-    "type": "single_choice",
-    "question": "A type of opinion article is called 'Op-ed', which stands for ______.",
-    "options": [
-      {
-        "key": "A",
-        "text": "opposite the editorial"
-      },
-      {
-        "key": "B",
-        "text": "opposed"
-      },
-      {
-        "key": "C",
-        "text": "opened"
-      },
-      {
-        "key": "D",
-        "text": "opined"
-      }
-    ],
-    "answer": [
-      "A"
-    ],
-    "category": "news_english",
-    "source": [
-      "第二次测试.docx#24"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "2d7d9f95d1a037cfd980e53c6cb184b7c4e144dc4fe2ffebaf7ac387e6db0e6c"
-  },
-  {
-    "id": "q_7ea3671128d4a92e",
-    "type": "single_choice",
-    "question": "According to Charlie, McCandless had a lot of ______.",
-    "options": [
-      {
-        "key": "A",
-        "text": "horrors"
-      },
-      {
-        "key": "B",
-        "text": "complexes"
-      },
-      {
-        "key": "C",
-        "text": "anxieties"
-      },
-      {
-        "key": "D",
-        "text": "worries"
-      }
-    ],
-    "answer": [
-      "B"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第二次测试.docx#25"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "7ea3671128d4a92e90189744189be4c2b3ed46bc39ea6dca8aada6e43f86aac8"
-  },
-  {
-    "id": "q_3bc2d45906cd4e28",
-    "type": "single_choice",
-    "question": "Franz reaches out to the magazine Outside with a written letter. Why?",
-    "options": [
-      {
-        "key": "A",
-        "text": "He wants a copy of the magazine that ran the story of Chris McCandless."
-      },
-      {
-        "key": "B",
-        "text": "He wants to get in touch with the McCandless family."
-      },
-      {
-        "key": "C",
-        "text": "He wants to determine if there were copyright infringements."
-      },
-      {
-        "key": "D",
-        "text": "He wants to contact Jon Krakauer for a television series."
-      }
-    ],
-    "answer": [
-      "A"
-    ],
     "category": "other",
     "source": [
-      "第二次测试.docx#26"
+      "yxq英语题库.docx#13"
     ],
     "explanation": "",
     "ocrConfidence": null,
     "reviewStatus": "verified",
-    "fingerprint": "3bc2d45906cd4e28a072d3d307912831108331b9c48aa67a723fe7bede007e4f"
+    "fingerprint": "068c7c2d03d89ad88e11d5f74894e3e1c282a0ff2a7b9f0fe05c3d2c4e4a50cc"
   },
   {
-    "id": "q_cabd11dfcca52902",
+    "id": "q_e4f5e196e78fd57a",
     "type": "single_choice",
-    "question": "What did Franz offer to Chris? How did Chris feel about it?",
+    "question": "It was just a casual ______ but it was heard by the boss and caused a conflict.",
     "options": [
       {
         "key": "A",
-        "text": "Leather work; he learned how to make a belt."
+        "text": "notice"
       },
       {
         "key": "B",
-        "text": "To be his grandson; he was uncomfortable with it."
+        "text": "announcement"
       },
       {
         "key": "C",
-        "text": "He became an atheist."
+        "text": "remark"
       },
       {
         "key": "D",
-        "text": "They were killed by a drunk driver."
-      }
-    ],
-    "answer": [
-      "B"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第二次测试.docx#27"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "cabd11dfcca52902b01367d38110e09ebcc56ea31e8afed17d6850132ad77cc8"
-  },
-  {
-    "id": "q_848400c054f2ad3f",
-    "type": "single_choice",
-    "question": "A report with the headline 'Gas Price Up 20%' is probably ______.",
-    "options": [
-      {
-        "key": "A",
-        "text": "a news"
-      },
-      {
-        "key": "B",
-        "text": "a fiction"
-      },
-      {
-        "key": "C",
-        "text": "a feature story"
-      },
-      {
-        "key": "D",
-        "text": "an opinion"
-      }
-    ],
-    "answer": [
-      "A"
-    ],
-    "category": "news_english",
-    "source": [
-      "第二次测试.docx#28"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "848400c054f2ad3f26e0165fd6b4435f09d8e7bbed659a8609ee70cce14530d3"
-  },
-  {
-    "id": "q_d421331963956777",
-    "type": "single_choice",
-    "question": "What can 'Downing Street' and 'White House' refer to?",
-    "options": [
-      {
-        "key": "A",
-        "text": "British Prime Minister and American President."
-      },
-      {
-        "key": "B",
-        "text": "British government and American government."
-      },
-      {
-        "key": "C",
-        "text": "London and Washington D.C."
-      },
-      {
-        "key": "D",
-        "text": "British Parliament and American Congress."
-      }
-    ],
-    "answer": [
-      "B"
-    ],
-    "category": "other",
-    "source": [
-      "第二次测试.docx#29"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "d4213319639567776d46458f039d5514de3fb7d981a253c485aad3dd49a8aa1b"
-  },
-  {
-    "id": "q_38bdd107784db7e9",
-    "type": "single_choice",
-    "question": "Which one is NOT among the strengths of online news?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Everyone can be a news reporter."
-      },
-      {
-        "key": "B",
-        "text": "News travels without delay."
-      },
-      {
-        "key": "C",
-        "text": "You don't have to pay for the news anymore."
-      },
-      {
-        "key": "D",
-        "text": "Interaction becomes fast and easy."
+        "text": "compliment"
       }
     ],
     "answer": [
       "C"
     ],
-    "category": "news_english",
+    "category": "other",
     "source": [
-      "第二次测试.docx#30"
+      "yxq英语题库.docx#14"
     ],
     "explanation": "",
     "ocrConfidence": null,
     "reviewStatus": "verified",
-    "fingerprint": "38bdd107784db7e92d7ead6e75bbe07ec90b176fe12ba5cd24164213c902c7ba"
+    "fingerprint": "e4f5e196e78fd57a076826df8c6422818e70a3cf064c9083aba2fbac35d6711e"
   },
   {
-    "id": "q_23cc18ca2e666ac7",
+    "id": "q_26be76e25077390e",
     "type": "single_choice",
-    "question": "Today's news reports usually have a strong visual and emotional impact because of ______.",
+    "question": "Last year Yunlian made a ______ profit, but most of the money was put back into the company.",
     "options": [
       {
         "key": "A",
-        "text": "multimediality"
+        "text": "tiny"
       },
       {
         "key": "B",
-        "text": "immediacy"
+        "text": "slight"
       },
       {
         "key": "C",
-        "text": "interactivity"
+        "text": "substantial"
       },
       {
         "key": "D",
-        "text": "hypertextuality"
-      }
-    ],
-    "answer": [
-      "A"
-    ],
-    "category": "news_english",
-    "source": [
-      "第二次测试.docx#31"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "23cc18ca2e666ac72a6537a52c7a1c1f93365fa9bfa24bef5ac59b328e61cafe"
-  },
-  {
-    "id": "q_d9f14a0367e6c8cd",
-    "type": "single_choice",
-    "question": "Where did Chris meet Franz?",
-    "options": [
-      {
-        "key": "A",
-        "text": "At the supermarket."
-      },
-      {
-        "key": "B",
-        "text": "In the desert."
-      },
-      {
-        "key": "C",
-        "text": "When he was doing laundry."
-      },
-      {
-        "key": "D",
-        "text": "As Chris was going back to the bajada."
-      }
-    ],
-    "answer": [
-      "D"
-    ],
-    "category": "into_the_wild",
-    "source": [
-      "第二次测试.docx#32"
-    ],
-    "explanation": "",
-    "ocrConfidence": null,
-    "reviewStatus": "verified",
-    "fingerprint": "d9f14a0367e6c8cd76bf7397656b31be40c19576f86c57de70b37afba2ce0d87"
-  },
-  {
-    "id": "q_9976cdb860da7a91",
-    "type": "single_choice",
-    "question": "What did Chris make at Franz's house?",
-    "options": [
-      {
-        "key": "A",
-        "text": "a machete, an Arctic parka, a fishing pole, and other gear"
-      },
-      {
-        "key": "B",
-        "text": "a bottle of whiskey"
-      },
-      {
-        "key": "C",
-        "text": "a leather belt with a record of his wanderings"
-      },
-      {
-        "key": "D",
-        "text": "a portrait of Ron Franz"
+        "text": "ordinary"
       }
     ],
     "answer": [
       "C"
     ],
-    "category": "into_the_wild",
+    "category": "other",
     "source": [
-      "第二次测试.docx#33"
+      "yxq英语题库.docx#15"
     ],
     "explanation": "",
     "ocrConfidence": null,
     "reviewStatus": "verified",
-    "fingerprint": "9976cdb860da7a9124f45dd3bb43d7d0595578c589a346268dff49e58b31a786"
+    "fingerprint": "26be76e25077390e2cca49ac6adc9a49cf53ef4e3361e5d6514ca5eb33be59e7"
   },
   {
-    "id": "q_ce3100015dbbc75f",
+    "id": "q_6c52301db8f66f25",
     "type": "single_choice",
-    "question": "______ likely makes first-person comments.",
+    "question": "I know you are ______ to do your best, but to be more efficient, you really need to stay focused.",
     "options": [
       {
         "key": "A",
-        "text": "An editorial"
+        "text": "preparing"
       },
       {
         "key": "B",
-        "text": "An Op-ed"
+        "text": "striving"
       },
       {
         "key": "C",
-        "text": "A feature story"
+        "text": "refusing"
       },
       {
         "key": "D",
-        "text": "A soft news"
+        "text": "hesitating"
       }
     ],
     "answer": [
@@ -3828,183 +536,1507 @@
     ],
     "category": "other",
     "source": [
-      "第二次测试.docx#34"
+      "yxq英语题库.docx#16"
     ],
     "explanation": "",
     "ocrConfidence": null,
     "reviewStatus": "verified",
-    "fingerprint": "ce3100015dbbc75f10cadb3cb323ca5aefbf04545a356949bcff70e81a8ae859"
+    "fingerprint": "6c52301db8f66f256aba11a43f69800cc356c8457563da187b71a19ebf033926"
   },
   {
-    "id": "q_a495d92579a24d97",
+    "id": "q_e89428a604e4cdc6",
     "type": "single_choice",
-    "question": "When McCandless worked at McDonald's, how did the assistant manager describe him?",
+    "question": "It is becoming increasingly ______ for young people to have a year off during college to gain some work experience.",
     "options": [
       {
         "key": "A",
-        "text": "dependable"
+        "text": "commonplace"
       },
       {
         "key": "B",
-        "text": "diligent"
+        "text": "controversial"
       },
       {
         "key": "C",
-        "text": "sly"
+        "text": "unusual"
       },
       {
         "key": "D",
-        "text": "lazy"
+        "text": "challenging"
       }
     ],
     "answer": [
       "A"
     ],
-    "category": "into_the_wild",
+    "category": "other",
     "source": [
-      "第二次测试.docx#35"
+      "yxq英语题库.docx#17"
     ],
     "explanation": "",
     "ocrConfidence": null,
     "reviewStatus": "verified",
-    "fingerprint": "a495d92579a24d97fa85245b7c6f8535b92c1064db66fbecceca92ca5664caf5"
+    "fingerprint": "e89428a604e4cdc61cf7ce9f2cc31ffe9df02ff74935fa621ccda6d2cf9a73fc"
   },
   {
-    "id": "q_dd9dc43501293364",
+    "id": "q_b5345404a22481e8",
     "type": "single_choice",
-    "question": "How did McCandless break Tracy's heart?",
+    "question": "Unless the company ______ what it offers, it risks losing all its money.",
     "options": [
       {
         "key": "A",
-        "text": "He played with her and abandoned her."
+        "text": "diversified"
       },
       {
         "key": "B",
-        "text": "He was aware that Tracy had a crush on him."
+        "text": "diversifying"
       },
       {
         "key": "C",
-        "text": "He treated her coldly."
+        "text": "diversify"
       },
       {
         "key": "D",
-        "text": "He rebuffed Tracy's advances."
+        "text": "diversifies"
       }
     ],
     "answer": [
       "D"
     ],
-    "category": "into_the_wild",
+    "category": "other",
     "source": [
-      "第二次测试.docx#36"
+      "yxq英语题库.docx#18"
     ],
     "explanation": "",
     "ocrConfidence": null,
     "reviewStatus": "verified",
-    "fingerprint": "dd9dc4350129336400ee5d71547cf809e61bbcc96851b45a3420bc79ec5a697d"
+    "fingerprint": "b5345404a22481e86f7ff864a76f1a01166eea9815c80633ea04d905b918fede"
   },
   {
-    "id": "q_b4e93c59d03a4a32",
-    "type": "true_false",
-    "question": "Headlines are not full sentences, with some function words omitted.",
+    "id": "q_934a4021da6df684",
+    "type": "single_choice",
+    "question": "Working here has been a really ______ experience for me. I now understand things I didn't even know about before.",
     "options": [
       {
-        "key": "T",
-        "text": "正确"
+        "key": "A",
+        "text": "interesting"
       },
       {
-        "key": "F",
-        "text": "错误"
+        "key": "B",
+        "text": "exhausting"
+      },
+      {
+        "key": "C",
+        "text": "frustrating"
+      },
+      {
+        "key": "D",
+        "text": "enlightening"
       }
     ],
     "answer": [
-      "T"
+      "D"
     ],
-    "category": "news_english",
+    "category": "other",
     "source": [
-      "第二次测试.docx#37"
+      "yxq英语题库.docx#19"
     ],
     "explanation": "",
     "ocrConfidence": null,
     "reviewStatus": "verified",
-    "fingerprint": "b4e93c59d03a4a321095d299d2d9d090d3e9db3b2ea358fe9a7ae4ad1614c165"
+    "fingerprint": "934a4021da6df684ab375a7ebb9695183546a699321ad8d9c46c7d535ecd822f"
   },
   {
-    "id": "q_2e89d8ff225d8d02",
-    "type": "true_false",
-    "question": "Generally speaking, there are more active-voice headlines than passive-voice headlines.",
+    "id": "q_8a14c826abb61ad1",
+    "type": "single_choice",
+    "question": "The media company was criticized for the way it ______ the tragedy in order to sell more newspapers.",
     "options": [
       {
-        "key": "T",
-        "text": "正确"
+        "key": "A",
+        "text": "covered"
       },
       {
-        "key": "F",
-        "text": "错误"
+        "key": "B",
+        "text": "exploited"
+      },
+      {
+        "key": "C",
+        "text": "reported"
+      },
+      {
+        "key": "D",
+        "text": "publicized"
       }
     ],
     "answer": [
-      "T"
+      "B"
     ],
     "category": "news_english",
     "source": [
-      "第二次测试.docx#38"
+      "yxq英语题库.docx#20"
     ],
     "explanation": "",
     "ocrConfidence": null,
     "reviewStatus": "verified",
-    "fingerprint": "2e89d8ff225d8d022bcac6852c23c569c970951cb7f01c182e865c69138bbb71"
+    "fingerprint": "8a14c826abb61ad1ed0ba62db17ce17fc6f1f9c08b2527a5c51f4e21be0c700d"
   },
   {
-    "id": "q_10131405c00bedde",
-    "type": "true_false",
-    "question": "News stories are basically divided into two types: hard news and soft news.",
+    "id": "q_2f6f04538a462cd7",
+    "type": "single_choice",
+    "question": "The management took many risks, so the company ______ and everyone lost their jobs.",
     "options": [
       {
-        "key": "T",
-        "text": "正确"
+        "key": "A",
+        "text": "recovered"
       },
       {
-        "key": "F",
-        "text": "错误"
+        "key": "B",
+        "text": "declined"
+      },
+      {
+        "key": "C",
+        "text": "expanded"
+      },
+      {
+        "key": "D",
+        "text": "collapsed"
       }
     ],
     "answer": [
-      "T"
+      "D"
     ],
-    "category": "news_english",
+    "category": "other",
     "source": [
-      "第二次测试.docx#39"
+      "yxq英语题库.docx#21"
     ],
     "explanation": "",
     "ocrConfidence": null,
     "reviewStatus": "verified",
-    "fingerprint": "10131405c00bedde10c0ddc1d045a5db313d21585981741955ac21e043dcd7db"
+    "fingerprint": "2f6f04538a462cd7704d68b1c29017e59f1dde0b38b4079cb78f82760f6b32e1"
   },
   {
-    "id": "q_2a3cc826fe863338",
-    "type": "true_false",
-    "question": "An editorial is usually longer than an Op-ed.",
+    "id": "q_a116466062b51466",
+    "type": "single_choice",
+    "question": "How did he ever get the job? He's simply not ______. Everything he does goes wrong.",
     "options": [
       {
-        "key": "T",
-        "text": "正确"
+        "key": "A",
+        "text": "competent"
       },
       {
-        "key": "F",
-        "text": "错误"
+        "key": "B",
+        "text": "cooperative"
+      },
+      {
+        "key": "C",
+        "text": "responsible"
+      },
+      {
+        "key": "D",
+        "text": "available"
       }
     ],
     "answer": [
-      "F"
+      "A"
     ],
-    "category": "news_english",
+    "category": "other",
     "source": [
-      "第二次测试.docx#40"
+      "yxq英语题库.docx#22"
     ],
     "explanation": "",
     "ocrConfidence": null,
     "reviewStatus": "verified",
-    "fingerprint": "2a3cc826fe8633387a53a97cf1fb8a38aa933a844ff61a0db88334a004654925"
+    "fingerprint": "a116466062b51466fe76929477edfe56aa2966e804f7ff500add6c4809345768"
+  },
+  {
+    "id": "q_dfae417e74b52f66",
+    "type": "single_choice",
+    "question": "The company ______ me for my working overtime last year.",
+    "options": [
+      {
+        "key": "A",
+        "text": "compensated"
+      },
+      {
+        "key": "B",
+        "text": "fined"
+      },
+      {
+        "key": "C",
+        "text": "ignored"
+      },
+      {
+        "key": "D",
+        "text": "punished"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#23"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "dfae417e74b52f6606139e91048d850b94c51937249b2f68abcfa5ea9cac2910"
+  },
+  {
+    "id": "q_f5d0695b2213ace6",
+    "type": "single_choice",
+    "question": "The best thing about working in my company is that there are ______ opportunities for career development.",
+    "options": [
+      {
+        "key": "A",
+        "text": "abundant"
+      },
+      {
+        "key": "B",
+        "text": "equal"
+      },
+      {
+        "key": "C",
+        "text": "scarce"
+      },
+      {
+        "key": "D",
+        "text": "minor"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#24"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "f5d0695b2213ace6cbf7369972c972220e609b030c5054dd7c5f29e4390213fd"
+  },
+  {
+    "id": "q_174351fea657f7fd",
+    "type": "single_choice",
+    "question": "The main problem I have with working as a freelancer is that I do not have a(n) ______ income from month to month.",
+    "options": [
+      {
+        "key": "A",
+        "text": "temporary"
+      },
+      {
+        "key": "B",
+        "text": "sufficient"
+      },
+      {
+        "key": "C",
+        "text": "definite"
+      },
+      {
+        "key": "D",
+        "text": "flexible"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#25"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "174351fea657f7fde4c45c38cb73753d26a1fabb43883e25afb6c58ff3a91954"
+  },
+  {
+    "id": "q_08a001fe284e4170",
+    "type": "single_choice",
+    "question": "Because he didn't send his application on time, Brad ______ on a wonderful opportunity.",
+    "options": [
+      {
+        "key": "A",
+        "text": "missed out"
+      },
+      {
+        "key": "B",
+        "text": "held on"
+      },
+      {
+        "key": "C",
+        "text": "got in"
+      },
+      {
+        "key": "D",
+        "text": "looked out"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#26"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "08a001fe284e41700e4e760597eb0ecf16b8a1c4be8e5b28835587dde2c3d853"
+  },
+  {
+    "id": "q_1d68bba753303431",
+    "type": "single_choice",
+    "question": "The meeting was ______ as a way of trying to understand the cultural differences.",
+    "options": [
+      {
+        "key": "A",
+        "text": "avoided"
+      },
+      {
+        "key": "B",
+        "text": "cancelled"
+      },
+      {
+        "key": "C",
+        "text": "delayed"
+      },
+      {
+        "key": "D",
+        "text": "initiated"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#27"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "1d68bba75330343160d99c18044dbde225cc19e71c6e6c4055805051188e3ce7"
+  },
+  {
+    "id": "q_b683784034550eab",
+    "type": "single_choice",
+    "question": "If successful companies find they have already ______ and faced a downward trend, they will quickly try to work out the trends and changes in the market.",
+    "options": [
+      {
+        "key": "A",
+        "text": "fulfilled the goal"
+      },
+      {
+        "key": "B",
+        "text": "hit a peak"
+      },
+      {
+        "key": "C",
+        "text": "reached the final"
+      },
+      {
+        "key": "D",
+        "text": "gained support"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#28"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "b683784034550eab82813e4f17e527d7b8fea27967c861ebeec4cf2a54f87f58"
+  },
+  {
+    "id": "q_0c5dc45d5d95e1a7",
+    "type": "single_choice",
+    "question": "Positions in companies are increasingly becoming less focused, ______ the fact that most new graduates have much broader skill sets than ever before.",
+    "options": [
+      {
+        "key": "A",
+        "text": "due for"
+      },
+      {
+        "key": "B",
+        "text": "despite"
+      },
+      {
+        "key": "C",
+        "text": "instead of"
+      },
+      {
+        "key": "D",
+        "text": "owing to"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#29"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "0c5dc45d5d95e1a787d386684ba90bf4004992e0fc6c8a82d34ab61095e31d2e"
+  },
+  {
+    "id": "q_586bd3154cc69cae",
+    "type": "single_choice",
+    "question": "Employers are looking for highly adaptable employees who can adapt to any new challenges as they ______.",
+    "options": [
+      {
+        "key": "A",
+        "text": "spring up"
+      },
+      {
+        "key": "B",
+        "text": "put up"
+      },
+      {
+        "key": "C",
+        "text": "take up"
+      },
+      {
+        "key": "D",
+        "text": "end up"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#30"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "586bd3154cc69caebdf719dab72f05189d9dddcb296ebe90c3a60c1aa27eb893"
+  },
+  {
+    "id": "q_9264e8dd031128ed",
+    "type": "single_choice",
+    "question": "Jack insisted that if he worked less hard he would risk ______ opportunities in his job.",
+    "options": [
+      {
+        "key": "A",
+        "text": "passing over"
+      },
+      {
+        "key": "B",
+        "text": "turning down"
+      },
+      {
+        "key": "C",
+        "text": "keeping up"
+      },
+      {
+        "key": "D",
+        "text": "bringing about"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#31"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "9264e8dd031128edc402d5f2b7dbc9973b02ba494fde851d256b5840738cb14e"
+  },
+  {
+    "id": "q_ed0aeb6698ebf333",
+    "type": "single_choice",
+    "question": "Sometimes I ______ my work so that I don't notice things going on around me.",
+    "options": [
+      {
+        "key": "A",
+        "text": "miss out on"
+      },
+      {
+        "key": "B",
+        "text": "am wrapped up in"
+      },
+      {
+        "key": "C",
+        "text": "pay attention to"
+      },
+      {
+        "key": "D",
+        "text": "catch up with"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#32"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "ed0aeb6698ebf3336bd0f81a3fdaa5d440a9751f75238397151676c279039363"
+  },
+  {
+    "id": "q_c84bc24865074bec",
+    "type": "single_choice",
+    "question": "That was ______ one of the hardest interviews I've ever had; the questions were really complicated, and the interviewers seemed really strict!",
+    "options": [
+      {
+        "key": "A",
+        "text": "in total"
+      },
+      {
+        "key": "B",
+        "text": "without a doubt"
+      },
+      {
+        "key": "C",
+        "text": "at all"
+      },
+      {
+        "key": "D",
+        "text": "by chance"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#33"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "c84bc24865074becee8270d90fbfe80a6826488aa4f272549958633350544083"
+  },
+  {
+    "id": "q_12182e7141db4d4f",
+    "type": "single_choice",
+    "question": "Steve has been feeling ______, whereas John seems to get along so well with everyone in the office.",
+    "options": [
+      {
+        "key": "A",
+        "text": "left in"
+      },
+      {
+        "key": "B",
+        "text": "left for"
+      },
+      {
+        "key": "C",
+        "text": "left out"
+      },
+      {
+        "key": "D",
+        "text": "left with"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#34"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "12182e7141db4d4f6af27d580bedde1f80f1297c27d99ccfde64072993094f3f"
+  },
+  {
+    "id": "q_0ab5d6c027377e26",
+    "type": "single_choice",
+    "question": "Our competitor's new product announcement will ______ have a huge effect on our stock price.",
+    "options": [
+      {
+        "key": "A",
+        "text": "doubtful"
+      },
+      {
+        "key": "B",
+        "text": "doubting"
+      },
+      {
+        "key": "C",
+        "text": "doubtless"
+      },
+      {
+        "key": "D",
+        "text": "doubted"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#35"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "0ab5d6c027377e2605d4a2365581430fbc503b64dbfdaaadbf1fa14b4516792c"
+  },
+  {
+    "id": "q_7e6a194f22e352df",
+    "type": "single_choice",
+    "question": "The main responsibility of the R&D department is to ______ possible new business opportunities.",
+    "options": [
+      {
+        "key": "A",
+        "text": "exploit"
+      },
+      {
+        "key": "B",
+        "text": "prevent"
+      },
+      {
+        "key": "C",
+        "text": "identify"
+      },
+      {
+        "key": "D",
+        "text": "explore"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#36"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "7e6a194f22e352dfef4d4717b9067ffcf8cc603e434604596e9e411de5612444"
+  },
+  {
+    "id": "q_147de62b1c7b8b47",
+    "type": "single_choice",
+    "question": "______ everything else I had to do, I was also responsible for showing the new intern around.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Instead of"
+      },
+      {
+        "key": "B",
+        "text": "Except for"
+      },
+      {
+        "key": "C",
+        "text": "On top of"
+      },
+      {
+        "key": "D",
+        "text": "In spite of"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#37"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "147de62b1c7b8b4780f3e6bc726aeb98a03860d93538b4fa40ab75af30e1603e"
+  },
+  {
+    "id": "q_0e70aeb6880d6a5b",
+    "type": "single_choice",
+    "question": "China's success in poverty reduction has demonstrated to the global community that the goal of \"No Poverty\" is ______.",
+    "options": [
+      {
+        "key": "A",
+        "text": "measurable"
+      },
+      {
+        "key": "B",
+        "text": "meaningful"
+      },
+      {
+        "key": "C",
+        "text": "attainable"
+      },
+      {
+        "key": "D",
+        "text": "impossible"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#38"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "0e70aeb6880d6a5bbbb2a4c4505cf6f810752936d4104bb8636d8e9df4e5fe06"
+  },
+  {
+    "id": "q_24847459b7e1d13e",
+    "type": "single_choice",
+    "question": "It's important to try and ______ with the latest advances in technology.",
+    "options": [
+      {
+        "key": "A",
+        "text": "catch down"
+      },
+      {
+        "key": "B",
+        "text": "fall behind"
+      },
+      {
+        "key": "C",
+        "text": "go after"
+      },
+      {
+        "key": "D",
+        "text": "keep up"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#39"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "24847459b7e1d13e763e1f52994d31cf6555e27eedc2cf5abf38a516af988c77"
+  },
+  {
+    "id": "q_8992b35139c23367",
+    "type": "single_choice",
+    "question": "His market research paper was rejected by the journal because he didn't ______ his sources.",
+    "options": [
+      {
+        "key": "A",
+        "text": "collect"
+      },
+      {
+        "key": "B",
+        "text": "cite"
+      },
+      {
+        "key": "C",
+        "text": "record"
+      },
+      {
+        "key": "D",
+        "text": "review"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "category": "news_english",
+    "source": [
+      "yxq英语题库.docx#40"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "8992b35139c233677725a02cb8fccbcd343b8ec5ce22aeb843641fe1608104fb"
+  },
+  {
+    "id": "q_8455610e0416ff54",
+    "type": "single_choice",
+    "question": "Companies that don't take risks may find themselves in financial trouble, or worse, can ______.",
+    "options": [
+      {
+        "key": "A",
+        "text": "go bust"
+      },
+      {
+        "key": "B",
+        "text": "break even"
+      },
+      {
+        "key": "C",
+        "text": "make profits"
+      },
+      {
+        "key": "D",
+        "text": "get ahead"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#41"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "8455610e0416ff545158b2038b88682cfd32735db47031251a3da7c476e86aa5"
+  },
+  {
+    "id": "q_ee283b4f2a189532",
+    "type": "single_choice",
+    "question": "I feel like you and the others include me in what you're doing after work ______, but not all the time.",
+    "options": [
+      {
+        "key": "A",
+        "text": "all at once"
+      },
+      {
+        "key": "B",
+        "text": "every so often"
+      },
+      {
+        "key": "C",
+        "text": "from now on"
+      },
+      {
+        "key": "D",
+        "text": "at that time"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#42"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "ee283b4f2a189532228dbd66da39529edd8c0e91ebe76ea80a3b59d8d2705a56"
+  },
+  {
+    "id": "q_375c51d00e3c1aa7",
+    "type": "single_choice",
+    "question": "Lu Wei is an outgoing and friendly person, so he ______ really well with everyone.",
+    "options": [
+      {
+        "key": "A",
+        "text": "turns on"
+      },
+      {
+        "key": "B",
+        "text": "puts on"
+      },
+      {
+        "key": "C",
+        "text": "goes on"
+      },
+      {
+        "key": "D",
+        "text": "gets on"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#43"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "375c51d00e3c1aa787864f78726d902a4a6230bf11474972b29c150aed4acb99"
+  },
+  {
+    "id": "q_79ea1a920284ec60",
+    "type": "single_choice",
+    "question": "______, I was very happy with how the event turned out in the end. I don't think anything could have been better.",
+    "options": [
+      {
+        "key": "A",
+        "text": "In essence"
+      },
+      {
+        "key": "B",
+        "text": "All in all"
+      },
+      {
+        "key": "C",
+        "text": "As a result"
+      },
+      {
+        "key": "D",
+        "text": "On the contrary"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#44"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "79ea1a920284ec6087ad552fd3d5f97522a8a3a518e38362de9227d6a4cf6584"
+  },
+  {
+    "id": "q_1cacef5ef0e0b93f",
+    "type": "single_choice",
+    "question": "A good professor is able to ______ students as to how to make good career decisions related to their majors.",
+    "options": [
+      {
+        "key": "A",
+        "text": "entertain"
+      },
+      {
+        "key": "B",
+        "text": "inspire"
+      },
+      {
+        "key": "C",
+        "text": "counsel"
+      },
+      {
+        "key": "D",
+        "text": "encourage"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#45"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "1cacef5ef0e0b93fc0fed7c25a4790ec5913786dd63bd2899f29f21e56d1e6dd"
+  },
+  {
+    "id": "q_0e71815609d3b107",
+    "type": "single_choice",
+    "question": "Without good planning, team-building events can end up as a waste of time, or even have a ______ influence on a team.",
+    "options": [
+      {
+        "key": "A",
+        "text": "positive"
+      },
+      {
+        "key": "B",
+        "text": "neutral"
+      },
+      {
+        "key": "C",
+        "text": "mild"
+      },
+      {
+        "key": "D",
+        "text": "destructive"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#46"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "0e71815609d3b1072d5a4b0b986757b9fd539b0775acfb9cd560648b7026f26d"
+  },
+  {
+    "id": "q_c40090935289d6d0",
+    "type": "single_choice",
+    "question": "Companies who plan carefully and ______ change well will benefit in the long run.",
+    "options": [
+      {
+        "key": "A",
+        "text": "reject"
+      },
+      {
+        "key": "B",
+        "text": "execute"
+      },
+      {
+        "key": "C",
+        "text": "ignore"
+      },
+      {
+        "key": "D",
+        "text": "approve"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#47"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "c40090935289d6d09e662275373fbcfea3e5d8572626759025f32f91c9cf2014"
+  },
+  {
+    "id": "q_d2ae3a08fb29fb70",
+    "type": "single_choice",
+    "question": "As globalization has increased over the last few decades, working within multicultural teams has become the norm rather than a ______.",
+    "options": [
+      {
+        "key": "A",
+        "text": "routine"
+      },
+      {
+        "key": "B",
+        "text": "rarity"
+      },
+      {
+        "key": "C",
+        "text": "concern"
+      },
+      {
+        "key": "D",
+        "text": "obstacle"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#48"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "d2ae3a08fb29fb70904f2ab6ef65e14b0584d57c39d659352cb6dfa541ad90b2"
+  },
+  {
+    "id": "q_ee546330d47779e2",
+    "type": "single_choice",
+    "question": "Maintaining a positive attitude can help you remain persistent, even when you experience ______.",
+    "options": [
+      {
+        "key": "A",
+        "text": "profits"
+      },
+      {
+        "key": "B",
+        "text": "setbacks"
+      },
+      {
+        "key": "C",
+        "text": "opportunities"
+      },
+      {
+        "key": "D",
+        "text": "achievements"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#49"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "ee546330d47779e2df0fe2e1d4c3afe663339547bf6c45367a4df396d828b406"
+  },
+  {
+    "id": "q_e13369140f54b6c0",
+    "type": "single_choice",
+    "question": "With the advent of the Internet, networking opportunities ______.",
+    "options": [
+      {
+        "key": "A",
+        "text": "declined"
+      },
+      {
+        "key": "B",
+        "text": "collapsed"
+      },
+      {
+        "key": "C",
+        "text": "mushroomed"
+      },
+      {
+        "key": "D",
+        "text": "recovered"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#50"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "e13369140f54b6c0c80635cb0bbe7e745da01c1d004558c31092ba4985ce1a7f"
+  },
+  {
+    "id": "q_d8c490c874a21a92",
+    "type": "single_choice",
+    "question": "Most candidates are looking for jobs that offered high salaries, health benefit packages, and ______ vacation time.",
+    "options": [
+      {
+        "key": "A",
+        "text": "tiny"
+      },
+      {
+        "key": "B",
+        "text": "ordinary"
+      },
+      {
+        "key": "C",
+        "text": "substantial"
+      },
+      {
+        "key": "D",
+        "text": "scarce"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#51"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "d8c490c874a21a92429822f76b5c4ec0951e23d45d278f0c9dfd854e0d7dfaf4"
+  },
+  {
+    "id": "q_58edf478df09ff6f",
+    "type": "single_choice",
+    "question": "For both employers and employees, the job-hunting process has clearly gone through a ______ change.",
+    "options": [
+      {
+        "key": "A",
+        "text": "slight"
+      },
+      {
+        "key": "B",
+        "text": "cautious"
+      },
+      {
+        "key": "C",
+        "text": "considerable"
+      },
+      {
+        "key": "D",
+        "text": "casual"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#52"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "58edf478df09ff6f4b2fde3263ed6993b8d325e8862d5edeb3128936af368ed1"
+  },
+  {
+    "id": "q_9df4dd50942dce94",
+    "type": "single_choice",
+    "question": "Continuous professional training can effectively ______ employees' professional awareness and comprehensive work competence in the workplace.",
+    "options": [
+      {
+        "key": "A",
+        "text": "weaken"
+      },
+      {
+        "key": "B",
+        "text": "heighten"
+      },
+      {
+        "key": "C",
+        "text": "simplify"
+      },
+      {
+        "key": "D",
+        "text": "stabilize"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#53"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "9df4dd50942dce94781bed129a03b9b0eebe8a9629bed59c18e34159da32f299"
+  },
+  {
+    "id": "q_1fa9b06cd8b2377a",
+    "type": "single_choice",
+    "question": "To seize the core market opportunities, the company decides to ______ short-term trivial profits and focus on long-term strategic development.",
+    "options": [
+      {
+        "key": "A",
+        "text": "forego"
+      },
+      {
+        "key": "B",
+        "text": "pursue"
+      },
+      {
+        "key": "C",
+        "text": "accumulate"
+      },
+      {
+        "key": "D",
+        "text": "expand"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#54"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "1fa9b06cd8b2377a914c94466b13a1b7f6b8272af0e3f7fff0a82c84dff8a48d"
+  },
+  {
+    "id": "q_5c99d262dc52d779",
+    "type": "single_choice",
+    "question": "A successful project always relies on ______ efforts of all team members, rather than individual heroism.",
+    "options": [
+      {
+        "key": "A",
+        "text": "competitive"
+      },
+      {
+        "key": "B",
+        "text": "independent"
+      },
+      {
+        "key": "C",
+        "text": "collaborative"
+      },
+      {
+        "key": "D",
+        "text": "passive"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#55"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "5c99d262dc52d779c9ade622390ec3ceb87cdffbc46abd1426317ad852e7cb33"
+  },
+  {
+    "id": "q_76b005ce9803a044",
+    "type": "single_choice",
+    "question": "To ensure the project is delivered on schedule, the whole team has to work ______ for nearly two weeks to finish all tasks.",
+    "options": [
+      {
+        "key": "A",
+        "text": "regularly"
+      },
+      {
+        "key": "B",
+        "text": "overtime"
+      },
+      {
+        "key": "C",
+        "text": "casually"
+      },
+      {
+        "key": "D",
+        "text": "steadily"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#56"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "76b005ce9803a044572235cef2f748206c7820ba9b5b307b7e0ec1ea6c892a07"
+  },
+  {
+    "id": "q_08e906ee705ac086",
+    "type": "single_choice",
+    "question": "Industry experts often ______ the latest market trends and enterprise operating problems to provide professional guidance for practitioners.",
+    "options": [
+      {
+        "key": "A",
+        "text": "remark on"
+      },
+      {
+        "key": "B",
+        "text": "ignore"
+      },
+      {
+        "key": "C",
+        "text": "conceal"
+      },
+      {
+        "key": "D",
+        "text": "imitate"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#57"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "08e906ee705ac086d171f9204e866a81961d490babdcdad3470a46250a05157d"
+  },
+  {
+    "id": "q_68fd2e9c865e011e",
+    "type": "single_choice",
+    "question": "Respecting local business ______ is an essential precondition for enterprises to carry out cross-regional cooperative projects smoothly.",
+    "options": [
+      {
+        "key": "A",
+        "text": "rules"
+      },
+      {
+        "key": "B",
+        "text": "policies"
+      },
+      {
+        "key": "C",
+        "text": "custom"
+      },
+      {
+        "key": "D",
+        "text": "plans"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#58"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "68fd2e9c865e011eb23d0e47830674176a21307ea5747e82e60e68f448750a8d"
+  },
+  {
+    "id": "q_912583967c4e69e0",
+    "type": "single_choice",
+    "question": "Before attending the business meeting, you can take a quick ______ at the meeting agenda to grasp the core discussion content.",
+    "options": [
+      {
+        "key": "A",
+        "text": "glance"
+      },
+      {
+        "key": "B",
+        "text": "review"
+      },
+      {
+        "key": "C",
+        "text": "analysis"
+      },
+      {
+        "key": "D",
+        "text": "summary"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#59"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "912583967c4e69e081e8e22779472c6a0ecbb23b62625c02eeeaa431c7afa9f1"
+  },
+  {
+    "id": "q_61279f6d173b47ee",
+    "type": "single_choice",
+    "question": "Being ______ to colleagues and clients is a basic professional quality for every business practitioner.",
+    "options": [
+      {
+        "key": "A",
+        "text": "strict"
+      },
+      {
+        "key": "B",
+        "text": "tolerant"
+      },
+      {
+        "key": "C",
+        "text": "respectful"
+      },
+      {
+        "key": "D",
+        "text": "generous"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "category": "other",
+    "source": [
+      "yxq英语题库.docx#60"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "61279f6d173b47ee7acb3b67906fec7151f3faab537ccac377c3432107340292"
   }
 ]
