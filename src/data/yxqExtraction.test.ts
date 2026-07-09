@@ -56,6 +56,7 @@ describe('yxq DOCX extraction', () => {
       ]);
       expect(record.answer).toEqual(['D']);
       expect(record.source).toEqual(['yxq英语题库.docx#1']);
+      expect(record.subject).toBe('english');
       expect(record.category).toBe('vocabulary');
       expect(record.reviewStatus).toBe('verified');
     } finally {

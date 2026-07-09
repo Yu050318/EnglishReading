@@ -3,6 +3,7 @@ import { deduplicateQuestions } from './deduplicate';
 
 const base = {
   id: 'q_1', type: 'single_choice' as const, question: 'Question?',
+  subject: 'english' as const,
   options: [{ key: 'A' as const, text: 'Yes' }, { key: 'B' as const, text: 'No' }],
   answer: ['A'], category: 'other' as const, source: ['one'], explanation: '', ocrConfidence: null,
   reviewStatus: 'verified' as const, fingerprint: 'f'.repeat(64),

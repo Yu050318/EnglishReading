@@ -4,6 +4,7 @@ import type { Category, Question } from './questionSchema';
 
 const question = (id: string, category: Category): Question => ({
   id,
+  subject: 'english',
   type: 'single_choice',
   question: id,
   options: [{ key: 'A', text: 'yes' }, { key: 'B', text: 'no' }],

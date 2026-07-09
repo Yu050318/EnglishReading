@@ -10,6 +10,29 @@ const valid = {
 
 describe('validateQuestionCollection', () => {
   it('accepts a valid collection', () => expect(validateQuestionCollection([valid])).toEqual({ ok: true, errors: [] }));
+  it('accepts a published English question with subject', () => expect(validateQuestionCollection([{ ...valid, subject: 'english' }])).toEqual({ ok: true, errors: [] }));
+  it('accepts a human resources multiple choice question', () => {
+    expect(validateQuestionCollection([{
+      ...valid,
+      id: 'hr_multi',
+      subject: 'human_resources',
+      type: 'multiple_choice',
+      answer: ['A', 'B'],
+      category: 'human_resources_review',
+    }])).toEqual({ ok: true, errors: [] });
+  });
+  it('accepts a human resources short answer with answerText and no options', () => {
+    expect(validateQuestionCollection([{
+      ...valid,
+      id: 'hr_short',
+      subject: 'human_resources',
+      type: 'short_answer',
+      options: [],
+      answer: [],
+      answerText: '参考答案',
+      category: 'human_resources_review',
+    }])).toEqual({ ok: true, errors: [] });
+  });
   it('accepts vocabulary category', () => expect(validateQuestionCollection([{ ...valid, category: 'vocabulary' }])).toEqual({ ok: true, errors: [] }));
   it.each([
     ['empty question', [{ ...valid, question: ' ' }], '题干不能为空'],

@@ -4,6 +4,7 @@ import type { Question } from '../../data/questionSchema';
 
 const question = (id: string, category: Question['category']): Question => ({
   id,
+  subject: 'english',
   category,
   question: id,
   source: ['test'],
