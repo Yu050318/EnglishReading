@@ -1,22 +1,29 @@
 {
   "sourceDocuments": [
     "yxq英语题库.docx",
-    "人力期中考核总复习_修正版答案解析.docx"
+    "人力期中考核总复习_修正版答案解析.docx",
+    "英语复习.docx"
   ],
   "structuredDocuments": [
     "yxq英语题库.docx",
-    "人力期中考核总复习_修正版答案解析.docx"
+    "人力期中考核总复习_修正版答案解析.docx",
+    "英语复习.docx"
   ],
-  "structuredRecognized": 92,
+  "structuredRecognized": 149,
   "subjectCounts": {
-    "english": 60,
+    "english": 117,
     "human_resources": 32
   },
   "typeCounts": {
-    "english:single_choice": 60,
+    "english:single_choice": 117,
     "human_resources:single_choice": 20,
     "human_resources:multiple_choice": 7,
     "human_resources:short_answer": 5
+  },
+  "categoryCounts": {
+    "english:vocabulary": 60,
+    "human_resources:human_resources_review": 32,
+    "english:english_review": 57
   },
   "ocrFilesInspected": 2,
   "ocrPagesInspected": 99,

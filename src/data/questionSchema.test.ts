@@ -34,6 +34,13 @@ describe('validateQuestionCollection', () => {
     }])).toEqual({ ok: true, errors: [] });
   });
   it('accepts vocabulary category', () => expect(validateQuestionCollection([{ ...valid, category: 'vocabulary' }])).toEqual({ ok: true, errors: [] }));
+  it('accepts English review category', () => expect(validateQuestionCollection([{ ...valid, category: 'english_review' }])).toEqual({ ok: true, errors: [] }));
+  it('accepts cloze options beyond D', () => expect(validateQuestionCollection([{
+    ...valid,
+    category: 'english_review',
+    options: [{ key: 'A', text: 'accurate' }, { key: 'K', text: 'numerous' }],
+    answer: ['K'],
+  }])).toEqual({ ok: true, errors: [] }));
   it.each([
     ['empty question', [{ ...valid, question: ' ' }], '题干不能为空'],
     ['duplicate option keys', [{ ...valid, options: [{ key: 'A', text: 'x' }, { key: 'A', text: 'y' }] }], '选项键重复'],

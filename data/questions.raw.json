@@ -3133,5 +3133,3718 @@
     "reviewStatus": "verified",
     "fingerprint": "b8200d84554184e09296e5e881d2fea05220497380506d8e8ac5b128867f28a7",
     "answerText": "困难主要包括：技术迭代快、产品生命周期短，岗位内容变化频繁；知识型工作边界模糊，跨部门协作多；员工能力要求更新快，静态职位说明书容易过时；员工可能担心工作分析影响自身利益而抵触。解决办法不是取消工作分析，而是把它做成动态、轻量和弹性的管理工具：定期修订岗位说明书，采用宽口径职责描述，结合胜任力模型和项目角色说明，建立信息化更新机制，并在实施前做好沟通说明，让员工理解目的和配合方式。"
+  },
+  {
+    "id": "q_bfae923caa46b748",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "They must be joking. That really isn't a very _____.How are we supposed to me that?",
+    "options": [
+      {
+        "key": "A",
+        "text": "realistic demand"
+      },
+      {
+        "key": "B",
+        "text": "address the meeting"
+      },
+      {
+        "key": "C",
+        "text": "growing"
+      },
+      {
+        "key": "D",
+        "text": "address the question"
+      },
+      {
+        "key": "E",
+        "text": "address   complaints"
+      },
+      {
+        "key": "F",
+        "text": "public demand"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part1-phrase-1"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "bfae923caa46b748151b1ebf425217620645ba0d9df6ef161a2d3f2cc6dded1c"
+  },
+  {
+    "id": "q_9a127c64b5cdc8fa",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "The CEO stood up to _____ and outlined the plans for the next financial year.",
+    "options": [
+      {
+        "key": "A",
+        "text": "realistic demand"
+      },
+      {
+        "key": "B",
+        "text": "address the meeting"
+      },
+      {
+        "key": "C",
+        "text": "growing"
+      },
+      {
+        "key": "D",
+        "text": "address the question"
+      },
+      {
+        "key": "E",
+        "text": "address   complaints"
+      },
+      {
+        "key": "F",
+        "text": "public demand"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part1-phrase-2"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "9a127c64b5cdc8facfac3b883ba77e79c3cba256aa97722e3001e478138434df"
+  },
+  {
+    "id": "q_6867b55e3e10e618",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Some smaller companies are struggling to meet the ______ for “green\" products that\t are environmentally friendly.",
+    "options": [
+      {
+        "key": "A",
+        "text": "realistic demand"
+      },
+      {
+        "key": "B",
+        "text": "address the meeting"
+      },
+      {
+        "key": "C",
+        "text": "growing"
+      },
+      {
+        "key": "D",
+        "text": "address the question"
+      },
+      {
+        "key": "E",
+        "text": "address   complaints"
+      },
+      {
+        "key": "F",
+        "text": "public demand"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part1-phrase-3"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "6867b55e3e10e61805d00dca765e5aa84c82f0949a74bd70c3decc6df1ea9417"
+  },
+  {
+    "id": "q_ed19ca471e0f535a",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Sooner or later, we will have to _____ whether or not to close the office.",
+    "options": [
+      {
+        "key": "A",
+        "text": "realistic demand"
+      },
+      {
+        "key": "B",
+        "text": "address the meeting"
+      },
+      {
+        "key": "C",
+        "text": "growing"
+      },
+      {
+        "key": "D",
+        "text": "address the question"
+      },
+      {
+        "key": "E",
+        "text": "address   complaints"
+      },
+      {
+        "key": "F",
+        "text": "public demand"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part1-phrase-4"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "ed19ca471e0f535aea7b6835055d8de03a37ab89b80734d55ae7d85129b26c0d"
+  },
+  {
+    "id": "q_312eb4f398ede2e4",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Please _____ all your to our\t customer service department.",
+    "options": [
+      {
+        "key": "A",
+        "text": "realistic demand"
+      },
+      {
+        "key": "B",
+        "text": "address the meeting"
+      },
+      {
+        "key": "C",
+        "text": "growing"
+      },
+      {
+        "key": "D",
+        "text": "address the question"
+      },
+      {
+        "key": "E",
+        "text": "address   complaints"
+      },
+      {
+        "key": "F",
+        "text": "public demand"
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part1-phrase-5"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "312eb4f398ede2e4173037ca08d7f462409cee971571964df09a74d4f3cbba4b"
+  },
+  {
+    "id": "q_658aa0e9d9c6d3e2",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "There was a huge _____ for an explanation of what had happened at the factory.",
+    "options": [
+      {
+        "key": "A",
+        "text": "realistic demand"
+      },
+      {
+        "key": "B",
+        "text": "address the meeting"
+      },
+      {
+        "key": "C",
+        "text": "growing"
+      },
+      {
+        "key": "D",
+        "text": "address the question"
+      },
+      {
+        "key": "E",
+        "text": "address   complaints"
+      },
+      {
+        "key": "F",
+        "text": "public demand"
+      }
+    ],
+    "answer": [
+      "F"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part1-phrase-6"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "658aa0e9d9c6d3e28a2285de9ed47f73509ae0a5e26d8087af4678127e66540f"
+  },
+  {
+    "id": "q_428c5eed9e1b6942",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "The company needs to look at ways of ____________ employees' understanding of the decisions it makes.",
+    "options": [
+      {
+        "key": "A",
+        "text": "improving"
+      },
+      {
+        "key": "B",
+        "text": "progressing"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part1-choice-1"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "428c5eed9e1b69425a21cee8e2653e6ff156dd7551b688d210942093cfa43901"
+  },
+  {
+    "id": "q_d67048152371a15c",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Many people in the company ____________ a clear understanding of the company's overall strategy.",
+    "options": [
+      {
+        "key": "A",
+        "text": "lack"
+      },
+      {
+        "key": "B",
+        "text": "facilitate"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part1-choice-2"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "d67048152371a15c2565302af9b244de7b115cb757f4b646b8f54797c53128ad"
+  },
+  {
+    "id": "q_588904a98a30680f",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "It took time, but in the end all employees had ____________ a clear understanding of the procedures.",
+    "options": [
+      {
+        "key": "A",
+        "text": "developed"
+      },
+      {
+        "key": "B",
+        "text": "increased"
+      }
+    ],
+    "answer": [],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part1-choice-3"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "needs_review",
+    "fingerprint": "588904a98a30680f0fb39977efd299b9d94c5f7c1719a21341b568a308eb8d3a"
+  },
+  {
+    "id": "q_b29b1319c6b8930c",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "The CEO ____________ the\tdecision to focus on new markets at the annual general meeting.",
+    "options": [
+      {
+        "key": "A",
+        "text": "announced"
+      },
+      {
+        "key": "B",
+        "text": "said"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part1-choice-4"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "b29b1319c6b8930cab4065f5901fd125100451d63b91f53bafc1f967a09f227d"
+  },
+  {
+    "id": "q_d67a3c91ed862f4e",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Managers need to be decisive when it comes to ____________ difficult decisions.",
+    "options": [
+      {
+        "key": "A",
+        "text": "doing"
+      },
+      {
+        "key": "B",
+        "text": "making"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part1-choice-5"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "d67a3c91ed862f4ec682bc19ed1ec0fd84e7707fa4eee3f4c8e24c351addbd74"
+  },
+  {
+    "id": "q_9214b1ac8b2c57f5",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Two leading companies are ____________ the decision 1038 announced by the local government last week.",
+    "options": [
+      {
+        "key": "A",
+        "text": "arguing"
+      },
+      {
+        "key": "B",
+        "text": "challenging"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part1-choice-6"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "9214b1ac8b2c57f5fcf678767d972c3f7f2b2a7be4def4624cdcbf1b8eeaaff8"
+  },
+  {
+    "id": "q_f951c3055b0f9acd",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "After we changed our approach, there was a(n) ____________ change in the company's fortunes.",
+    "options": [
+      {
+        "key": "A",
+        "text": "noticeable"
+      },
+      {
+        "key": "B",
+        "text": "open"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part1-choice-7"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "f951c3055b0f9acd3abfb376aaa50b37a2901a7565c27197407bbe62551edca3"
+  },
+  {
+    "id": "q_3f8642ecfce63c52",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Recent events have led to a(n) ______ ______ change in the markets that companies need to take into account.",
+    "options": [
+      {
+        "key": "A",
+        "text": "profound"
+      },
+      {
+        "key": "B",
+        "text": "insignificant"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part1-choice-8"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "3f8642ecfce63c521056d831f837cf19af598585ede429ed4ae0aee6e67675e6"
+  },
+  {
+    "id": "q_44d1940619a897ae",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "We need to identify our\t______ business and focus all our energies on that.",
+    "options": [
+      {
+        "key": "A",
+        "text": "whole"
+      },
+      {
+        "key": "B",
+        "text": "core"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part1-choice-9"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "44d1940619a897ae94e78dc54f6fc4f7116f328f054b0196168250b72b73e59d"
+  },
+  {
+    "id": "q_7be38c6db6d9a5fa",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Jim's father has run a ____________ business for over 20 years.",
+    "options": [
+      {
+        "key": "A",
+        "text": "successful"
+      },
+      {
+        "key": "B",
+        "text": "winning"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part1-choice-10"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "7be38c6db6d9a5fadbe813fccbdd0dd73cb8d3b6ce2de2fd89ea7b5223ca75e0"
+  },
+  {
+    "id": "q_7b35faad823973cc",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Even a(n)______ ______ business needs to move with the times.",
+    "options": [
+      {
+        "key": "A",
+        "text": "advanced"
+      },
+      {
+        "key": "B",
+        "text": "mature"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part1-choice-11"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "7b35faad823973ccf55964f55b6208351f9a909dce4d255432ebdd60dbe84f4d"
+  },
+  {
+    "id": "q_9783b42ef8b571e9",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 1 blank (1):",
+    "options": [
+      {
+        "key": "A",
+        "text": "accurate"
+      },
+      {
+        "key": "B",
+        "text": "admirable"
+      },
+      {
+        "key": "C",
+        "text": "generate"
+      },
+      {
+        "key": "D",
+        "text": "artistic"
+      },
+      {
+        "key": "E",
+        "text": "strive"
+      },
+      {
+        "key": "F",
+        "text": "decisive"
+      },
+      {
+        "key": "G",
+        "text": "definitely"
+      },
+      {
+        "key": "H",
+        "text": "aptitude"
+      },
+      {
+        "key": "I",
+        "text": "indication"
+      },
+      {
+        "key": "J",
+        "text": "intensely"
+      },
+      {
+        "key": "K",
+        "text": "numerous"
+      },
+      {
+        "key": "L",
+        "text": "freshman"
+      },
+      {
+        "key": "M",
+        "text": "occupation"
+      },
+      {
+        "key": "N",
+        "text": "unacceptable"
+      },
+      {
+        "key": "O",
+        "text": "Undergraduate"
+      }
+    ],
+    "answer": [
+      "K"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage1-blank1"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "9783b42ef8b571e9ad7eb11d6e96d6383c75953e6e1472019b0ad6aa16d96074"
+  },
+  {
+    "id": "q_87016e3187476407",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 1 blank (2):",
+    "options": [
+      {
+        "key": "A",
+        "text": "accurate"
+      },
+      {
+        "key": "B",
+        "text": "admirable"
+      },
+      {
+        "key": "C",
+        "text": "generate"
+      },
+      {
+        "key": "D",
+        "text": "artistic"
+      },
+      {
+        "key": "E",
+        "text": "strive"
+      },
+      {
+        "key": "F",
+        "text": "decisive"
+      },
+      {
+        "key": "G",
+        "text": "definitely"
+      },
+      {
+        "key": "H",
+        "text": "aptitude"
+      },
+      {
+        "key": "I",
+        "text": "indication"
+      },
+      {
+        "key": "J",
+        "text": "intensely"
+      },
+      {
+        "key": "K",
+        "text": "numerous"
+      },
+      {
+        "key": "L",
+        "text": "freshman"
+      },
+      {
+        "key": "M",
+        "text": "occupation"
+      },
+      {
+        "key": "N",
+        "text": "unacceptable"
+      },
+      {
+        "key": "O",
+        "text": "Undergraduate"
+      }
+    ],
+    "answer": [
+      "M"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage1-blank2"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "87016e31874764079fb00a8b0156b3ec9b58de1ea2486d4163e3a5f3d9b1d83b"
+  },
+  {
+    "id": "q_61d55f1ff0d50811",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 1 blank (3):",
+    "options": [
+      {
+        "key": "A",
+        "text": "accurate"
+      },
+      {
+        "key": "B",
+        "text": "admirable"
+      },
+      {
+        "key": "C",
+        "text": "generate"
+      },
+      {
+        "key": "D",
+        "text": "artistic"
+      },
+      {
+        "key": "E",
+        "text": "strive"
+      },
+      {
+        "key": "F",
+        "text": "decisive"
+      },
+      {
+        "key": "G",
+        "text": "definitely"
+      },
+      {
+        "key": "H",
+        "text": "aptitude"
+      },
+      {
+        "key": "I",
+        "text": "indication"
+      },
+      {
+        "key": "J",
+        "text": "intensely"
+      },
+      {
+        "key": "K",
+        "text": "numerous"
+      },
+      {
+        "key": "L",
+        "text": "freshman"
+      },
+      {
+        "key": "M",
+        "text": "occupation"
+      },
+      {
+        "key": "N",
+        "text": "unacceptable"
+      },
+      {
+        "key": "O",
+        "text": "Undergraduate"
+      }
+    ],
+    "answer": [
+      "O"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage1-blank3"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "61d55f1ff0d50811a0f23ea5aca845440051592e0ab632f5cc3675689644700a"
+  },
+  {
+    "id": "q_a7a7aa2ef37747a1",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 1 blank (4):",
+    "options": [
+      {
+        "key": "A",
+        "text": "accurate"
+      },
+      {
+        "key": "B",
+        "text": "admirable"
+      },
+      {
+        "key": "C",
+        "text": "generate"
+      },
+      {
+        "key": "D",
+        "text": "artistic"
+      },
+      {
+        "key": "E",
+        "text": "strive"
+      },
+      {
+        "key": "F",
+        "text": "decisive"
+      },
+      {
+        "key": "G",
+        "text": "definitely"
+      },
+      {
+        "key": "H",
+        "text": "aptitude"
+      },
+      {
+        "key": "I",
+        "text": "indication"
+      },
+      {
+        "key": "J",
+        "text": "intensely"
+      },
+      {
+        "key": "K",
+        "text": "numerous"
+      },
+      {
+        "key": "L",
+        "text": "freshman"
+      },
+      {
+        "key": "M",
+        "text": "occupation"
+      },
+      {
+        "key": "N",
+        "text": "unacceptable"
+      },
+      {
+        "key": "O",
+        "text": "Undergraduate"
+      }
+    ],
+    "answer": [
+      "H"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage1-blank4"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "a7a7aa2ef37747a13bc6bfcc988792454ffa8a0125a4567a11ba9f08aae4daa9"
+  },
+  {
+    "id": "q_bd83c376109f7171",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 1 blank (5):",
+    "options": [
+      {
+        "key": "A",
+        "text": "accurate"
+      },
+      {
+        "key": "B",
+        "text": "admirable"
+      },
+      {
+        "key": "C",
+        "text": "generate"
+      },
+      {
+        "key": "D",
+        "text": "artistic"
+      },
+      {
+        "key": "E",
+        "text": "strive"
+      },
+      {
+        "key": "F",
+        "text": "decisive"
+      },
+      {
+        "key": "G",
+        "text": "definitely"
+      },
+      {
+        "key": "H",
+        "text": "aptitude"
+      },
+      {
+        "key": "I",
+        "text": "indication"
+      },
+      {
+        "key": "J",
+        "text": "intensely"
+      },
+      {
+        "key": "K",
+        "text": "numerous"
+      },
+      {
+        "key": "L",
+        "text": "freshman"
+      },
+      {
+        "key": "M",
+        "text": "occupation"
+      },
+      {
+        "key": "N",
+        "text": "unacceptable"
+      },
+      {
+        "key": "O",
+        "text": "Undergraduate"
+      }
+    ],
+    "answer": [
+      "I"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage1-blank5"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "bd83c376109f71711f3f6d928dfd8f5979f2cfb920891064224535c4c95de10b"
+  },
+  {
+    "id": "q_ed7231e7b0952457",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 1 blank (6):",
+    "options": [
+      {
+        "key": "A",
+        "text": "accurate"
+      },
+      {
+        "key": "B",
+        "text": "admirable"
+      },
+      {
+        "key": "C",
+        "text": "generate"
+      },
+      {
+        "key": "D",
+        "text": "artistic"
+      },
+      {
+        "key": "E",
+        "text": "strive"
+      },
+      {
+        "key": "F",
+        "text": "decisive"
+      },
+      {
+        "key": "G",
+        "text": "definitely"
+      },
+      {
+        "key": "H",
+        "text": "aptitude"
+      },
+      {
+        "key": "I",
+        "text": "indication"
+      },
+      {
+        "key": "J",
+        "text": "intensely"
+      },
+      {
+        "key": "K",
+        "text": "numerous"
+      },
+      {
+        "key": "L",
+        "text": "freshman"
+      },
+      {
+        "key": "M",
+        "text": "occupation"
+      },
+      {
+        "key": "N",
+        "text": "unacceptable"
+      },
+      {
+        "key": "O",
+        "text": "Undergraduate"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage1-blank6"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "ed7231e7b09524574daf915019fa94cce5712e0a7c6bf1771189c83880605926"
+  },
+  {
+    "id": "q_6111f9bb689007f8",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 1 blank (7):",
+    "options": [
+      {
+        "key": "A",
+        "text": "accurate"
+      },
+      {
+        "key": "B",
+        "text": "admirable"
+      },
+      {
+        "key": "C",
+        "text": "generate"
+      },
+      {
+        "key": "D",
+        "text": "artistic"
+      },
+      {
+        "key": "E",
+        "text": "strive"
+      },
+      {
+        "key": "F",
+        "text": "decisive"
+      },
+      {
+        "key": "G",
+        "text": "definitely"
+      },
+      {
+        "key": "H",
+        "text": "aptitude"
+      },
+      {
+        "key": "I",
+        "text": "indication"
+      },
+      {
+        "key": "J",
+        "text": "intensely"
+      },
+      {
+        "key": "K",
+        "text": "numerous"
+      },
+      {
+        "key": "L",
+        "text": "freshman"
+      },
+      {
+        "key": "M",
+        "text": "occupation"
+      },
+      {
+        "key": "N",
+        "text": "unacceptable"
+      },
+      {
+        "key": "O",
+        "text": "Undergraduate"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage1-blank7"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "6111f9bb689007f83d82130720cb11b990299db0b5d0fad62867a3f2ee43fdf6"
+  },
+  {
+    "id": "q_b801ff954ce44721",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 1 blank (8):",
+    "options": [
+      {
+        "key": "A",
+        "text": "accurate"
+      },
+      {
+        "key": "B",
+        "text": "admirable"
+      },
+      {
+        "key": "C",
+        "text": "generate"
+      },
+      {
+        "key": "D",
+        "text": "artistic"
+      },
+      {
+        "key": "E",
+        "text": "strive"
+      },
+      {
+        "key": "F",
+        "text": "decisive"
+      },
+      {
+        "key": "G",
+        "text": "definitely"
+      },
+      {
+        "key": "H",
+        "text": "aptitude"
+      },
+      {
+        "key": "I",
+        "text": "indication"
+      },
+      {
+        "key": "J",
+        "text": "intensely"
+      },
+      {
+        "key": "K",
+        "text": "numerous"
+      },
+      {
+        "key": "L",
+        "text": "freshman"
+      },
+      {
+        "key": "M",
+        "text": "occupation"
+      },
+      {
+        "key": "N",
+        "text": "unacceptable"
+      },
+      {
+        "key": "O",
+        "text": "Undergraduate"
+      }
+    ],
+    "answer": [
+      "J"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage1-blank8"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "b801ff954ce447210e4f86e1e43627b4c82b2f0b458fe6086f1adad19f30f947"
+  },
+  {
+    "id": "q_846ec1ab99ae15c8",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 1 blank (9):",
+    "options": [
+      {
+        "key": "A",
+        "text": "accurate"
+      },
+      {
+        "key": "B",
+        "text": "admirable"
+      },
+      {
+        "key": "C",
+        "text": "generate"
+      },
+      {
+        "key": "D",
+        "text": "artistic"
+      },
+      {
+        "key": "E",
+        "text": "strive"
+      },
+      {
+        "key": "F",
+        "text": "decisive"
+      },
+      {
+        "key": "G",
+        "text": "definitely"
+      },
+      {
+        "key": "H",
+        "text": "aptitude"
+      },
+      {
+        "key": "I",
+        "text": "indication"
+      },
+      {
+        "key": "J",
+        "text": "intensely"
+      },
+      {
+        "key": "K",
+        "text": "numerous"
+      },
+      {
+        "key": "L",
+        "text": "freshman"
+      },
+      {
+        "key": "M",
+        "text": "occupation"
+      },
+      {
+        "key": "N",
+        "text": "unacceptable"
+      },
+      {
+        "key": "O",
+        "text": "Undergraduate"
+      }
+    ],
+    "answer": [
+      "N"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage1-blank9"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "846ec1ab99ae15c8cdd251b156378ff3225ea34d5a4e52f3df311ddff5db6553"
+  },
+  {
+    "id": "q_57ec82d1e543c223",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 1 blank (10):",
+    "options": [
+      {
+        "key": "A",
+        "text": "accurate"
+      },
+      {
+        "key": "B",
+        "text": "admirable"
+      },
+      {
+        "key": "C",
+        "text": "generate"
+      },
+      {
+        "key": "D",
+        "text": "artistic"
+      },
+      {
+        "key": "E",
+        "text": "strive"
+      },
+      {
+        "key": "F",
+        "text": "decisive"
+      },
+      {
+        "key": "G",
+        "text": "definitely"
+      },
+      {
+        "key": "H",
+        "text": "aptitude"
+      },
+      {
+        "key": "I",
+        "text": "indication"
+      },
+      {
+        "key": "J",
+        "text": "intensely"
+      },
+      {
+        "key": "K",
+        "text": "numerous"
+      },
+      {
+        "key": "L",
+        "text": "freshman"
+      },
+      {
+        "key": "M",
+        "text": "occupation"
+      },
+      {
+        "key": "N",
+        "text": "unacceptable"
+      },
+      {
+        "key": "O",
+        "text": "Undergraduate"
+      }
+    ],
+    "answer": [
+      "F"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage1-blank10"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "57ec82d1e543c2236c6ac5524684c709ed662f5cb605aece95d4b1bcc946ac74"
+  },
+  {
+    "id": "q_70480b144cb5a935",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 2 blank (1): As everyone knows, job hunting can be astressful experience, so it is sensible to be well-prepared. Companies welcome (1) applicants with previous experience, but will also take on people who show a(n) (2)genuine interest in the job. Of course, the first thing to do is carry out some research so you know exactly what the company does and what type of person they are looking for. In your resume, make sure you(3) outline your strengths. If you are invited for an interview, it is important to remember a number of things. Firstly, it's fine to be (4)assertive and show that you have the right (5) mentality but be careful not to come across as (6)arogant as that is something that no company wants. Also, remember they don't expect (7) pertection they just need to see your real strengths and your desire to work hard. They are much more interested in finding people who will learn and develop and add something extra to the company. Each place has a(n) (8) corporate culture and they want employees who will fit in with their existing workers. The interview is your chance to give a(n) (9) pitch about yourself and it is the time and place to stand out from your (10) rivals. It can be a good idea to practice for an interview as it might be the one chance you get to make a good impression and land that dream job.",
+    "options": [
+      {
+        "key": "A",
+        "text": "applicants"
+      },
+      {
+        "key": "B",
+        "text": "assertive"
+      },
+      {
+        "key": "C",
+        "text": "fierce"
+      },
+      {
+        "key": "D",
+        "text": "coordinators"
+      },
+      {
+        "key": "E",
+        "text": "corporate"
+      },
+      {
+        "key": "F",
+        "text": "genuine"
+      },
+      {
+        "key": "G",
+        "text": "expand"
+      },
+      {
+        "key": "H",
+        "text": "mentality"
+      },
+      {
+        "key": "I",
+        "text": "loyalty"
+      },
+      {
+        "key": "J",
+        "text": "outline"
+      },
+      {
+        "key": "K",
+        "text": "output"
+      },
+      {
+        "key": "L",
+        "text": "perfection"
+      },
+      {
+        "key": "M",
+        "text": "pitch"
+      },
+      {
+        "key": "N",
+        "text": "arrogant"
+      },
+      {
+        "key": "O",
+        "text": "rivals"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage2-blank1"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "70480b144cb5a935408ae25081b7b7bce47b6ed949d8e98d41a4265c76d22af7"
+  },
+  {
+    "id": "q_d79b951cf2c697f9",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 2 blank (2): As everyone knows, job hunting can be astressful experience, so it is sensible to be well-prepared. Companies welcome (1) applicants with previous experience, but will also take on people who show a(n) (2)genuine interest in the job. Of course, the first thing to do is carry out some research so you know exactly what the company does and what type of person they are looking for. In your resume, make sure you(3) outline your strengths. If you are invited for an interview, it is important to remember a number of things. Firstly, it's fine to be (4)assertive and show that you have the right (5) mentality but be careful not to come across as (6)arogant as that is something that no company wants. Also, remember they don't expect (7) pertection they just need to see your real strengths and your desire to work hard. They are much more interested in finding people who will learn and develop and add something extra to the company. Each place has a(n) (8) corporate culture and they want employees who will fit in with their existing workers. The interview is your chance to give a(n) (9) pitch about yourself and it is the time and place to stand out from your (10) rivals. It can be a good idea to practice for an interview as it might be the one chance you get to make a good impression and land that dream job.",
+    "options": [
+      {
+        "key": "A",
+        "text": "applicants"
+      },
+      {
+        "key": "B",
+        "text": "assertive"
+      },
+      {
+        "key": "C",
+        "text": "fierce"
+      },
+      {
+        "key": "D",
+        "text": "coordinators"
+      },
+      {
+        "key": "E",
+        "text": "corporate"
+      },
+      {
+        "key": "F",
+        "text": "genuine"
+      },
+      {
+        "key": "G",
+        "text": "expand"
+      },
+      {
+        "key": "H",
+        "text": "mentality"
+      },
+      {
+        "key": "I",
+        "text": "loyalty"
+      },
+      {
+        "key": "J",
+        "text": "outline"
+      },
+      {
+        "key": "K",
+        "text": "output"
+      },
+      {
+        "key": "L",
+        "text": "perfection"
+      },
+      {
+        "key": "M",
+        "text": "pitch"
+      },
+      {
+        "key": "N",
+        "text": "arrogant"
+      },
+      {
+        "key": "O",
+        "text": "rivals"
+      }
+    ],
+    "answer": [
+      "F"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage2-blank2"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "d79b951cf2c697f98818ccf5de045af1a80958f2099e22d1a789204c7b1f1a1f"
+  },
+  {
+    "id": "q_331e98b52c665e2f",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 2 blank (3): As everyone knows, job hunting can be astressful experience, so it is sensible to be well-prepared. Companies welcome (1) applicants with previous experience, but will also take on people who show a(n) (2)genuine interest in the job. Of course, the first thing to do is carry out some research so you know exactly what the company does and what type of person they are looking for. In your resume, make sure you(3) outline your strengths. If you are invited for an interview, it is important to remember a number of things. Firstly, it's fine to be (4)assertive and show that you have the right (5) mentality but be careful not to come across as (6)arogant as that is something that no company wants. Also, remember they don't expect (7) pertection they just need to see your real strengths and your desire to work hard. They are much more interested in finding people who will learn and develop and add something extra to the company. Each place has a(n) (8) corporate culture and they want employees who will fit in with their existing workers. The interview is your chance to give a(n) (9) pitch about yourself and it is the time and place to stand out from your (10) rivals. It can be a good idea to practice for an interview as it might be the one chance you get to make a good impression and land that dream job.",
+    "options": [
+      {
+        "key": "A",
+        "text": "applicants"
+      },
+      {
+        "key": "B",
+        "text": "assertive"
+      },
+      {
+        "key": "C",
+        "text": "fierce"
+      },
+      {
+        "key": "D",
+        "text": "coordinators"
+      },
+      {
+        "key": "E",
+        "text": "corporate"
+      },
+      {
+        "key": "F",
+        "text": "genuine"
+      },
+      {
+        "key": "G",
+        "text": "expand"
+      },
+      {
+        "key": "H",
+        "text": "mentality"
+      },
+      {
+        "key": "I",
+        "text": "loyalty"
+      },
+      {
+        "key": "J",
+        "text": "outline"
+      },
+      {
+        "key": "K",
+        "text": "output"
+      },
+      {
+        "key": "L",
+        "text": "perfection"
+      },
+      {
+        "key": "M",
+        "text": "pitch"
+      },
+      {
+        "key": "N",
+        "text": "arrogant"
+      },
+      {
+        "key": "O",
+        "text": "rivals"
+      }
+    ],
+    "answer": [
+      "J"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage2-blank3"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "331e98b52c665e2fbc2f23437c44f60f928e1957849966ccca43bea7e5d0c6a0"
+  },
+  {
+    "id": "q_656919d3f304a291",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 2 blank (4): As everyone knows, job hunting can be astressful experience, so it is sensible to be well-prepared. Companies welcome (1) applicants with previous experience, but will also take on people who show a(n) (2)genuine interest in the job. Of course, the first thing to do is carry out some research so you know exactly what the company does and what type of person they are looking for. In your resume, make sure you(3) outline your strengths. If you are invited for an interview, it is important to remember a number of things. Firstly, it's fine to be (4)assertive and show that you have the right (5) mentality but be careful not to come across as (6)arogant as that is something that no company wants. Also, remember they don't expect (7) pertection they just need to see your real strengths and your desire to work hard. They are much more interested in finding people who will learn and develop and add something extra to the company. Each place has a(n) (8) corporate culture and they want employees who will fit in with their existing workers. The interview is your chance to give a(n) (9) pitch about yourself and it is the time and place to stand out from your (10) rivals. It can be a good idea to practice for an interview as it might be the one chance you get to make a good impression and land that dream job.",
+    "options": [
+      {
+        "key": "A",
+        "text": "applicants"
+      },
+      {
+        "key": "B",
+        "text": "assertive"
+      },
+      {
+        "key": "C",
+        "text": "fierce"
+      },
+      {
+        "key": "D",
+        "text": "coordinators"
+      },
+      {
+        "key": "E",
+        "text": "corporate"
+      },
+      {
+        "key": "F",
+        "text": "genuine"
+      },
+      {
+        "key": "G",
+        "text": "expand"
+      },
+      {
+        "key": "H",
+        "text": "mentality"
+      },
+      {
+        "key": "I",
+        "text": "loyalty"
+      },
+      {
+        "key": "J",
+        "text": "outline"
+      },
+      {
+        "key": "K",
+        "text": "output"
+      },
+      {
+        "key": "L",
+        "text": "perfection"
+      },
+      {
+        "key": "M",
+        "text": "pitch"
+      },
+      {
+        "key": "N",
+        "text": "arrogant"
+      },
+      {
+        "key": "O",
+        "text": "rivals"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage2-blank4"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "656919d3f304a291a2712ee7283cd180ae65231833baffb7c1c1c24e3ba4f959"
+  },
+  {
+    "id": "q_cf9c58c0a4c830be",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 2 blank (5): As everyone knows, job hunting can be astressful experience, so it is sensible to be well-prepared. Companies welcome (1) applicants with previous experience, but will also take on people who show a(n) (2)genuine interest in the job. Of course, the first thing to do is carry out some research so you know exactly what the company does and what type of person they are looking for. In your resume, make sure you(3) outline your strengths. If you are invited for an interview, it is important to remember a number of things. Firstly, it's fine to be (4)assertive and show that you have the right (5) mentality but be careful not to come across as (6)arogant as that is something that no company wants. Also, remember they don't expect (7) pertection they just need to see your real strengths and your desire to work hard. They are much more interested in finding people who will learn and develop and add something extra to the company. Each place has a(n) (8) corporate culture and they want employees who will fit in with their existing workers. The interview is your chance to give a(n) (9) pitch about yourself and it is the time and place to stand out from your (10) rivals. It can be a good idea to practice for an interview as it might be the one chance you get to make a good impression and land that dream job.",
+    "options": [
+      {
+        "key": "A",
+        "text": "applicants"
+      },
+      {
+        "key": "B",
+        "text": "assertive"
+      },
+      {
+        "key": "C",
+        "text": "fierce"
+      },
+      {
+        "key": "D",
+        "text": "coordinators"
+      },
+      {
+        "key": "E",
+        "text": "corporate"
+      },
+      {
+        "key": "F",
+        "text": "genuine"
+      },
+      {
+        "key": "G",
+        "text": "expand"
+      },
+      {
+        "key": "H",
+        "text": "mentality"
+      },
+      {
+        "key": "I",
+        "text": "loyalty"
+      },
+      {
+        "key": "J",
+        "text": "outline"
+      },
+      {
+        "key": "K",
+        "text": "output"
+      },
+      {
+        "key": "L",
+        "text": "perfection"
+      },
+      {
+        "key": "M",
+        "text": "pitch"
+      },
+      {
+        "key": "N",
+        "text": "arrogant"
+      },
+      {
+        "key": "O",
+        "text": "rivals"
+      }
+    ],
+    "answer": [
+      "H"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage2-blank5"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "cf9c58c0a4c830be66791fc0a8e600d419ae51f602d5f63a0ed73123c23dd0d4"
+  },
+  {
+    "id": "q_eda110065fa261ec",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 2 blank (6): As everyone knows, job hunting can be astressful experience, so it is sensible to be well-prepared. Companies welcome (1) applicants with previous experience, but will also take on people who show a(n) (2)genuine interest in the job. Of course, the first thing to do is carry out some research so you know exactly what the company does and what type of person they are looking for. In your resume, make sure you(3) outline your strengths. If you are invited for an interview, it is important to remember a number of things. Firstly, it's fine to be (4)assertive and show that you have the right (5) mentality but be careful not to come across as (6)arogant as that is something that no company wants. Also, remember they don't expect (7) pertection they just need to see your real strengths and your desire to work hard. They are much more interested in finding people who will learn and develop and add something extra to the company. Each place has a(n) (8) corporate culture and they want employees who will fit in with their existing workers. The interview is your chance to give a(n) (9) pitch about yourself and it is the time and place to stand out from your (10) rivals. It can be a good idea to practice for an interview as it might be the one chance you get to make a good impression and land that dream job.",
+    "options": [
+      {
+        "key": "A",
+        "text": "applicants"
+      },
+      {
+        "key": "B",
+        "text": "assertive"
+      },
+      {
+        "key": "C",
+        "text": "fierce"
+      },
+      {
+        "key": "D",
+        "text": "coordinators"
+      },
+      {
+        "key": "E",
+        "text": "corporate"
+      },
+      {
+        "key": "F",
+        "text": "genuine"
+      },
+      {
+        "key": "G",
+        "text": "expand"
+      },
+      {
+        "key": "H",
+        "text": "mentality"
+      },
+      {
+        "key": "I",
+        "text": "loyalty"
+      },
+      {
+        "key": "J",
+        "text": "outline"
+      },
+      {
+        "key": "K",
+        "text": "output"
+      },
+      {
+        "key": "L",
+        "text": "perfection"
+      },
+      {
+        "key": "M",
+        "text": "pitch"
+      },
+      {
+        "key": "N",
+        "text": "arrogant"
+      },
+      {
+        "key": "O",
+        "text": "rivals"
+      }
+    ],
+    "answer": [
+      "N"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage2-blank6"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "eda110065fa261ec0c618062952a6fa3f6c24f62ef6e406539eea381356b2dd0"
+  },
+  {
+    "id": "q_813758e27923d152",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 2 blank (7): As everyone knows, job hunting can be astressful experience, so it is sensible to be well-prepared. Companies welcome (1) applicants with previous experience, but will also take on people who show a(n) (2)genuine interest in the job. Of course, the first thing to do is carry out some research so you know exactly what the company does and what type of person they are looking for. In your resume, make sure you(3) outline your strengths. If you are invited for an interview, it is important to remember a number of things. Firstly, it's fine to be (4)assertive and show that you have the right (5) mentality but be careful not to come across as (6)arogant as that is something that no company wants. Also, remember they don't expect (7) pertection they just need to see your real strengths and your desire to work hard. They are much more interested in finding people who will learn and develop and add something extra to the company. Each place has a(n) (8) corporate culture and they want employees who will fit in with their existing workers. The interview is your chance to give a(n) (9) pitch about yourself and it is the time and place to stand out from your (10) rivals. It can be a good idea to practice for an interview as it might be the one chance you get to make a good impression and land that dream job.",
+    "options": [
+      {
+        "key": "A",
+        "text": "applicants"
+      },
+      {
+        "key": "B",
+        "text": "assertive"
+      },
+      {
+        "key": "C",
+        "text": "fierce"
+      },
+      {
+        "key": "D",
+        "text": "coordinators"
+      },
+      {
+        "key": "E",
+        "text": "corporate"
+      },
+      {
+        "key": "F",
+        "text": "genuine"
+      },
+      {
+        "key": "G",
+        "text": "expand"
+      },
+      {
+        "key": "H",
+        "text": "mentality"
+      },
+      {
+        "key": "I",
+        "text": "loyalty"
+      },
+      {
+        "key": "J",
+        "text": "outline"
+      },
+      {
+        "key": "K",
+        "text": "output"
+      },
+      {
+        "key": "L",
+        "text": "perfection"
+      },
+      {
+        "key": "M",
+        "text": "pitch"
+      },
+      {
+        "key": "N",
+        "text": "arrogant"
+      },
+      {
+        "key": "O",
+        "text": "rivals"
+      }
+    ],
+    "answer": [
+      "L"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage2-blank7"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "813758e27923d1525f62b5f9ef9967d5f2bd05aec1277ab5d30771010acd3dcb"
+  },
+  {
+    "id": "q_e4dbbb2f22aed211",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 2 blank (8): As everyone knows, job hunting can be astressful experience, so it is sensible to be well-prepared. Companies welcome (1) applicants with previous experience, but will also take on people who show a(n) (2)genuine interest in the job. Of course, the first thing to do is carry out some research so you know exactly what the company does and what type of person they are looking for. In your resume, make sure you(3) outline your strengths. If you are invited for an interview, it is important to remember a number of things. Firstly, it's fine to be (4)assertive and show that you have the right (5) mentality but be careful not to come across as (6)arogant as that is something that no company wants. Also, remember they don't expect (7) pertection they just need to see your real strengths and your desire to work hard. They are much more interested in finding people who will learn and develop and add something extra to the company. Each place has a(n) (8) corporate culture and they want employees who will fit in with their existing workers. The interview is your chance to give a(n) (9) pitch about yourself and it is the time and place to stand out from your (10) rivals. It can be a good idea to practice for an interview as it might be the one chance you get to make a good impression and land that dream job.",
+    "options": [
+      {
+        "key": "A",
+        "text": "applicants"
+      },
+      {
+        "key": "B",
+        "text": "assertive"
+      },
+      {
+        "key": "C",
+        "text": "fierce"
+      },
+      {
+        "key": "D",
+        "text": "coordinators"
+      },
+      {
+        "key": "E",
+        "text": "corporate"
+      },
+      {
+        "key": "F",
+        "text": "genuine"
+      },
+      {
+        "key": "G",
+        "text": "expand"
+      },
+      {
+        "key": "H",
+        "text": "mentality"
+      },
+      {
+        "key": "I",
+        "text": "loyalty"
+      },
+      {
+        "key": "J",
+        "text": "outline"
+      },
+      {
+        "key": "K",
+        "text": "output"
+      },
+      {
+        "key": "L",
+        "text": "perfection"
+      },
+      {
+        "key": "M",
+        "text": "pitch"
+      },
+      {
+        "key": "N",
+        "text": "arrogant"
+      },
+      {
+        "key": "O",
+        "text": "rivals"
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage2-blank8"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "e4dbbb2f22aed211f9d8b8862dac3f6fffaa387dfda4193117a0302af14b2c5b"
+  },
+  {
+    "id": "q_016c47d1e2365a94",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 2 blank (9): As everyone knows, job hunting can be astressful experience, so it is sensible to be well-prepared. Companies welcome (1) applicants with previous experience, but will also take on people who show a(n) (2)genuine interest in the job. Of course, the first thing to do is carry out some research so you know exactly what the company does and what type of person they are looking for. In your resume, make sure you(3) outline your strengths. If you are invited for an interview, it is important to remember a number of things. Firstly, it's fine to be (4)assertive and show that you have the right (5) mentality but be careful not to come across as (6)arogant as that is something that no company wants. Also, remember they don't expect (7) pertection they just need to see your real strengths and your desire to work hard. They are much more interested in finding people who will learn and develop and add something extra to the company. Each place has a(n) (8) corporate culture and they want employees who will fit in with their existing workers. The interview is your chance to give a(n) (9) pitch about yourself and it is the time and place to stand out from your (10) rivals. It can be a good idea to practice for an interview as it might be the one chance you get to make a good impression and land that dream job.",
+    "options": [
+      {
+        "key": "A",
+        "text": "applicants"
+      },
+      {
+        "key": "B",
+        "text": "assertive"
+      },
+      {
+        "key": "C",
+        "text": "fierce"
+      },
+      {
+        "key": "D",
+        "text": "coordinators"
+      },
+      {
+        "key": "E",
+        "text": "corporate"
+      },
+      {
+        "key": "F",
+        "text": "genuine"
+      },
+      {
+        "key": "G",
+        "text": "expand"
+      },
+      {
+        "key": "H",
+        "text": "mentality"
+      },
+      {
+        "key": "I",
+        "text": "loyalty"
+      },
+      {
+        "key": "J",
+        "text": "outline"
+      },
+      {
+        "key": "K",
+        "text": "output"
+      },
+      {
+        "key": "L",
+        "text": "perfection"
+      },
+      {
+        "key": "M",
+        "text": "pitch"
+      },
+      {
+        "key": "N",
+        "text": "arrogant"
+      },
+      {
+        "key": "O",
+        "text": "rivals"
+      }
+    ],
+    "answer": [
+      "M"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage2-blank9"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "016c47d1e2365a94c233808d0a98fbfb2466b6bdf505ac80ec008db0d5032745"
+  },
+  {
+    "id": "q_7f03296c1bb5a798",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 2 blank (10): As everyone knows, job hunting can be astressful experience, so it is sensible to be well-prepared. Companies welcome (1) applicants with previous experience, but will also take on people who show a(n) (2)genuine interest in the job. Of course, the first thing to do is carry out some research so you know exactly what the company does and what type of person they are looking for. In your resume, make sure you(3) outline your strengths. If you are invited for an interview, it is important to remember a number of things. Firstly, it's fine to be (4)assertive and show that you have the right (5) mentality but be careful not to come across as (6)arogant as that is something that no company wants. Also, remember they don't expect (7) pertection they just need to see your real strengths and your desire to work hard. They are much more interested in finding people who will learn and develop and add something extra to the company. Each place has a(n) (8) corporate culture and they want employees who will fit in with their existing workers. The interview is your chance to give a(n) (9) pitch about yourself and it is the time and place to stand out from your (10) rivals. It can be a good idea to practice for an interview as it might be the one chance you get to make a good impression and land that dream job.",
+    "options": [
+      {
+        "key": "A",
+        "text": "applicants"
+      },
+      {
+        "key": "B",
+        "text": "assertive"
+      },
+      {
+        "key": "C",
+        "text": "fierce"
+      },
+      {
+        "key": "D",
+        "text": "coordinators"
+      },
+      {
+        "key": "E",
+        "text": "corporate"
+      },
+      {
+        "key": "F",
+        "text": "genuine"
+      },
+      {
+        "key": "G",
+        "text": "expand"
+      },
+      {
+        "key": "H",
+        "text": "mentality"
+      },
+      {
+        "key": "I",
+        "text": "loyalty"
+      },
+      {
+        "key": "J",
+        "text": "outline"
+      },
+      {
+        "key": "K",
+        "text": "output"
+      },
+      {
+        "key": "L",
+        "text": "perfection"
+      },
+      {
+        "key": "M",
+        "text": "pitch"
+      },
+      {
+        "key": "N",
+        "text": "arrogant"
+      },
+      {
+        "key": "O",
+        "text": "rivals"
+      }
+    ],
+    "answer": [
+      "O"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage2-blank10"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "7f03296c1bb5a7986609d522b568d72ce2d813ee91c06825ea83f2b68771b8a6"
+  },
+  {
+    "id": "q_be0a16356bc5c562",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 3 blank (1): Team-building events are becoming increasingly popular in the corporate world.At first (1) _, team-building events may Trans\tjust seem like unnecessary (and expensive!)\t fun days out that serve little purpose. However,\tthose who (2) _such days often point, to improved work relationships and a better\tunderstanding amongst (3) _working in\tthe same department. At best, employees can find team-building events inspiring or even (4)__ However, without good planning, team-building events can end up as a waste of time, or even have a(n) (5) _influence on a team.For team-building events to be successful, it is important to plan carefully (6) _. There are many different (7) _of team- building events. To choose the suitable one, you can start by asking questions like: What type of event will be popular? What outcomes would be preferred? Is there anything that could prove to be an issue? By asking such questions and trying to (8)the outcomes of the events, it is possible to reduce the likelihood of failure. There are two common situations where problems could arise. One is when teams include people from the company with (9).This is particularly an issue when the corporate culture is based on hierarchy. The second is when one person in the team (1O).This can often be linked to the first issue, so needs to be carefully considered. However, all in all, well-planned team-building events are definitely a good way to bring people together.",
+    "options": [
+      {
+        "key": "A",
+        "text": "advocate"
+      },
+      {
+        "key": "B",
+        "text": "beforehand"
+      },
+      {
+        "key": "C",
+        "text": "channels"
+      },
+      {
+        "key": "D",
+        "text": "considerate"
+      },
+      {
+        "key": "E",
+        "text": "destructive"
+      },
+      {
+        "key": "F",
+        "text": "dominates"
+      },
+      {
+        "key": "G",
+        "text": "formats"
+      },
+      {
+        "key": "H",
+        "text": "glance"
+      },
+      {
+        "key": "I",
+        "text": "respectful"
+      },
+      {
+        "key": "J",
+        "text": "personnel"
+      },
+      {
+        "key": "K",
+        "text": "enlightening"
+      },
+      {
+        "key": "L",
+        "text": "elsewhere"
+      },
+      {
+        "key": "M",
+        "text": "seniority"
+      },
+      {
+        "key": "N",
+        "text": "anticipate"
+      },
+      {
+        "key": "O",
+        "text": "drifts"
+      }
+    ],
+    "answer": [
+      "H"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage3-blank1"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "be0a16356bc5c5625a4115c4f89c39854e161384797e24f6dedf6b9953755bd1"
+  },
+  {
+    "id": "q_8114849e012f0fa3",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 3 blank (2): Team-building events are becoming increasingly popular in the corporate world.At first (1) _, team-building events may Trans\tjust seem like unnecessary (and expensive!)\t fun days out that serve little purpose. However,\tthose who (2) _such days often point, to improved work relationships and a better\tunderstanding amongst (3) _working in\tthe same department. At best, employees can find team-building events inspiring or even (4)__ However, without good planning, team-building events can end up as a waste of time, or even have a(n) (5) _influence on a team.For team-building events to be successful, it is important to plan carefully (6) _. There are many different (7) _of team- building events. To choose the suitable one, you can start by asking questions like: What type of event will be popular? What outcomes would be preferred? Is there anything that could prove to be an issue? By asking such questions and trying to (8)the outcomes of the events, it is possible to reduce the likelihood of failure. There are two common situations where problems could arise. One is when teams include people from the company with (9).This is particularly an issue when the corporate culture is based on hierarchy. The second is when one person in the team (1O).This can often be linked to the first issue, so needs to be carefully considered. However, all in all, well-planned team-building events are definitely a good way to bring people together.",
+    "options": [
+      {
+        "key": "A",
+        "text": "advocate"
+      },
+      {
+        "key": "B",
+        "text": "beforehand"
+      },
+      {
+        "key": "C",
+        "text": "channels"
+      },
+      {
+        "key": "D",
+        "text": "considerate"
+      },
+      {
+        "key": "E",
+        "text": "destructive"
+      },
+      {
+        "key": "F",
+        "text": "dominates"
+      },
+      {
+        "key": "G",
+        "text": "formats"
+      },
+      {
+        "key": "H",
+        "text": "glance"
+      },
+      {
+        "key": "I",
+        "text": "respectful"
+      },
+      {
+        "key": "J",
+        "text": "personnel"
+      },
+      {
+        "key": "K",
+        "text": "enlightening"
+      },
+      {
+        "key": "L",
+        "text": "elsewhere"
+      },
+      {
+        "key": "M",
+        "text": "seniority"
+      },
+      {
+        "key": "N",
+        "text": "anticipate"
+      },
+      {
+        "key": "O",
+        "text": "drifts"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage3-blank2"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "8114849e012f0fa34ce84ff1b1a45af04036300dd2d4cbe608e25574b74e3567"
+  },
+  {
+    "id": "q_4ee1f88c3bf8c0e0",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 3 blank (3): Team-building events are becoming increasingly popular in the corporate world.At first (1) _, team-building events may Trans\tjust seem like unnecessary (and expensive!)\t fun days out that serve little purpose. However,\tthose who (2) _such days often point, to improved work relationships and a better\tunderstanding amongst (3) _working in\tthe same department. At best, employees can find team-building events inspiring or even (4)__ However, without good planning, team-building events can end up as a waste of time, or even have a(n) (5) _influence on a team.For team-building events to be successful, it is important to plan carefully (6) _. There are many different (7) _of team- building events. To choose the suitable one, you can start by asking questions like: What type of event will be popular? What outcomes would be preferred? Is there anything that could prove to be an issue? By asking such questions and trying to (8)the outcomes of the events, it is possible to reduce the likelihood of failure. There are two common situations where problems could arise. One is when teams include people from the company with (9).This is particularly an issue when the corporate culture is based on hierarchy. The second is when one person in the team (1O).This can often be linked to the first issue, so needs to be carefully considered. However, all in all, well-planned team-building events are definitely a good way to bring people together.",
+    "options": [
+      {
+        "key": "A",
+        "text": "advocate"
+      },
+      {
+        "key": "B",
+        "text": "beforehand"
+      },
+      {
+        "key": "C",
+        "text": "channels"
+      },
+      {
+        "key": "D",
+        "text": "considerate"
+      },
+      {
+        "key": "E",
+        "text": "destructive"
+      },
+      {
+        "key": "F",
+        "text": "dominates"
+      },
+      {
+        "key": "G",
+        "text": "formats"
+      },
+      {
+        "key": "H",
+        "text": "glance"
+      },
+      {
+        "key": "I",
+        "text": "respectful"
+      },
+      {
+        "key": "J",
+        "text": "personnel"
+      },
+      {
+        "key": "K",
+        "text": "enlightening"
+      },
+      {
+        "key": "L",
+        "text": "elsewhere"
+      },
+      {
+        "key": "M",
+        "text": "seniority"
+      },
+      {
+        "key": "N",
+        "text": "anticipate"
+      },
+      {
+        "key": "O",
+        "text": "drifts"
+      }
+    ],
+    "answer": [
+      "J"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage3-blank3"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "4ee1f88c3bf8c0e0ea7f644fd37baef54b5d316497dea96ef95339cbed1879ad"
+  },
+  {
+    "id": "q_6adb5e851195691f",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 3 blank (4): Team-building events are becoming increasingly popular in the corporate world.At first (1) _, team-building events may Trans\tjust seem like unnecessary (and expensive!)\t fun days out that serve little purpose. However,\tthose who (2) _such days often point, to improved work relationships and a better\tunderstanding amongst (3) _working in\tthe same department. At best, employees can find team-building events inspiring or even (4)__ However, without good planning, team-building events can end up as a waste of time, or even have a(n) (5) _influence on a team.For team-building events to be successful, it is important to plan carefully (6) _. There are many different (7) _of team- building events. To choose the suitable one, you can start by asking questions like: What type of event will be popular? What outcomes would be preferred? Is there anything that could prove to be an issue? By asking such questions and trying to (8)the outcomes of the events, it is possible to reduce the likelihood of failure. There are two common situations where problems could arise. One is when teams include people from the company with (9).This is particularly an issue when the corporate culture is based on hierarchy. The second is when one person in the team (1O).This can often be linked to the first issue, so needs to be carefully considered. However, all in all, well-planned team-building events are definitely a good way to bring people together.",
+    "options": [
+      {
+        "key": "A",
+        "text": "advocate"
+      },
+      {
+        "key": "B",
+        "text": "beforehand"
+      },
+      {
+        "key": "C",
+        "text": "channels"
+      },
+      {
+        "key": "D",
+        "text": "considerate"
+      },
+      {
+        "key": "E",
+        "text": "destructive"
+      },
+      {
+        "key": "F",
+        "text": "dominates"
+      },
+      {
+        "key": "G",
+        "text": "formats"
+      },
+      {
+        "key": "H",
+        "text": "glance"
+      },
+      {
+        "key": "I",
+        "text": "respectful"
+      },
+      {
+        "key": "J",
+        "text": "personnel"
+      },
+      {
+        "key": "K",
+        "text": "enlightening"
+      },
+      {
+        "key": "L",
+        "text": "elsewhere"
+      },
+      {
+        "key": "M",
+        "text": "seniority"
+      },
+      {
+        "key": "N",
+        "text": "anticipate"
+      },
+      {
+        "key": "O",
+        "text": "drifts"
+      }
+    ],
+    "answer": [
+      "K"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage3-blank4"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "6adb5e851195691f919aa0b57abb9f4478c19b2ab3d7750b8ee67bd40176c225"
+  },
+  {
+    "id": "q_5e1605243454f25e",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 3 blank (5): Team-building events are becoming increasingly popular in the corporate world.At first (1) _, team-building events may Trans\tjust seem like unnecessary (and expensive!)\t fun days out that serve little purpose. However,\tthose who (2) _such days often point, to improved work relationships and a better\tunderstanding amongst (3) _working in\tthe same department. At best, employees can find team-building events inspiring or even (4)__ However, without good planning, team-building events can end up as a waste of time, or even have a(n) (5) _influence on a team.For team-building events to be successful, it is important to plan carefully (6) _. There are many different (7) _of team- building events. To choose the suitable one, you can start by asking questions like: What type of event will be popular? What outcomes would be preferred? Is there anything that could prove to be an issue? By asking such questions and trying to (8)the outcomes of the events, it is possible to reduce the likelihood of failure. There are two common situations where problems could arise. One is when teams include people from the company with (9).This is particularly an issue when the corporate culture is based on hierarchy. The second is when one person in the team (1O).This can often be linked to the first issue, so needs to be carefully considered. However, all in all, well-planned team-building events are definitely a good way to bring people together.",
+    "options": [
+      {
+        "key": "A",
+        "text": "advocate"
+      },
+      {
+        "key": "B",
+        "text": "beforehand"
+      },
+      {
+        "key": "C",
+        "text": "channels"
+      },
+      {
+        "key": "D",
+        "text": "considerate"
+      },
+      {
+        "key": "E",
+        "text": "destructive"
+      },
+      {
+        "key": "F",
+        "text": "dominates"
+      },
+      {
+        "key": "G",
+        "text": "formats"
+      },
+      {
+        "key": "H",
+        "text": "glance"
+      },
+      {
+        "key": "I",
+        "text": "respectful"
+      },
+      {
+        "key": "J",
+        "text": "personnel"
+      },
+      {
+        "key": "K",
+        "text": "enlightening"
+      },
+      {
+        "key": "L",
+        "text": "elsewhere"
+      },
+      {
+        "key": "M",
+        "text": "seniority"
+      },
+      {
+        "key": "N",
+        "text": "anticipate"
+      },
+      {
+        "key": "O",
+        "text": "drifts"
+      }
+    ],
+    "answer": [
+      "E"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage3-blank5"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "5e1605243454f25ebe7c4f2d1f8a6c4e5f82c743c4955632293229a0280333f7"
+  },
+  {
+    "id": "q_0a582156736aa339",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 3 blank (6): Team-building events are becoming increasingly popular in the corporate world.At first (1) _, team-building events may Trans\tjust seem like unnecessary (and expensive!)\t fun days out that serve little purpose. However,\tthose who (2) _such days often point, to improved work relationships and a better\tunderstanding amongst (3) _working in\tthe same department. At best, employees can find team-building events inspiring or even (4)__ However, without good planning, team-building events can end up as a waste of time, or even have a(n) (5) _influence on a team.For team-building events to be successful, it is important to plan carefully (6) _. There are many different (7) _of team- building events. To choose the suitable one, you can start by asking questions like: What type of event will be popular? What outcomes would be preferred? Is there anything that could prove to be an issue? By asking such questions and trying to (8)the outcomes of the events, it is possible to reduce the likelihood of failure. There are two common situations where problems could arise. One is when teams include people from the company with (9).This is particularly an issue when the corporate culture is based on hierarchy. The second is when one person in the team (1O).This can often be linked to the first issue, so needs to be carefully considered. However, all in all, well-planned team-building events are definitely a good way to bring people together.",
+    "options": [
+      {
+        "key": "A",
+        "text": "advocate"
+      },
+      {
+        "key": "B",
+        "text": "beforehand"
+      },
+      {
+        "key": "C",
+        "text": "channels"
+      },
+      {
+        "key": "D",
+        "text": "considerate"
+      },
+      {
+        "key": "E",
+        "text": "destructive"
+      },
+      {
+        "key": "F",
+        "text": "dominates"
+      },
+      {
+        "key": "G",
+        "text": "formats"
+      },
+      {
+        "key": "H",
+        "text": "glance"
+      },
+      {
+        "key": "I",
+        "text": "respectful"
+      },
+      {
+        "key": "J",
+        "text": "personnel"
+      },
+      {
+        "key": "K",
+        "text": "enlightening"
+      },
+      {
+        "key": "L",
+        "text": "elsewhere"
+      },
+      {
+        "key": "M",
+        "text": "seniority"
+      },
+      {
+        "key": "N",
+        "text": "anticipate"
+      },
+      {
+        "key": "O",
+        "text": "drifts"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage3-blank6"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "0a582156736aa3392dba67e218efb20713f8c17fc9bfeedea1a5bac1d77ff650"
+  },
+  {
+    "id": "q_950ecc8728ce7609",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 3 blank (7): Team-building events are becoming increasingly popular in the corporate world.At first (1) _, team-building events may Trans\tjust seem like unnecessary (and expensive!)\t fun days out that serve little purpose. However,\tthose who (2) _such days often point, to improved work relationships and a better\tunderstanding amongst (3) _working in\tthe same department. At best, employees can find team-building events inspiring or even (4)__ However, without good planning, team-building events can end up as a waste of time, or even have a(n) (5) _influence on a team.For team-building events to be successful, it is important to plan carefully (6) _. There are many different (7) _of team- building events. To choose the suitable one, you can start by asking questions like: What type of event will be popular? What outcomes would be preferred? Is there anything that could prove to be an issue? By asking such questions and trying to (8)the outcomes of the events, it is possible to reduce the likelihood of failure. There are two common situations where problems could arise. One is when teams include people from the company with (9).This is particularly an issue when the corporate culture is based on hierarchy. The second is when one person in the team (1O).This can often be linked to the first issue, so needs to be carefully considered. However, all in all, well-planned team-building events are definitely a good way to bring people together.",
+    "options": [
+      {
+        "key": "A",
+        "text": "advocate"
+      },
+      {
+        "key": "B",
+        "text": "beforehand"
+      },
+      {
+        "key": "C",
+        "text": "channels"
+      },
+      {
+        "key": "D",
+        "text": "considerate"
+      },
+      {
+        "key": "E",
+        "text": "destructive"
+      },
+      {
+        "key": "F",
+        "text": "dominates"
+      },
+      {
+        "key": "G",
+        "text": "formats"
+      },
+      {
+        "key": "H",
+        "text": "glance"
+      },
+      {
+        "key": "I",
+        "text": "respectful"
+      },
+      {
+        "key": "J",
+        "text": "personnel"
+      },
+      {
+        "key": "K",
+        "text": "enlightening"
+      },
+      {
+        "key": "L",
+        "text": "elsewhere"
+      },
+      {
+        "key": "M",
+        "text": "seniority"
+      },
+      {
+        "key": "N",
+        "text": "anticipate"
+      },
+      {
+        "key": "O",
+        "text": "drifts"
+      }
+    ],
+    "answer": [
+      "G"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage3-blank7"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "950ecc8728ce76091407f631ddb001a86580f5fe6d4b4ef093de85dabfb6246c"
+  },
+  {
+    "id": "q_30f264fa00247497",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 3 blank (8): Team-building events are becoming increasingly popular in the corporate world.At first (1) _, team-building events may Trans\tjust seem like unnecessary (and expensive!)\t fun days out that serve little purpose. However,\tthose who (2) _such days often point, to improved work relationships and a better\tunderstanding amongst (3) _working in\tthe same department. At best, employees can find team-building events inspiring or even (4)__ However, without good planning, team-building events can end up as a waste of time, or even have a(n) (5) _influence on a team.For team-building events to be successful, it is important to plan carefully (6) _. There are many different (7) _of team- building events. To choose the suitable one, you can start by asking questions like: What type of event will be popular? What outcomes would be preferred? Is there anything that could prove to be an issue? By asking such questions and trying to (8)the outcomes of the events, it is possible to reduce the likelihood of failure. There are two common situations where problems could arise. One is when teams include people from the company with (9).This is particularly an issue when the corporate culture is based on hierarchy. The second is when one person in the team (1O).This can often be linked to the first issue, so needs to be carefully considered. However, all in all, well-planned team-building events are definitely a good way to bring people together.",
+    "options": [
+      {
+        "key": "A",
+        "text": "advocate"
+      },
+      {
+        "key": "B",
+        "text": "beforehand"
+      },
+      {
+        "key": "C",
+        "text": "channels"
+      },
+      {
+        "key": "D",
+        "text": "considerate"
+      },
+      {
+        "key": "E",
+        "text": "destructive"
+      },
+      {
+        "key": "F",
+        "text": "dominates"
+      },
+      {
+        "key": "G",
+        "text": "formats"
+      },
+      {
+        "key": "H",
+        "text": "glance"
+      },
+      {
+        "key": "I",
+        "text": "respectful"
+      },
+      {
+        "key": "J",
+        "text": "personnel"
+      },
+      {
+        "key": "K",
+        "text": "enlightening"
+      },
+      {
+        "key": "L",
+        "text": "elsewhere"
+      },
+      {
+        "key": "M",
+        "text": "seniority"
+      },
+      {
+        "key": "N",
+        "text": "anticipate"
+      },
+      {
+        "key": "O",
+        "text": "drifts"
+      }
+    ],
+    "answer": [
+      "N"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage3-blank8"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "30f264fa0024749734fc3a734f36d6b39c041d4e4d68a4fa9dcae46d5b742d65"
+  },
+  {
+    "id": "q_dd10d4e4d4f56fd1",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 3 blank (9): Team-building events are becoming increasingly popular in the corporate world.At first (1) _, team-building events may Trans\tjust seem like unnecessary (and expensive!)\t fun days out that serve little purpose. However,\tthose who (2) _such days often point, to improved work relationships and a better\tunderstanding amongst (3) _working in\tthe same department. At best, employees can find team-building events inspiring or even (4)__ However, without good planning, team-building events can end up as a waste of time, or even have a(n) (5) _influence on a team.For team-building events to be successful, it is important to plan carefully (6) _. There are many different (7) _of team- building events. To choose the suitable one, you can start by asking questions like: What type of event will be popular? What outcomes would be preferred? Is there anything that could prove to be an issue? By asking such questions and trying to (8)the outcomes of the events, it is possible to reduce the likelihood of failure. There are two common situations where problems could arise. One is when teams include people from the company with (9).This is particularly an issue when the corporate culture is based on hierarchy. The second is when one person in the team (1O).This can often be linked to the first issue, so needs to be carefully considered. However, all in all, well-planned team-building events are definitely a good way to bring people together.",
+    "options": [
+      {
+        "key": "A",
+        "text": "advocate"
+      },
+      {
+        "key": "B",
+        "text": "beforehand"
+      },
+      {
+        "key": "C",
+        "text": "channels"
+      },
+      {
+        "key": "D",
+        "text": "considerate"
+      },
+      {
+        "key": "E",
+        "text": "destructive"
+      },
+      {
+        "key": "F",
+        "text": "dominates"
+      },
+      {
+        "key": "G",
+        "text": "formats"
+      },
+      {
+        "key": "H",
+        "text": "glance"
+      },
+      {
+        "key": "I",
+        "text": "respectful"
+      },
+      {
+        "key": "J",
+        "text": "personnel"
+      },
+      {
+        "key": "K",
+        "text": "enlightening"
+      },
+      {
+        "key": "L",
+        "text": "elsewhere"
+      },
+      {
+        "key": "M",
+        "text": "seniority"
+      },
+      {
+        "key": "N",
+        "text": "anticipate"
+      },
+      {
+        "key": "O",
+        "text": "drifts"
+      }
+    ],
+    "answer": [
+      "M"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage3-blank9"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "dd10d4e4d4f56fd16ee753f8164cdc36b9e061239f44ce9192858d0aa65c90f1"
+  },
+  {
+    "id": "q_9dbdbb601dcb37e6",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 3 blank (10): Team-building events are becoming increasingly popular in the corporate world.At first (1) _, team-building events may Trans\tjust seem like unnecessary (and expensive!)\t fun days out that serve little purpose. However,\tthose who (2) _such days often point, to improved work relationships and a better\tunderstanding amongst (3) _working in\tthe same department. At best, employees can find team-building events inspiring or even (4)__ However, without good planning, team-building events can end up as a waste of time, or even have a(n) (5) _influence on a team.For team-building events to be successful, it is important to plan carefully (6) _. There are many different (7) _of team- building events. To choose the suitable one, you can start by asking questions like: What type of event will be popular? What outcomes would be preferred? Is there anything that could prove to be an issue? By asking such questions and trying to (8)the outcomes of the events, it is possible to reduce the likelihood of failure. There are two common situations where problems could arise. One is when teams include people from the company with (9).This is particularly an issue when the corporate culture is based on hierarchy. The second is when one person in the team (1O).This can often be linked to the first issue, so needs to be carefully considered. However, all in all, well-planned team-building events are definitely a good way to bring people together.",
+    "options": [
+      {
+        "key": "A",
+        "text": "advocate"
+      },
+      {
+        "key": "B",
+        "text": "beforehand"
+      },
+      {
+        "key": "C",
+        "text": "channels"
+      },
+      {
+        "key": "D",
+        "text": "considerate"
+      },
+      {
+        "key": "E",
+        "text": "destructive"
+      },
+      {
+        "key": "F",
+        "text": "dominates"
+      },
+      {
+        "key": "G",
+        "text": "formats"
+      },
+      {
+        "key": "H",
+        "text": "glance"
+      },
+      {
+        "key": "I",
+        "text": "respectful"
+      },
+      {
+        "key": "J",
+        "text": "personnel"
+      },
+      {
+        "key": "K",
+        "text": "enlightening"
+      },
+      {
+        "key": "L",
+        "text": "elsewhere"
+      },
+      {
+        "key": "M",
+        "text": "seniority"
+      },
+      {
+        "key": "N",
+        "text": "anticipate"
+      },
+      {
+        "key": "O",
+        "text": "drifts"
+      }
+    ],
+    "answer": [
+      "F"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage3-blank10"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "9dbdbb601dcb37e64748a9acfd306a16d990f73bcf75e137bc500e8f8f7bff39"
+  },
+  {
+    "id": "q_abf1d7f392649856",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 4 blank (1): Future-proofing is one of the most important things any company can do to guarantee that it will be around for many years. However, from the (1) it is essential that any company wishing to implement change talk with both its employees and, when possible, with its(2)_customers or clients. It is not a(n) (3) _idea to implement change without consulting those who will be impacted the most. This mistake can leave the company in a(n) (4) _situation, as even a company's most loyal employees can sometimes show a(n) (5) _opposition to big changes. Opposition to change can occur for many reasons, but the (6) _reason is fear of change itself. Many people are (7) _by nature and this means that anything new is seen as a threat. Another aspect of future- proofing is making everyone aware that any change may not have a(n) (8) _effect. As the saying goes, “Change takes time.\" Setting realistic expectations for all those involved is really important. Companies who plan carefully and (9) change well will benefit in the long run. Those companies will also avoid the (10) off so many before them. If we look at the history of business, there are many businesses that were once leaders in their fields but no longer exist today.",
+    "options": [
+      {
+        "key": "A",
+        "text": "capacity"
+      },
+      {
+        "key": "B",
+        "text": "conservative"
+      },
+      {
+        "key": "C",
+        "text": "execute"
+      },
+      {
+        "key": "D",
+        "text": "fate"
+      },
+      {
+        "key": "E",
+        "text": "diverge"
+      },
+      {
+        "key": "F",
+        "text": "loyal"
+      },
+      {
+        "key": "G",
+        "text": "onward"
+      },
+      {
+        "key": "H",
+        "text": "outset"
+      },
+      {
+        "key": "I",
+        "text": "overnight"
+      },
+      {
+        "key": "J",
+        "text": "perilous"
+      },
+      {
+        "key": "K",
+        "text": "prime"
+      },
+      {
+        "key": "L",
+        "text": "recognition"
+      },
+      {
+        "key": "M",
+        "text": "sensible"
+      },
+      {
+        "key": "N",
+        "text": "fierce"
+      },
+      {
+        "key": "O",
+        "text": "yearly"
+      }
+    ],
+    "answer": [
+      "H"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage4-blank1"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "abf1d7f392649856ce0ae066d5255ae5602bd8de631e10a11147c6138e8b3d14"
+  },
+  {
+    "id": "q_1ebc4504cce812d2",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 4 blank (2): Future-proofing is one of the most important things any company can do to guarantee that it will be around for many years. However, from the (1) it is essential that any company wishing to implement change talk with both its employees and, when possible, with its(2)_customers or clients. It is not a(n) (3) _idea to implement change without consulting those who will be impacted the most. This mistake can leave the company in a(n) (4) _situation, as even a company's most loyal employees can sometimes show a(n) (5) _opposition to big changes. Opposition to change can occur for many reasons, but the (6) _reason is fear of change itself. Many people are (7) _by nature and this means that anything new is seen as a threat. Another aspect of future- proofing is making everyone aware that any change may not have a(n) (8) _effect. As the saying goes, “Change takes time.\" Setting realistic expectations for all those involved is really important. Companies who plan carefully and (9) change well will benefit in the long run. Those companies will also avoid the (10) off so many before them. If we look at the history of business, there are many businesses that were once leaders in their fields but no longer exist today.",
+    "options": [
+      {
+        "key": "A",
+        "text": "capacity"
+      },
+      {
+        "key": "B",
+        "text": "conservative"
+      },
+      {
+        "key": "C",
+        "text": "execute"
+      },
+      {
+        "key": "D",
+        "text": "fate"
+      },
+      {
+        "key": "E",
+        "text": "diverge"
+      },
+      {
+        "key": "F",
+        "text": "loyal"
+      },
+      {
+        "key": "G",
+        "text": "onward"
+      },
+      {
+        "key": "H",
+        "text": "outset"
+      },
+      {
+        "key": "I",
+        "text": "overnight"
+      },
+      {
+        "key": "J",
+        "text": "perilous"
+      },
+      {
+        "key": "K",
+        "text": "prime"
+      },
+      {
+        "key": "L",
+        "text": "recognition"
+      },
+      {
+        "key": "M",
+        "text": "sensible"
+      },
+      {
+        "key": "N",
+        "text": "fierce"
+      },
+      {
+        "key": "O",
+        "text": "yearly"
+      }
+    ],
+    "answer": [
+      "F"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage4-blank2"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "1ebc4504cce812d2bf95b72ef15c048e4b3b60c8235886ee809641b231224693"
+  },
+  {
+    "id": "q_1bff975dd08be743",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 4 blank (3): Future-proofing is one of the most important things any company can do to guarantee that it will be around for many years. However, from the (1) it is essential that any company wishing to implement change talk with both its employees and, when possible, with its(2)_customers or clients. It is not a(n) (3) _idea to implement change without consulting those who will be impacted the most. This mistake can leave the company in a(n) (4) _situation, as even a company's most loyal employees can sometimes show a(n) (5) _opposition to big changes. Opposition to change can occur for many reasons, but the (6) _reason is fear of change itself. Many people are (7) _by nature and this means that anything new is seen as a threat. Another aspect of future- proofing is making everyone aware that any change may not have a(n) (8) _effect. As the saying goes, “Change takes time.\" Setting realistic expectations for all those involved is really important. Companies who plan carefully and (9) change well will benefit in the long run. Those companies will also avoid the (10) off so many before them. If we look at the history of business, there are many businesses that were once leaders in their fields but no longer exist today.",
+    "options": [
+      {
+        "key": "A",
+        "text": "capacity"
+      },
+      {
+        "key": "B",
+        "text": "conservative"
+      },
+      {
+        "key": "C",
+        "text": "execute"
+      },
+      {
+        "key": "D",
+        "text": "fate"
+      },
+      {
+        "key": "E",
+        "text": "diverge"
+      },
+      {
+        "key": "F",
+        "text": "loyal"
+      },
+      {
+        "key": "G",
+        "text": "onward"
+      },
+      {
+        "key": "H",
+        "text": "outset"
+      },
+      {
+        "key": "I",
+        "text": "overnight"
+      },
+      {
+        "key": "J",
+        "text": "perilous"
+      },
+      {
+        "key": "K",
+        "text": "prime"
+      },
+      {
+        "key": "L",
+        "text": "recognition"
+      },
+      {
+        "key": "M",
+        "text": "sensible"
+      },
+      {
+        "key": "N",
+        "text": "fierce"
+      },
+      {
+        "key": "O",
+        "text": "yearly"
+      }
+    ],
+    "answer": [
+      "M"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage4-blank3"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "1bff975dd08be743263fe3e537215ecb75346adacd74d46e02d3b812f07ad044"
+  },
+  {
+    "id": "q_ff3ebb38a123d739",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 4 blank (4): Future-proofing is one of the most important things any company can do to guarantee that it will be around for many years. However, from the (1) it is essential that any company wishing to implement change talk with both its employees and, when possible, with its(2)_customers or clients. It is not a(n) (3) _idea to implement change without consulting those who will be impacted the most. This mistake can leave the company in a(n) (4) _situation, as even a company's most loyal employees can sometimes show a(n) (5) _opposition to big changes. Opposition to change can occur for many reasons, but the (6) _reason is fear of change itself. Many people are (7) _by nature and this means that anything new is seen as a threat. Another aspect of future- proofing is making everyone aware that any change may not have a(n) (8) _effect. As the saying goes, “Change takes time.\" Setting realistic expectations for all those involved is really important. Companies who plan carefully and (9) change well will benefit in the long run. Those companies will also avoid the (10) off so many before them. If we look at the history of business, there are many businesses that were once leaders in their fields but no longer exist today.",
+    "options": [
+      {
+        "key": "A",
+        "text": "capacity"
+      },
+      {
+        "key": "B",
+        "text": "conservative"
+      },
+      {
+        "key": "C",
+        "text": "execute"
+      },
+      {
+        "key": "D",
+        "text": "fate"
+      },
+      {
+        "key": "E",
+        "text": "diverge"
+      },
+      {
+        "key": "F",
+        "text": "loyal"
+      },
+      {
+        "key": "G",
+        "text": "onward"
+      },
+      {
+        "key": "H",
+        "text": "outset"
+      },
+      {
+        "key": "I",
+        "text": "overnight"
+      },
+      {
+        "key": "J",
+        "text": "perilous"
+      },
+      {
+        "key": "K",
+        "text": "prime"
+      },
+      {
+        "key": "L",
+        "text": "recognition"
+      },
+      {
+        "key": "M",
+        "text": "sensible"
+      },
+      {
+        "key": "N",
+        "text": "fierce"
+      },
+      {
+        "key": "O",
+        "text": "yearly"
+      }
+    ],
+    "answer": [
+      "J"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage4-blank4"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "ff3ebb38a123d7397c29590e2af41fd8ad9c4b4a72b26ce06b759b1e713719eb"
+  },
+  {
+    "id": "q_99f0666c2c7521be",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 4 blank (5): Future-proofing is one of the most important things any company can do to guarantee that it will be around for many years. However, from the (1) it is essential that any company wishing to implement change talk with both its employees and, when possible, with its(2)_customers or clients. It is not a(n) (3) _idea to implement change without consulting those who will be impacted the most. This mistake can leave the company in a(n) (4) _situation, as even a company's most loyal employees can sometimes show a(n) (5) _opposition to big changes. Opposition to change can occur for many reasons, but the (6) _reason is fear of change itself. Many people are (7) _by nature and this means that anything new is seen as a threat. Another aspect of future- proofing is making everyone aware that any change may not have a(n) (8) _effect. As the saying goes, “Change takes time.\" Setting realistic expectations for all those involved is really important. Companies who plan carefully and (9) change well will benefit in the long run. Those companies will also avoid the (10) off so many before them. If we look at the history of business, there are many businesses that were once leaders in their fields but no longer exist today.",
+    "options": [
+      {
+        "key": "A",
+        "text": "capacity"
+      },
+      {
+        "key": "B",
+        "text": "conservative"
+      },
+      {
+        "key": "C",
+        "text": "execute"
+      },
+      {
+        "key": "D",
+        "text": "fate"
+      },
+      {
+        "key": "E",
+        "text": "diverge"
+      },
+      {
+        "key": "F",
+        "text": "loyal"
+      },
+      {
+        "key": "G",
+        "text": "onward"
+      },
+      {
+        "key": "H",
+        "text": "outset"
+      },
+      {
+        "key": "I",
+        "text": "overnight"
+      },
+      {
+        "key": "J",
+        "text": "perilous"
+      },
+      {
+        "key": "K",
+        "text": "prime"
+      },
+      {
+        "key": "L",
+        "text": "recognition"
+      },
+      {
+        "key": "M",
+        "text": "sensible"
+      },
+      {
+        "key": "N",
+        "text": "fierce"
+      },
+      {
+        "key": "O",
+        "text": "yearly"
+      }
+    ],
+    "answer": [
+      "N"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage4-blank5"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "99f0666c2c7521be7b71ef85094af18a6d3eab94d9c70d47021490ac5804e6ac"
+  },
+  {
+    "id": "q_87df764d8bd985ec",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 4 blank (6): Future-proofing is one of the most important things any company can do to guarantee that it will be around for many years. However, from the (1) it is essential that any company wishing to implement change talk with both its employees and, when possible, with its(2)_customers or clients. It is not a(n) (3) _idea to implement change without consulting those who will be impacted the most. This mistake can leave the company in a(n) (4) _situation, as even a company's most loyal employees can sometimes show a(n) (5) _opposition to big changes. Opposition to change can occur for many reasons, but the (6) _reason is fear of change itself. Many people are (7) _by nature and this means that anything new is seen as a threat. Another aspect of future- proofing is making everyone aware that any change may not have a(n) (8) _effect. As the saying goes, “Change takes time.\" Setting realistic expectations for all those involved is really important. Companies who plan carefully and (9) change well will benefit in the long run. Those companies will also avoid the (10) off so many before them. If we look at the history of business, there are many businesses that were once leaders in their fields but no longer exist today.",
+    "options": [
+      {
+        "key": "A",
+        "text": "capacity"
+      },
+      {
+        "key": "B",
+        "text": "conservative"
+      },
+      {
+        "key": "C",
+        "text": "execute"
+      },
+      {
+        "key": "D",
+        "text": "fate"
+      },
+      {
+        "key": "E",
+        "text": "diverge"
+      },
+      {
+        "key": "F",
+        "text": "loyal"
+      },
+      {
+        "key": "G",
+        "text": "onward"
+      },
+      {
+        "key": "H",
+        "text": "outset"
+      },
+      {
+        "key": "I",
+        "text": "overnight"
+      },
+      {
+        "key": "J",
+        "text": "perilous"
+      },
+      {
+        "key": "K",
+        "text": "prime"
+      },
+      {
+        "key": "L",
+        "text": "recognition"
+      },
+      {
+        "key": "M",
+        "text": "sensible"
+      },
+      {
+        "key": "N",
+        "text": "fierce"
+      },
+      {
+        "key": "O",
+        "text": "yearly"
+      }
+    ],
+    "answer": [
+      "K"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage4-blank6"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "87df764d8bd985ec8e527a32865c2259de1bc0a870a5107ab04ca43ced1cc3d5"
+  },
+  {
+    "id": "q_9eb6449cf84f3650",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 4 blank (7): Future-proofing is one of the most important things any company can do to guarantee that it will be around for many years. However, from the (1) it is essential that any company wishing to implement change talk with both its employees and, when possible, with its(2)_customers or clients. It is not a(n) (3) _idea to implement change without consulting those who will be impacted the most. This mistake can leave the company in a(n) (4) _situation, as even a company's most loyal employees can sometimes show a(n) (5) _opposition to big changes. Opposition to change can occur for many reasons, but the (6) _reason is fear of change itself. Many people are (7) _by nature and this means that anything new is seen as a threat. Another aspect of future- proofing is making everyone aware that any change may not have a(n) (8) _effect. As the saying goes, “Change takes time.\" Setting realistic expectations for all those involved is really important. Companies who plan carefully and (9) change well will benefit in the long run. Those companies will also avoid the (10) off so many before them. If we look at the history of business, there are many businesses that were once leaders in their fields but no longer exist today.",
+    "options": [
+      {
+        "key": "A",
+        "text": "capacity"
+      },
+      {
+        "key": "B",
+        "text": "conservative"
+      },
+      {
+        "key": "C",
+        "text": "execute"
+      },
+      {
+        "key": "D",
+        "text": "fate"
+      },
+      {
+        "key": "E",
+        "text": "diverge"
+      },
+      {
+        "key": "F",
+        "text": "loyal"
+      },
+      {
+        "key": "G",
+        "text": "onward"
+      },
+      {
+        "key": "H",
+        "text": "outset"
+      },
+      {
+        "key": "I",
+        "text": "overnight"
+      },
+      {
+        "key": "J",
+        "text": "perilous"
+      },
+      {
+        "key": "K",
+        "text": "prime"
+      },
+      {
+        "key": "L",
+        "text": "recognition"
+      },
+      {
+        "key": "M",
+        "text": "sensible"
+      },
+      {
+        "key": "N",
+        "text": "fierce"
+      },
+      {
+        "key": "O",
+        "text": "yearly"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage4-blank7"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "9eb6449cf84f36504a96635799b46dc3059a234d96f627d56f09dc1c95592470"
+  },
+  {
+    "id": "q_c689e90d77c34b7e",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 4 blank (8): Future-proofing is one of the most important things any company can do to guarantee that it will be around for many years. However, from the (1) it is essential that any company wishing to implement change talk with both its employees and, when possible, with its(2)_customers or clients. It is not a(n) (3) _idea to implement change without consulting those who will be impacted the most. This mistake can leave the company in a(n) (4) _situation, as even a company's most loyal employees can sometimes show a(n) (5) _opposition to big changes. Opposition to change can occur for many reasons, but the (6) _reason is fear of change itself. Many people are (7) _by nature and this means that anything new is seen as a threat. Another aspect of future- proofing is making everyone aware that any change may not have a(n) (8) _effect. As the saying goes, “Change takes time.\" Setting realistic expectations for all those involved is really important. Companies who plan carefully and (9) change well will benefit in the long run. Those companies will also avoid the (10) off so many before them. If we look at the history of business, there are many businesses that were once leaders in their fields but no longer exist today.",
+    "options": [
+      {
+        "key": "A",
+        "text": "capacity"
+      },
+      {
+        "key": "B",
+        "text": "conservative"
+      },
+      {
+        "key": "C",
+        "text": "execute"
+      },
+      {
+        "key": "D",
+        "text": "fate"
+      },
+      {
+        "key": "E",
+        "text": "diverge"
+      },
+      {
+        "key": "F",
+        "text": "loyal"
+      },
+      {
+        "key": "G",
+        "text": "onward"
+      },
+      {
+        "key": "H",
+        "text": "outset"
+      },
+      {
+        "key": "I",
+        "text": "overnight"
+      },
+      {
+        "key": "J",
+        "text": "perilous"
+      },
+      {
+        "key": "K",
+        "text": "prime"
+      },
+      {
+        "key": "L",
+        "text": "recognition"
+      },
+      {
+        "key": "M",
+        "text": "sensible"
+      },
+      {
+        "key": "N",
+        "text": "fierce"
+      },
+      {
+        "key": "O",
+        "text": "yearly"
+      }
+    ],
+    "answer": [
+      "I"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage4-blank8"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "c689e90d77c34b7eba061c4d66d22cd77e0bc7b1d418c16551a4688d2b5ad76f"
+  },
+  {
+    "id": "q_536e24112f3e0c35",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 4 blank (9): Future-proofing is one of the most important things any company can do to guarantee that it will be around for many years. However, from the (1) it is essential that any company wishing to implement change talk with both its employees and, when possible, with its(2)_customers or clients. It is not a(n) (3) _idea to implement change without consulting those who will be impacted the most. This mistake can leave the company in a(n) (4) _situation, as even a company's most loyal employees can sometimes show a(n) (5) _opposition to big changes. Opposition to change can occur for many reasons, but the (6) _reason is fear of change itself. Many people are (7) _by nature and this means that anything new is seen as a threat. Another aspect of future- proofing is making everyone aware that any change may not have a(n) (8) _effect. As the saying goes, “Change takes time.\" Setting realistic expectations for all those involved is really important. Companies who plan carefully and (9) change well will benefit in the long run. Those companies will also avoid the (10) off so many before them. If we look at the history of business, there are many businesses that were once leaders in their fields but no longer exist today.",
+    "options": [
+      {
+        "key": "A",
+        "text": "capacity"
+      },
+      {
+        "key": "B",
+        "text": "conservative"
+      },
+      {
+        "key": "C",
+        "text": "execute"
+      },
+      {
+        "key": "D",
+        "text": "fate"
+      },
+      {
+        "key": "E",
+        "text": "diverge"
+      },
+      {
+        "key": "F",
+        "text": "loyal"
+      },
+      {
+        "key": "G",
+        "text": "onward"
+      },
+      {
+        "key": "H",
+        "text": "outset"
+      },
+      {
+        "key": "I",
+        "text": "overnight"
+      },
+      {
+        "key": "J",
+        "text": "perilous"
+      },
+      {
+        "key": "K",
+        "text": "prime"
+      },
+      {
+        "key": "L",
+        "text": "recognition"
+      },
+      {
+        "key": "M",
+        "text": "sensible"
+      },
+      {
+        "key": "N",
+        "text": "fierce"
+      },
+      {
+        "key": "O",
+        "text": "yearly"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage4-blank9"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "536e24112f3e0c350f700c1cca49ff0280a03843cba86a7bc0fc8c8e8ca30436"
+  },
+  {
+    "id": "q_869547bce71ff161",
+    "subject": "english",
+    "type": "single_choice",
+    "question": "Passage 4 blank (10): Future-proofing is one of the most important things any company can do to guarantee that it will be around for many years. However, from the (1) it is essential that any company wishing to implement change talk with both its employees and, when possible, with its(2)_customers or clients. It is not a(n) (3) _idea to implement change without consulting those who will be impacted the most. This mistake can leave the company in a(n) (4) _situation, as even a company's most loyal employees can sometimes show a(n) (5) _opposition to big changes. Opposition to change can occur for many reasons, but the (6) _reason is fear of change itself. Many people are (7) _by nature and this means that anything new is seen as a threat. Another aspect of future- proofing is making everyone aware that any change may not have a(n) (8) _effect. As the saying goes, “Change takes time.\" Setting realistic expectations for all those involved is really important. Companies who plan carefully and (9) change well will benefit in the long run. Those companies will also avoid the (10) off so many before them. If we look at the history of business, there are many businesses that were once leaders in their fields but no longer exist today.",
+    "options": [
+      {
+        "key": "A",
+        "text": "capacity"
+      },
+      {
+        "key": "B",
+        "text": "conservative"
+      },
+      {
+        "key": "C",
+        "text": "execute"
+      },
+      {
+        "key": "D",
+        "text": "fate"
+      },
+      {
+        "key": "E",
+        "text": "diverge"
+      },
+      {
+        "key": "F",
+        "text": "loyal"
+      },
+      {
+        "key": "G",
+        "text": "onward"
+      },
+      {
+        "key": "H",
+        "text": "outset"
+      },
+      {
+        "key": "I",
+        "text": "overnight"
+      },
+      {
+        "key": "J",
+        "text": "perilous"
+      },
+      {
+        "key": "K",
+        "text": "prime"
+      },
+      {
+        "key": "L",
+        "text": "recognition"
+      },
+      {
+        "key": "M",
+        "text": "sensible"
+      },
+      {
+        "key": "N",
+        "text": "fierce"
+      },
+      {
+        "key": "O",
+        "text": "yearly"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "category": "english_review",
+    "source": [
+      "英语复习.docx#part2-passage4-blank10"
+    ],
+    "explanation": "",
+    "ocrConfidence": null,
+    "reviewStatus": "verified",
+    "fingerprint": "869547bce71ff161d40b271214d50cbecf4fb9ab6ecafe6ca5b4165052ac3b7e"
   }
 ]

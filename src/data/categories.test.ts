@@ -29,11 +29,22 @@ describe('categories', () => {
     ])).toEqual(['vocabulary']);
   });
 
+  it('labels English review questions', () => {
+    expect(categoryLabel.english_review).toBe('英语复习');
+  });
+
   it('keeps legacy categories when questions contain them', () => {
     expect(availableCategories([
       question('1', 'vocabulary'),
       question('2', 'news_english'),
       question('3', 'into_the_wild'),
     ])).toEqual(['vocabulary', 'news_english', 'into_the_wild']);
+  });
+
+  it('orders English review after vocabulary', () => {
+    expect(availableCategories([
+      question('1', 'english_review'),
+      question('2', 'vocabulary'),
+    ])).toEqual(['vocabulary', 'english_review']);
   });
 });

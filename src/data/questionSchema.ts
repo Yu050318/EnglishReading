@@ -1,6 +1,6 @@
-export type OptionKey = 'A' | 'B' | 'C' | 'D' | 'T' | 'F';
+export type OptionKey = 'A' | 'B' | 'C' | 'D' | 'E' | 'F' | 'G' | 'H' | 'I' | 'J' | 'K' | 'L' | 'M' | 'N' | 'O' | 'T';
 export type QuestionType = 'single_choice' | 'true_false' | 'multiple_choice' | 'short_answer';
-export type Category = 'news_english' | 'into_the_wild' | 'other' | 'vocabulary' | 'human_resources_review';
+export type Category = 'news_english' | 'into_the_wild' | 'other' | 'vocabulary' | 'english_review' | 'human_resources_review';
 export type ReviewStatus = 'verified' | 'needs_review';
 export type SubjectId = 'english' | 'human_resources';
 
@@ -22,10 +22,10 @@ export interface Question {
 }
 export interface ValidationResult { ok: boolean; errors: string[] }
 
-const optionKeys = new Set<OptionKey>(['A', 'B', 'C', 'D', 'T', 'F']);
+const optionKeys = new Set<OptionKey>(['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'T']);
 const subjects = new Set<SubjectId>(['english', 'human_resources']);
 const types = new Set<QuestionType>(['single_choice', 'true_false', 'multiple_choice', 'short_answer']);
-const categories = new Set<Category>(['news_english', 'into_the_wild', 'other', 'vocabulary', 'human_resources_review']);
+const categories = new Set<Category>(['news_english', 'into_the_wild', 'other', 'vocabulary', 'english_review', 'human_resources_review']);
 const statuses = new Set<ReviewStatus>(['verified', 'needs_review']);
 
 export function normalizeSubjectValue(value: unknown): SubjectId {
