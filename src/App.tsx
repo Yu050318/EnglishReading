@@ -1,9 +1,9 @@
 import React, { ChangeEvent, KeyboardEvent as ReactKeyboardEvent, useEffect, useMemo, useState } from 'react';
-import { NavLink, Route, Routes, useNavigate, useSearchParams } from 'react-router-dom';
+import { NavLink, Route, Routes, useLocation, useNavigate, useSearchParams } from 'react-router-dom';
 import { availableCategories, categoryLabel } from './data/categories';
 import type { OptionKey, Question, SubjectId } from './data/questionSchema';
 import { normalizeQuestionCollection, validateQuestionCollection } from './data/questionSchema';
-import { normalizeSubject, questionsForSubject, subjectLabel, subjectOrder } from './data/subjects';
+import { normalizeSubject, questionsForSubject, subjectLabel, subjectOrder, subjectSearch } from './data/subjects';
 import { buildMemorizeQueue, clampMemorizeIndex, parseMemorizeJump } from './features/memorize/memorize';
 import { buildQueue, filterQuestions, isCorrect } from './features/practice/practice';
 import { cloudStatusLabel, useCloudSync } from './store/useCloudSync';
@@ -137,7 +137,26 @@ function SubjectHead({ over, title, subject }: { over: string; title: string; su
     <div className="pagehead">
       <p className="eyebrow">{over}</p>
       <h1>{title}</h1>
-      <p className="subject-current">当前科目：{subjectLabel[subject]} · <NavLink to="/">切换科目</NavLink></p>
+      <SubjectSwitcher subject={subject} />
+    </div>
+  );
+}
+
+function SubjectSwitcher({ subject }: { subject: SubjectId }) {
+  const location = useLocation();
+  return (
+    <div className="subject-switcher" aria-label="当前科目">
+      <span>当前科目：</span>
+      {subjectOrder.map((item) => (
+        <NavLink
+          key={item}
+          to={{ pathname: location.pathname, search: subjectSearch(location.search, item) }}
+          className={item === subject ? 'active' : undefined}
+          aria-current={item === subject ? 'page' : undefined}
+        >
+          {subjectLabel[item]}
+        </NavLink>
+      ))}
     </div>
   );
 }

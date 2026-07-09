@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import type { Question } from './questionSchema';
-import { normalizeSubject, questionsForSubject, subjectLabel } from './subjects';
+import { normalizeSubject, questionsForSubject, subjectLabel, subjectSearch } from './subjects';
 
 const question = (id: string, subject?: Question['subject']): Question => ({
   id,
@@ -36,5 +36,10 @@ describe('subjects', () => {
 
     expect(questionsForSubject(items, 'english').map((item) => item.id)).toEqual(['old', 'english']);
     expect(questionsForSubject(items, 'human_resources').map((item) => item.id)).toEqual(['hr']);
+  });
+
+  it('builds a subject search string while preserving other query params', () => {
+    expect(subjectSearch('?subject=english&foo=1', 'human_resources')).toBe('?subject=human_resources&foo=1');
+    expect(subjectSearch('', 'english')).toBe('?subject=english');
   });
 });

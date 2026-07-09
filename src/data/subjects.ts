@@ -20,3 +20,9 @@ export function availableSubjects(questions: Question[]): SubjectId[] {
   const present = new Set(questions.map((question) => normalizeSubject(question.subject)));
   return subjectOrder.filter((subject) => present.has(subject));
 }
+
+export function subjectSearch(currentSearch: string, subject: SubjectId): string {
+  const params = new URLSearchParams(currentSearch);
+  params.set('subject', subject);
+  return `?${params.toString()}`;
+}
